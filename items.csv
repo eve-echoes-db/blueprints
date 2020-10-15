@@ -1,0 +1,516 @@
+Type,Name,Tech,Count,Cost,Time
+Frigate,Griffin,4,1,200000,1000
+Frigate,Bantam,5,1,550000,2000
+Frigate,Bantam II,6,1,2500000,4000
+Frigate,Condor II,4,1,200000,1000
+Frigate,Condor Interceptor,8,1,9000000,16000
+Frigate,Condor II Interceptor,10,1,35000000,32000
+Frigate,Merlin Assault,7,1,5500000,8000
+Frigate,Manticore,6,1,2500000,4000
+Frigate,Manticore II,9,1,15000000,24000
+Frigate,Heron Covert Ops,5,1,650000,2000
+Frigate,Vigil,4,1,200000,1000
+Frigate,Burst,5,1,500000,2000
+Frigate,Burst II,6,1,2500000,4000
+Frigate,Slasher II,4,1,200000,1000
+Frigate,Slasher Interceptor,8,1,8500000,16000
+Frigate,Slasher II Interceptor,10,1,40000000,32000
+Frigate,Breacher Assault,7,1,5500000,8000
+Frigate,Hound,6,1,2500000,4000
+Frigate,Hound II,9,1,15000000,24000
+Frigate,Probe Covert Ops,5,1,600000,2000
+Frigate,Crucifier,4,1,200000,1000
+Frigate,Inquisitor,5,1,550000,2000
+Frigate,Inquisitor II,6,1,2500000,4000
+Frigate,Executioner II,4,1,200000,1000
+Frigate,Executioner Interceptor,8,1,9000000,16000
+Frigate,Executioner II Interceptor,10,1,35000000,32000
+Frigate,Punisher Assault,7,1,6000000,8000
+Frigate,Purifier,6,1,2500000,4000
+Frigate,Purifier II,9,1,15000000,24000
+Frigate,Magnate Covert Ops,5,1,600000,2000
+Frigate,Maulus,4,1,200000,1000
+Frigate,Navitas,5,1,550000,2000
+Frigate,Navitas II,6,1,2500000,4000
+Frigate,Atron II,4,1,200000,1000
+Frigate,Atron Interceptor,8,1,9000000,16000
+Frigate,Atron II Interceptor,10,1,35000000,32000
+Frigate,Incursus Assault,7,1,5500000,8000
+Frigate,Nemesis,6,1,2500000,4000
+Frigate,Nemesis II,9,1,15000000,24000
+Frigate,Imicus Covert Ops,5,1,650000,2000
+Frigate,Worm,6,1,55000000,36000
+Frigate,Dramiel,6,1,55000000,36000
+Frigate,Cruor,6,1,55000000,36000
+Frigate,Astero,6,1,55000000,36000
+Frigate,Garmur,6,1,55000000,36000
+Frigate,Succubus,6,1,55000000,36000
+Frigate,Daredevil,6,1,55000000,36000
+Destroyer,Cormorant Guardian,5,1,850000,3000
+Destroyer,Corax,4,1,300000,1500
+Destroyer,Cormorant II,4,1,250000,1500
+Destroyer,Cormorant Navy Issue,5,1,850000,3000
+Destroyer,Corax Assault,7,1,8500000,12000
+Destroyer,Corax Sniper,6,1,3500000,6000
+Destroyer,Cormorant Covert Ops,10,1,55000000,48000
+Destroyer,Thrasher Guardian,5,1,900000,3000
+Destroyer,Talwar,4,1,250000,1500
+Destroyer,Thrasher II,4,1,250000,1500
+Destroyer,Thrasher Fleet Issue,5,1,950000,3000
+Destroyer,Talwar Assault,7,1,7500000,12000
+Destroyer,Talwar Sniper,6,1,3500000,6000
+Destroyer,Thrasher Covert Ops,10,1,55000000,48000
+Destroyer,Coercer Guardian,5,1,900000,3000
+Destroyer,Dragoon,4,1,250000,1500
+Destroyer,Coercer II,4,1,250000,1500
+Destroyer,Coercer Navy Issue,5,1,900000,3000
+Destroyer,Dragoon Assault,7,1,8500000,12000
+Destroyer,Dragoon Sniper,6,1,3500000,6000
+Destroyer,Coercer Covert Ops,10,1,55000000,48000
+Destroyer,Catalyst Guardian,5,1,850000,3000
+Destroyer,Algos,4,1,250000,1500
+Destroyer,Catalyst II,4,1,250000,1500
+Destroyer,Catalyst Navy Issue,5,1,900000,3000
+Destroyer,Algos Assault,7,1,8500000,12000
+Destroyer,Algos Sniper,6,1,3500000,6000
+Destroyer,Catalyst Covert Ops,10,1,50000000,48000
+Cruiser,Moa Guardian,7,1,20000000,16000
+Cruiser,Moa II Guardian,8,1,30000000,32000
+Cruiser,Blackbird,6,1,6500000,8000
+Cruiser,Osprey,7,1,20000000,16000
+Cruiser,Caracal,5,1,2000000,4000
+Cruiser,Moa,6,1,6500000,8000
+Cruiser,Caracal Navy Issue,6,1,7000000,8000
+Cruiser,Caracal Sniper,8,1,30000000,32000
+Cruiser,Blackbird Covert Ops,7,1,20000000,16000
+Cruiser,Blackbird II Covert Ops,9,1,45000000,48000
+Cruiser,Rupture Guardian,7,1,20000000,16000
+Cruiser,Rupture II Guardian,8,1,30000000,32000
+Cruiser,Bellicose,6,1,7000000,8000
+Cruiser,Scythe,7,1,20000000,16000
+Cruiser,Stabber,5,1,2000000,4000
+Cruiser,Stabber Fleet Issue,6,1,7500000,8000
+Cruiser,Rupture,6,1,6500000,8000
+Cruiser,Stabber Sniper,8,1,30000000,32000
+Cruiser,Bellicose Covert Ops,7,1,20000000,16000
+Cruiser,Bellicose II Covert Ops,9,1,45000000,48000
+Cruiser,Maller Guardian,7,1,20000000,16000
+Cruiser,Maller II Guardian,8,1,25000000,32000
+Cruiser,Arbitrator,6,1,7000000,8000
+Cruiser,Augoror,7,1,20000000,16000
+Cruiser,Omen,5,1,2000000,4000
+Cruiser,Maller,6,1,7000000,8000
+Cruiser,Omen Navy Issue,6,1,7000000,8000
+Cruiser,Omen Sniper,8,1,30000000,32000
+Cruiser,Arbitrator Covert Ops,7,1,20000000,16000
+Cruiser,Arbitrator II Covert Ops,9,1,45000000,48000
+Cruiser,Thorax Guardian,7,1,20000000,16000
+Cruiser,Thorax II Guardian,8,1,25000000,32000
+Cruiser,Celestis,6,1,7000000,8000
+Cruiser,Exequror,7,1,20000000,16000
+Cruiser,Vexor,5,1,2000000,4000
+Cruiser,Vexor Navy Issue,6,1,6500000,8000
+Cruiser,Thorax,6,1,7000000,8000
+Cruiser,Vexor Sniper,8,1,30000000,32000
+Cruiser,Celestis Covert Ops,7,1,20000000,16000
+Cruiser,Celestis II Covert Ops,9,1,45000000,48000
+Cruiser,Thorax Prototype,5,1,2000000,4000
+Cruiser,Gila,7,1,200000000,86400
+Cruiser,Cynabal,7,1,200000000,86400
+Cruiser,Ashimmu,7,1,200000000,86400
+Cruiser,Stratios,7,1,200000000,86400
+Cruiser,Orthrus,7,1,200000000,86400
+Cruiser,Phantasm,7,1,200000000,86400
+Cruiser,Vigilant,7,1,200000000,86400
+Battlecruiser,Ferox Guardian,9,1,65000000,72000
+Battlecruiser,Ferox II Guardian,10,1,200000000,96000
+Battlecruiser,Naga,8,1,40000000,48000
+Battlecruiser,Naga II,9,1,65000000,72000
+Battlecruiser,Drake Logistics,9,1,65000000,72000
+Battlecruiser,Ferox,7,1,25000000,24000
+Battlecruiser,Drake,8,1,40000000,48000
+Battlecruiser,Cyclone Guardian,9,1,70000000,72000
+Battlecruiser,Cyclone II Guardian,10,1,150000000,96000
+Battlecruiser,Tornado,8,1,40000000,48000
+Battlecruiser,Tornado II,9,1,70000000,72000
+Battlecruiser,Hurricane Logistics,9,1,65000000,72000
+Battlecruiser,Cyclone,7,1,25000000,24000
+Battlecruiser,Hurricane,8,1,40000000,48000
+Battlecruiser,Hurricane Prototype,7,1,25000000,24000
+Battlecruiser,Prophecy Guardian,9,1,70000000,72000
+Battlecruiser,Prophecy II Guardian,10,1,200000000,96000
+Battlecruiser,Oracle,8,1,40000000,48000
+Battlecruiser,Oracle II,9,1,70000000,72000
+Battlecruiser,Harbinger Logistics,9,1,70000000,72000
+Battlecruiser,Prophecy,7,1,25000000,24000
+Battlecruiser,Harbinger,8,1,40000000,48000
+Battlecruiser,Harbinger Prototype,7,1,25000000,24000
+Battlecruiser,Myrmidon Guardian,9,1,70000000,72000
+Battlecruiser,Myrmidon II Guardian,10,1,150000000,96000
+Battlecruiser,Talos,8,1,40000000,48000
+Battlecruiser,Talos II,9,1,65000000,72000
+Battlecruiser,Brutix Logistics,9,1,65000000,72000
+Battlecruiser,Myrmidon,7,1,25000000,24000
+Battlecruiser,Brutix,8,1,40000000,48000
+Battleship,Scorpion,9,1,100000000,96000
+Battleship,Raven Striker,10,1,250000000,128000
+Battleship,Rokh,9,1,100000000,96000
+Battleship,Raven,10,1,250000000,128000
+Battleship,Maelstrom Striker,10,1,250000000,128000
+Battleship,Maelstrom,9,1,95000000,96000
+Battleship,Typhoon,9,1,100000000,96000
+Battleship,Tempest,10,1,250000000,128000
+Battleship,Armageddon,9,1,95000000,96000
+Battleship,Apocalypse Striker,10,1,250000000,128000
+Battleship,Apocalypse,9,1,95000000,96000
+Battleship,Abaddon,10,1,250000000,128000
+Battleship,Megathron Striker,10,1,250000000,128000
+Battleship,Dominix,9,1,95000000,96000
+Battleship,Megathron,9,1,95000000,96000
+Battleship,Hyperion,10,1,250000000,128000
+Battleship,Rattlesnake,8,1,550000000,432000
+Battleship,Machariel,8,1,600000000,432000
+Battleship,Bhaalgorn,8,1,650000000,432000
+Battleship,Nestor,8,1,600000000,432000
+Battleship,Barghest,8,1,550000000,432000
+Battleship,Nightmare,8,1,600000000,432000
+Battleship,Vindicator,8,1,600000000,432000
+Industrial,Tayra,6,1,4500000,8000
+Industrial,Badger,8,1,20000000,32000
+Industrial,Badger II,10,1,60000000,64000
+Industrial,Wreathe,8,1,20000000,32000
+Industrial,Mammoth,6,1,4500000,8000
+Industrial,Wreathe II,10,1,60000000,64000
+Industrial,Bestower,6,1,4500000,8000
+Industrial,Sigil,8,1,20000000,32000
+Industrial,Sigil II,10,1,60000000,64000
+Industrial,Kryos,6,1,5000000,8000
+Industrial,Nereus,8,1,20000000,32000
+Industrial,Nereus II,10,1,60000000,64000
+Industrial,Nereus High Mobility,6,1,3000000,4000
+Industrial,Nereus Combat,7,1,7500000,8000
+Industrial,Nereus Hauling,8,1,15000000,16000
+Industrial,Imicus High Mobility,4,1,60000,1000
+Industrial,Humpback High Mobility,9,1,60000000,64000
+Industrial,Humpback Hauling,10,1,100000000,64000
+Industrial,Humpback Combat,10,1,100000000,64000
+Industrial,Retriever,7,1,15000000,8000
+Industrial,Procurer,9,1,30000000,24000
+Industrial,Covetor,10,1,70000000,32000
+Industrial,Venture,4,1,75000,500
+Industrial,Venture II,5,1,300000,1000
+Industrial,Venture III,6,1,1500000,2000
+Module,MK5 Cloaking Device,5,5,1500000,1500
+Module,MK7 Cloaking Device,7,5,2500000,2100
+Module,MK9 Cloaking Device,9,5,4000000,3600
+Module,MK5 Covert Ops Cloaking Device,5,5,5000000,1500
+Module,MK7 Covert Ops Cloaking Device,7,5,9500000,2100
+Module,MK9 Covert Ops Cloaking Device,9,5,15000000,3600
+Module,MK5 Small Shield Field Module,5,10,950000,1500
+Module,MK7 Small Shield Field Module,7,10,2000000,2100
+Module,MK9 Small Shield Field Module,9,10,3000000,3600
+Module,MK5 Medium Shield Field Module,5,5,2000000,1500
+Module,MK7 Medium Shield Field Module,7,5,4000000,2100
+Module,MK9 Medium Shield Field Module,9,5,6000000,3600
+Module,MK7 Large Shield Field Module,7,3,9500000,2100
+Module,MK9 Large Shield Field Module,9,3,15000000,3600
+Module,MK5 Small Armor Link Module,5,10,950000,1500
+Module,MK7 Small Armor Link Module,7,10,2000000,2100
+Module,MK9 Small Armor Link Module,9,10,3000000,3600
+Module,MK5 Medium Armor Link Module,5,5,2000000,1500
+Module,MK7 Medium Armor Link Module,7,5,4000000,2100
+Module,MK9 Medium Armor Link Module,9,5,6000000,3600
+Module,MK7 Large Armor Link Module,7,3,9500000,2100
+Module,MK9 Large Armor Link Module,9,3,15000000,3600
+Module,MK5 Small Group Shield Booster,5,10,750000,1500
+Module,MK7 Small Group Shield Booster,7,10,2000000,2100
+Module,MK9 Small Group Shield Booster,9,10,2500000,3600
+Module,MK5 Medium Group Shield Booster,5,5,1500000,1500
+Module,MK7 Medium Group Shield Booster,7,5,3500000,2100
+Module,MK9 Medium Group Shield Booster,9,5,5000000,3600
+Module,MK7 Large Group Shield Booster,7,3,7500000,2100
+Module,MK9 Large Group Shield Booster,9,3,15000000,3600
+Module,MK5 Small Group Armor Repairer,5,10,750000,1500
+Module,MK7 Small Group Armor Repairer,7,10,2000000,2100
+Module,MK9 Small Group Armor Repairer,9,10,2500000,3600
+Module,MK5 Medium Group Armor Repairer,5,5,1500000,1500
+Module,MK7 Medium Group Armor Repairer,7,5,3500000,2100
+Module,MK9 Medium Group Armor Repairer,9,5,5000000,3600
+Module,MK7 Large Group Armor Repairer,7,3,7500000,2100
+Module,MK9 Large Group Armor Repairer,9,3,15000000,3600
+Module,MK5 Small Group Capacitor Transmitter,5,10,750000,1500
+Module,MK7 Small Group Capacitor Transmitter,7,10,2000000,2100
+Module,MK9 Small Group Capacitor Transmitter,9,10,2500000,3600
+Module,MK5 Medium Group Capacitor Transmitter,5,5,1500000,1500
+Module,MK7 Medium Group Capacitor Transmitter,7,5,3500000,2100
+Module,MK9 Medium Group Capacitor Transmitter,9,5,5000000,3600
+Module,MK7 Large Group Capacitor Transmitter,7,3,7500000,2100
+Module,MK9 Large Group Capacitor Transmitter,9,3,15000000,3600
+Rig,Railgun Collision Accelerator I,4,1,15000,1800
+Rig,Railgun Collision Accelerator II,6,1,45000,9000
+Rig,Railgun Collision Accelerator III,8,1,200000,45000
+Rig,Railgun Ambit Extension I,4,1,15000,1800
+Rig,Railgun Ambit Extension II,6,1,40000,9000
+Rig,Railgun Ambit Extension III,8,1,150000,45000
+Rig,Railgun Discharge Elutriation I,4,1,7500,1800
+Rig,Railgun Discharge Elutriation II,6,1,25000,9000
+Rig,Railgun Discharge Elutriation III,8,1,90000,45000
+Rig,Railgun Burst Aerator I,4,1,15000,1800
+Rig,Railgun Burst Aerator II,6,1,45000,9000
+Rig,Railgun Burst Aerator III,8,1,200000,45000
+Rig,Algid Railgun Administrations Unit I,4,1,6500,1800
+Rig,Algid Railgun Administrations Unit II,6,1,25000,9000
+Rig,Algid Railgun Administrations Unit III,8,1,80000,45000
+Rig,Laser Collision Accelerator I,4,1,15000,1800
+Rig,Laser Collision Accelerator II,6,1,45000,9000
+Rig,Laser Collision Accelerator III,8,1,200000,45000
+Rig,Laser Ambit Extension I,4,1,15000,1800
+Rig,Laser Ambit Extension II,6,1,40000,9000
+Rig,Laser Ambit Extension III,8,1,150000,45000
+Rig,Laser Discharge Elutriation I,4,1,7500,1800
+Rig,Laser Discharge Elutriation II,6,1,25000,9000
+Rig,Laser Discharge Elutriation III,8,1,90000,45000
+Rig,Laser Burst Aerator I,4,1,15000,1800
+Rig,Laser Burst Aerator II,6,1,45000,9000
+Rig,Laser Burst Aerator III,8,1,200000,45000
+Rig,Algid Energy Administrations Unit I,4,1,6500,1800
+Rig,Algid Energy Administrations Unit II,6,1,25000,9000
+Rig,Algid Energy Administrations Unit III,8,1,80000,45000
+Rig,Cannon Collision Accelerator I,4,1,15000,1800
+Rig,Cannon Collision Accelerator II,6,1,45000,9000
+Rig,Cannon Collision Accelerator III,8,1,200000,45000
+Rig,Cannon Ambit Extension I,4,1,15000,1800
+Rig,Cannon Ambit Extension II,6,1,40000,9000
+Rig,Cannon Ambit Extension III,8,1,150000,45000
+Rig,Cannon Burst Aerator I,4,1,15000,1800
+Rig,Cannon Burst Aerator II,6,1,45000,9000
+Rig,Cannon Burst Aerator III,8,1,200000,45000
+Rig,Cannon Metastasis Adjuster I,4,1,6500,1800
+Rig,Cannon Metastasis Adjuster II,6,1,25000,9000
+Rig,Cannon Metastasis Adjuster III,8,1,80000,45000
+Rig,Decomposer Collision Accelerator I,4,1,45000,1800
+Rig,Decomposer Collision Accelerator II,6,1,150000,9000
+Rig,Decomposer Collision Accelerator III,8,1,300000,45000
+Rig,Decomposer Ambit Extension I,4,1,40000,1800
+Rig,Decomposer Ambit Extension II,6,1,95000,9000
+Rig,Decomposer Ambit Extension III,8,1,250000,45000
+Rig,Decomposer Discharge Elutriation I,4,1,25000,1800
+Rig,Decomposer Discharge Elutriation II,6,1,60000,9000
+Rig,Decomposer Discharge Elutriation III,8,1,150000,45000
+Rig,Decomposer Burst Aerator I,4,1,45000,1800
+Rig,Decomposer Burst Aerator II,6,1,150000,9000
+Rig,Decomposer Burst Aerator III,8,1,300000,45000
+Rig,Decomposer Algid Hybrid Administrations Unit I,4,1,25000,1800
+Rig,Decomposer Algid Hybrid Administrations Unit II,6,1,55000,9000
+Rig,Decomposer Algid Hybrid Administrations Unit III,8,1,150000,45000
+Rig,Warhead Flare Catalyst I,4,1,15000,1800
+Rig,Warhead Flare Catalyst II,6,1,35000,9000
+Rig,Warhead Flare Catalyst III,8,1,150000,45000
+Rig,Warhead Calefaction Catalyst I,4,1,15000,1800
+Rig,Warhead Calefaction Catalyst II,6,1,45000,9000
+Rig,Warhead Calefaction Catalyst III,8,1,200000,45000
+Rig,Warhead Rigor Catalyst I,4,1,15000,1800
+Rig,Warhead Rigor Catalyst II,6,1,40000,9000
+Rig,Warhead Rigor Catalyst III,8,1,150000,45000
+Rig,Rocket Fuel Cache Partition I,4,1,8000,1800
+Rig,Rocket Fuel Cache Partition II,6,1,30000,9000
+Rig,Rocket Fuel Cache Partition III,8,1,100000,45000
+Rig,Hydraulic Bay Thrusters I,4,1,7500,1800
+Rig,Hydraulic Bay Thrusters II,6,1,25000,9000
+Rig,Hydraulic Bay Thrusters III,8,1,95000,45000
+Rig,Bay Loading Accelerator I,4,1,15000,1800
+Rig,Bay Loading Accelerator II,6,1,45000,9000
+Rig,Bay Loading Accelerator III,8,1,200000,45000
+Rig,Core Defense Operational Solidifier I,4,1,6500,1800
+Rig,Core Defense Operational Solidifier II,6,1,25000,9000
+Rig,Core Defense Operational Solidifier III,8,1,80000,45000
+Rig,Core Defense Charge Economizer I,4,1,10000,1800
+Rig,Core Defense Charge Economizer II,6,1,35000,9000
+Rig,Core Defense Charge Economizer III,8,1,150000,45000
+Rig,Core Defense Capacitor Safeguard I,4,1,9000,1800
+Rig,Core Defense Capacitor Safeguard II,6,1,30000,9000
+Rig,Core Defense Capacitor Safeguard III,8,1,150000,45000
+Rig,Core Defense Field Extender I,4,1,15000,1800
+Rig,Core Defense Field Extender II,6,1,45000,9000
+Rig,Core Defense Field Extender III,8,1,200000,45000
+Rig,Anti-Explosive Screen Reinforcer I,4,1,10000,1800
+Rig,Anti-Explosive Screen Reinforcer II,6,1,35000,9000
+Rig,Anti-Explosive Screen Reinforcer III,8,1,150000,45000
+Rig,Anti-EM Screen Reinforcer I,4,1,10000,1800
+Rig,Anti-EM Screen Reinforcer II,6,1,35000,9000
+Rig,Anti-EM Screen Reinforcer III,8,1,150000,45000
+Rig,Anti-Kinetic Screen Reinforcer I,4,1,10000,1800
+Rig,Anti-Kinetic Screen Reinforcer II,6,1,35000,9000
+Rig,Anti-Kinetic Screen Reinforcer III,8,1,150000,45000
+Rig,Anti-Thermal Screen Reinforcer I,4,1,10000,1800
+Rig,Anti-Thermal Screen Reinforcer II,6,1,35000,9000
+Rig,Anti-Thermal Screen Reinforcer III,8,1,150000,45000
+Rig,Nanobot Accelerator I,4,1,7000,1800
+Rig,Nanobot Accelerator II,6,1,25000,9000
+Rig,Nanobot Accelerator III,8,1,80000,45000
+Rig,Auxiliary Nano Pump I,4,1,10000,1800
+Rig,Auxiliary Nano Pump II,6,1,35000,9000
+Rig,Auxiliary Nano Pump III,8,1,150000,45000
+Rig,Repair Augmentor I,4,1,9000,1800
+Rig,Repair Augmentor II,6,1,30000,9000
+Rig,Repair Augmentor III,8,1,150000,45000
+Rig,Trimark Armor Pump I,4,1,15000,1800
+Rig,Trimark Armor Pump II,6,1,45000,9000
+Rig,Trimark Armor Pump III,8,1,200000,45000
+Rig,Anti-Explosive Pump I,4,1,10000,1800
+Rig,Anti-Explosive Pump II,6,1,35000,9000
+Rig,Anti-Explosive Pump III,8,1,150000,45000
+Rig,Anti-EM Pump I,4,1,10000,1800
+Rig,Anti-EM Pump II,6,1,35000,9000
+Rig,Anti-EM Pump III,8,1,150000,45000
+Rig,Anti-Kinetic Pump I,4,1,10000,1800
+Rig,Anti-Kinetic Pump II,6,1,35000,9000
+Rig,Anti-Kinetic Pump III,8,1,150000,45000
+Rig,Anti-Thermal Pump I,4,1,10000,1800
+Rig,Anti-Thermal Pump II,6,1,35000,9000
+Rig,Anti-Thermal Pump III,8,1,150000,45000
+Rig,Dynamic Fuel Valve I,4,1,7500,1800
+Rig,Dynamic Fuel Valve II,6,1,25000,9000
+Rig,Dynamic Fuel Valve III,8,1,90000,45000
+Rig,Auxiliary Thrusters I,4,1,15000,1800
+Rig,Auxiliary Thrusters II,6,1,45000,9000
+Rig,Auxiliary Thrusters III,8,1,200000,45000
+Rig,Polycarbon Engine Housing I,4,1,15000,1800
+Rig,Polycarbon Engine Housing II,6,1,35000,9000
+Rig,Polycarbon Engine Housing III,8,1,150000,45000
+Rig,Cargohold Optimization I,4,1,15000,1800
+Rig,Cargohold Optimization II,6,1,40000,9000
+Rig,Cargohold Optimization III,8,1,150000,45000
+Rig,Higgs Anchor I,4,1,20000,1800
+Rig,Higgs Anchor II,6,1,55000,9000
+Rig,Higgs Anchor III,8,1,250000,45000
+Rig,Warp Core Optimizer I,4,1,15000,1800
+Rig,Warp Core Optimizer II,6,1,40000,9000
+Rig,Warp Core Optimizer III,8,1,150000,45000
+Rig,Hyperspatial Velocity Optimizer I,4,1,15000,1800
+Rig,Hyperspatial Velocity Optimizer II,6,1,45000,9000
+Rig,Hyperspatial Velocity Optimizer III,8,1,200000,45000
+Rig,Semiconductor Memory Cell I,4,1,15000,1800
+Rig,Semiconductor Memory Cell II,6,1,40000,9000
+Rig,Semiconductor Memory Cell III,8,1,150000,45000
+Rig,Capacitor Control Circuit I,4,1,15000,1800
+Rig,Capacitor Control Circuit II,6,1,40000,9000
+Rig,Capacitor Control Circuit III,8,1,150000,45000
+Rig,Ancillary Powergrid Router I,4,1,8000,1800
+Rig,Ancillary Powergrid Router II,6,1,30000,9000
+Rig,Ancillary Powergrid Router III,8,1,100000,45000
+Rig,Targeting System Subcontroller I,4,1,7500,1800
+Rig,Targeting System Subcontroller II,6,1,25000,9000
+Rig,Targeting System Subcontroller III,8,1,90000,45000
+Rig,Gravity Capacitor Upgrade I,4,1,6500,1800
+Rig,Gravity Capacitor Upgrade II,6,1,25000,9000
+Rig,Gravity Capacitor Upgrade III,8,1,80000,45000
+Rig,Emission Scope Sharpener I,4,1,5000,1800
+Rig,Emission Scope Sharpener II,6,1,20000,9000
+Rig,Emission Scope Sharpener III,8,1,60000,45000
+Rig,Miner Efficiency Upgrade I,4,1,15000,1800
+Rig,Miner Efficiency Upgrade II,6,1,45000,9000
+Rig,Miner Efficiency Upgrade III,8,1,200000,45000
+Rig,Miner Circulation Accelerator I,4,1,15000,1800
+Rig,Miner Circulation Accelerator II,6,1,40000,9000
+Rig,Miner Circulation Accelerator III,8,1,150000,45000
+Rig,Miner Range Controller I,4,1,7500,1800
+Rig,Miner Range Controller II,6,1,25000,9000
+Rig,Miner Range Controller III,8,1,90000,45000
+Rig,Miner Algid Optimizer I,4,1,8000,1800
+Rig,Miner Algid Optimizer II,6,1,30000,9000
+Rig,Miner Algid Optimizer III,8,1,100000,45000
+Rig,Transverse Bulkhead I,4,1,25000,1800
+Rig,Transverse Bulkhead II,6,1,70000,9000
+Rig,Transverse Bulkhead III,8,1,300000,45000
+Rig,Anti-Explosive Transverse Bulkhead I,4,1,15000,1800
+Rig,Anti-Explosive Transverse Bulkhead II,6,1,50000,9000
+Rig,Anti-Explosive Transverse Bulkhead III,8,1,200000,45000
+Rig,Anti-EM Transverse Bulkhead I,4,1,15000,1800
+Rig,Anti-EM Transverse Bulkhead II,6,1,50000,9000
+Rig,Anti-EM Transverse Bulkhead III,8,1,200000,45000
+Rig,Anti-Kinetic Transverse Bulkhead I,4,1,15000,1800
+Rig,Anti-Kinetic Transverse Bulkhead II,6,1,50000,9000
+Rig,Anti-Kinetic Transverse Bulkhead III,8,1,200000,45000
+Rig,Anti-Thermal Transverse Bulkhead I,4,1,15000,1800
+Rig,Anti-Thermal Transverse Bulkhead II,6,1,50000,9000
+Rig,Anti-Thermal Transverse Bulkhead III,8,1,200000,45000
+Rig,Sentry Damage Augmentor I,4,1,15000,1800
+Rig,Sentry Damage Augmentor II,6,1,35000,9000
+Rig,Sentry Damage Augmentor III,8,1,150000,45000
+Rig,Drone Scope Chip I,4,1,9500,1800
+Rig,Drone Scope Chip II,6,1,35000,9000
+Rig,Drone Scope Chip III,8,1,150000,45000
+Rig,Drone Speed Augmentor I,4,1,15000,1800
+Rig,Drone Speed Augmentor II,6,1,40000,9000
+Rig,Drone Speed Augmentor III,8,1,150000,45000
+Rig,Drone Control Range Augmentor I,4,1,15000,1800
+Rig,Drone Control Range Augmentor II,6,1,40000,9000
+Rig,Drone Control Range Augmentor III,8,1,150000,45000
+Drone,MK3 Acolyte,3,10,250000,600
+Drone,MK5 Acolyte,5,10,850000,1500
+Drone,MK7 Acolyte,7,10,2000000,2100
+Drone,MK9 Acolyte,9,10,3500000,3600
+Drone,MK3 Hornet,3,10,250000,600
+Drone,MK5 Hornet,5,10,850000,1500
+Drone,MK7 Hornet,7,10,2000000,2100
+Drone,MK9 Hornet,9,10,3500000,3600
+Drone,MK3 Hobgoblin,3,10,250000,600
+Drone,MK5 Hobgoblin,5,10,850000,1500
+Drone,MK7 Hobgoblin,7,10,2000000,2100
+Drone,MK9 Hobgoblin,9,10,3500000,3600
+Drone,MK3 Warrior,3,10,250000,600
+Drone,MK5 Warrior,5,10,850000,1500
+Drone,MK7 Warrior,7,10,2000000,2100
+Drone,MK9 Warrior,9,10,3500000,3600
+Drone,MK5 Infiltrator,5,5,850000,1500
+Drone,MK7 Infiltrator,7,5,2000000,2100
+Drone,MK9 Infiltrator,9,5,3500000,3600
+Drone,MK5 Vespa,5,5,850000,1500
+Drone,MK7 Vespa,7,5,2000000,2100
+Drone,MK9 Vespa,9,5,3500000,3600
+Drone,MK5 Hammerhead,5,5,850000,1500
+Drone,MK7 Hammerhead,7,5,2000000,2100
+Drone,MK9 Hammerhead,9,5,3500000,3600
+Drone,MK5 Valkyrie,5,5,850000,1500
+Drone,MK7 Valkyrie,7,5,2000000,2100
+Drone,MK9 Valkyrie,9,5,3500000,3600
+Drone,MK7 Praetor,7,3,5000000,2100
+Drone,MK9 Praetor,9,3,8000000,3600
+Drone,MK7 Wasp,7,3,5000000,2100
+Drone,MK9 Wasp,9,3,8000000,3600
+Drone,MK7 Ogre,7,3,5000000,2100
+Drone,MK9 Ogre,9,3,8000000,3600
+Drone,MK7 Berserker,7,3,5000000,2100
+Drone,MK9 Berserker,9,3,8000000,3600
+Drone,MK7 Curator,7,3,6000000,2100
+Drone,MK9 Curator,9,3,10000000,3600
+Drone,MK7 Warden,7,3,6000000,2100
+Drone,MK9 Warden,9,3,10000000,3600
+Drone,MK7 Guard,7,3,6000000,2100
+Drone,MK9 Guard,9,3,10000000,3600
+Drone,MK7 Bouncer,7,3,6000000,2100
+Drone,MK9 Bouncer,9,3,10000000,3600
+Structure,Capsuleer Outpost,6,1,450000000,600000
+Structure,Standard Standup Small Missile Launcher,6,1,9500000,21600
+Structure,Standard Standup Medium Missile Launcher,6,1,9500000,21600
+Structure,Standard Standup Large Missile Launcher,6,1,9500000,21600
+Structure,Standard Standup Stasis Webifier,6,1,15000000,21600
+Structure,Standard Standup Warp Disruptor,6,1,15000000,21600
+Structure,Standard Standup Energy Neutralizer,6,1,15000000,21600
+Structure,Industry Service Center,6,1,50000000,21600
+Structure,Structure Construction Parts,6,1,20000000,86400
+Structure,Structure Hangar Array,6,1,20000000,86400
+Structure,Structure Storage Bay,6,1,20000000,86400
+Structure,Structure Laboratory,6,1,20000000,86400
+Structure,Structure Factory,6,1,20000000,86400
+Structure,Structure Repair Facility,6,1,20000000,86400
+Structure,Structure Reprocessing Plant,6,1,20000000,86400
+Structure,Structure Docking Bay,6,1,20000000,86400
+Structure,Structure Market Network,6,1,20000000,86400
+Structure,Structure Medical Center,6,1,20000000,86400
+Structure,Structure Office Center,6,1,20000000,86400
+Structure,Structure Mission Network,6,1,20000000,86400
+Structure,Structure Electromagnetic Sensor,6,1,20000000,86400
+Structure,Structure Acceleration Coils,6,1,20000000,86400
+Structure,Structure Advertisement Nexus,6,1,20000000,86400
