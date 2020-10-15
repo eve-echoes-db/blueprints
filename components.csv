@@ -1,5 +1,4 @@
 Type,Name,Component,Amount
-Frigate,Griffin,Griffin Blueprint,1
 Frigate,Griffin,Tritanium,38634
 Frigate,Griffin,Pyerite,9642
 Frigate,Griffin,Mexallon,3519
@@ -8,7 +7,6 @@ Frigate,Griffin,Gleaming Alloy,706
 Frigate,Griffin,Motley Compound,706
 Frigate,Griffin,Base Metals,211
 Frigate,Griffin,Noble Metals,800
-Frigate,Bantam,Bantam Blueprint,1
 Frigate,Bantam,Tritanium,162785
 Frigate,Bantam,Pyerite,45857
 Frigate,Bantam,Mexallon,13226
@@ -18,7 +16,6 @@ Frigate,Bantam,Gleaming Alloy,958
 Frigate,Bantam,Motley Compound,958
 Frigate,Bantam,Base Metals,286
 Frigate,Bantam,Noble Metals,1086
-Frigate,Bantam II,Bantam II Blueprint,1
 Frigate,Bantam II,Tritanium,567139
 Frigate,Bantam II,Pyerite,160753
 Frigate,Bantam II,Mexallon,50387
@@ -29,7 +26,6 @@ Frigate,Bantam II,Gleaming Alloy,3084
 Frigate,Bantam II,Fiber Composite,3494
 Frigate,Bantam II,Reactive Metals,869
 Frigate,Bantam II,Noble Metals,3494
-Frigate,Condor II,Condor II Blueprint,1
 Frigate,Condor II,Tritanium,38195
 Frigate,Condor II,Pyerite,9533
 Frigate,Condor II,Mexallon,3479
@@ -38,7 +34,6 @@ Frigate,Condor II,Gleaming Alloy,698
 Frigate,Condor II,Motley Compound,698
 Frigate,Condor II,Base Metals,208
 Frigate,Condor II,Noble Metals,791
-Frigate,Condor Interceptor,Condor Interceptor Blueprint,1
 Frigate,Condor Interceptor,Tritanium,1645247
 Frigate,Condor Interceptor,Pyerite,569344
 Frigate,Condor Interceptor,Mexallon,155976
@@ -51,7 +46,6 @@ Frigate,Condor Interceptor,Precious Alloy,3932
 Frigate,Condor Interceptor,Fiber Composite,5017
 Frigate,Condor Interceptor,Reactive Metals,1248
 Frigate,Condor Interceptor,Noble Metals,5017
-Frigate,Condor II Interceptor,Condor II Interceptor Blueprint,1
 Frigate,Condor II Interceptor,Tritanium,6616157
 Frigate,Condor II Interceptor,Pyerite,1619490
 Frigate,Condor II Interceptor,Mexallon,625053
@@ -64,7 +58,6 @@ Frigate,Condor II Interceptor,Precious Alloy,14094
 Frigate,Condor II Interceptor,Fiber Composite,17987
 Frigate,Condor II Interceptor,Reactive Metals,4473
 Frigate,Condor II Interceptor,Noble Metals,17987
-Frigate,Merlin Assault,Merlin Assault Blueprint,1
 Frigate,Merlin Assault,Tritanium,1332759
 Frigate,Merlin Assault,Pyerite,339920
 Frigate,Merlin Assault,Mexallon,112371
@@ -76,7 +69,6 @@ Frigate,Merlin Assault,Precious Alloy,3530
 Frigate,Merlin Assault,Fiber Composite,4504
 Frigate,Merlin Assault,Reactive Metals,1120
 Frigate,Merlin Assault,Noble Metals,4504
-Frigate,Manticore,Manticore Blueprint,1
 Frigate,Manticore,Tritanium,584551
 Frigate,Manticore,Pyerite,165689
 Frigate,Manticore,Mexallon,51934
@@ -87,7 +79,6 @@ Frigate,Manticore,Gleaming Alloy,3179
 Frigate,Manticore,Fiber Composite,3601
 Frigate,Manticore,Reactive Metals,896
 Frigate,Manticore,Noble Metals,3601
-Frigate,Manticore II,Manticore II Blueprint,1
 Frigate,Manticore II,Tritanium,2788068
 Frigate,Manticore II,Pyerite,797378
 Frigate,Manticore II,Mexallon,284014
@@ -100,7 +91,6 @@ Frigate,Manticore II,Precious Alloy,10172
 Frigate,Manticore II,Fiber Composite,12981
 Frigate,Manticore II,Reactive Metals,3228
 Frigate,Manticore II,Noble Metals,12981
-Frigate,Heron Covert Ops,Heron Covert Ops Blueprint,1
 Frigate,Heron Covert Ops,Tritanium,187931
 Frigate,Heron Covert Ops,Pyerite,52941
 Frigate,Heron Covert Ops,Mexallon,15270
@@ -110,7 +100,6 @@ Frigate,Heron Covert Ops,Gleaming Alloy,1106
 Frigate,Heron Covert Ops,Motley Compound,1106
 Frigate,Heron Covert Ops,Base Metals,330
 Frigate,Heron Covert Ops,Noble Metals,1253
-Frigate,Vigil,Vigil Blueprint,1
 Frigate,Vigil,Tritanium,40779
 Frigate,Vigil,Pyerite,8243
 Frigate,Vigil,Mexallon,3321
@@ -119,7 +108,6 @@ Frigate,Vigil,Gleaming Alloy,729
 Frigate,Vigil,Motley Compound,729
 Frigate,Vigil,Base Metals,218
 Frigate,Vigil,Noble Metals,826
-Frigate,Burst,Burst Blueprint,1
 Frigate,Burst,Tritanium,162723
 Frigate,Burst,Pyerite,37124
 Frigate,Burst,Mexallon,11823
@@ -129,7 +117,6 @@ Frigate,Burst,Gleaming Alloy,938
 Frigate,Burst,Motley Compound,938
 Frigate,Burst,Base Metals,280
 Frigate,Burst,Noble Metals,1062
-Frigate,Burst II,Burst II Blueprint,1
 Frigate,Burst II,Tritanium,575596
 Frigate,Burst II,Pyerite,132129
 Frigate,Burst II,Mexallon,45730
@@ -140,7 +127,6 @@ Frigate,Burst II,Gleaming Alloy,3064
 Frigate,Burst II,Fiber Composite,3471
 Frigate,Burst II,Reactive Metals,864
 Frigate,Burst II,Noble Metals,3471
-Frigate,Slasher II,Slasher II Blueprint,1
 Frigate,Slasher II,Tritanium,39389
 Frigate,Slasher II,Pyerite,7962
 Frigate,Slasher II,Mexallon,3208
@@ -149,7 +135,6 @@ Frigate,Slasher II,Gleaming Alloy,705
 Frigate,Slasher II,Motley Compound,705
 Frigate,Slasher II,Base Metals,210
 Frigate,Slasher II,Noble Metals,798
-Frigate,Slasher Interceptor,Slasher Interceptor Blueprint,1
 Frigate,Slasher Interceptor,Tritanium,1612402
 Frigate,Slasher Interceptor,Pyerite,451882
 Frigate,Slasher Interceptor,Mexallon,136694
@@ -162,7 +147,6 @@ Frigate,Slasher Interceptor,Precious Alloy,3772
 Frigate,Slasher Interceptor,Fiber Composite,4814
 Frigate,Slasher Interceptor,Reactive Metals,1197
 Frigate,Slasher Interceptor,Noble Metals,4814
-Frigate,Slasher II Interceptor,Slasher II Interceptor Blueprint,1
 Frigate,Slasher II Interceptor,Tritanium,6573327
 Frigate,Slasher II Interceptor,Pyerite,2112479
 Frigate,Slasher II Interceptor,Mexallon,582554
@@ -175,7 +159,6 @@ Frigate,Slasher II Interceptor,Precious Alloy,13880
 Frigate,Slasher II Interceptor,Fiber Composite,17713
 Frigate,Slasher II Interceptor,Reactive Metals,4405
 Frigate,Slasher II Interceptor,Noble Metals,17713
-Frigate,Breacher Assault,Breacher Assault Blueprint,1
 Frigate,Breacher Assault,Tritanium,1339143
 Frigate,Breacher Assault,Pyerite,276605
 Frigate,Breacher Assault,Mexallon,100967
@@ -187,7 +170,6 @@ Frigate,Breacher Assault,Precious Alloy,3472
 Frigate,Breacher Assault,Fiber Composite,4430
 Frigate,Breacher Assault,Reactive Metals,1102
 Frigate,Breacher Assault,Noble Metals,4430
-Frigate,Hound,Hound Blueprint,1
 Frigate,Hound,Tritanium,550461
 Frigate,Hound,Pyerite,126359
 Frigate,Hound,Mexallon,43733
@@ -198,7 +180,6 @@ Frigate,Hound,Gleaming Alloy,2930
 Frigate,Hound,Fiber Composite,3320
 Frigate,Hound,Reactive Metals,826
 Frigate,Hound,Noble Metals,3320
-Frigate,Hound II,Hound II Blueprint,1
 Frigate,Hound II,Tritanium,2737098
 Frigate,Hound II,Pyerite,798066
 Frigate,Hound II,Mexallon,249692
@@ -211,7 +192,6 @@ Frigate,Hound II,Precious Alloy,9130
 Frigate,Hound II,Fiber Composite,11651
 Frigate,Hound II,Reactive Metals,2897
 Frigate,Hound II,Noble Metals,11651
-Frigate,Probe Covert Ops,Probe Covert Ops Blueprint,1
 Frigate,Probe Covert Ops,Tritanium,185970
 Frigate,Probe Covert Ops,Pyerite,42427
 Frigate,Probe Covert Ops,Mexallon,13512
@@ -221,7 +201,6 @@ Frigate,Probe Covert Ops,Gleaming Alloy,1072
 Frigate,Probe Covert Ops,Motley Compound,1072
 Frigate,Probe Covert Ops,Base Metals,320
 Frigate,Probe Covert Ops,Noble Metals,1214
-Frigate,Crucifier,Crucifier Blueprint,1
 Frigate,Crucifier,Tritanium,48980
 Frigate,Crucifier,Pyerite,8096
 Frigate,Crucifier,Mexallon,3258
@@ -230,7 +209,6 @@ Frigate,Crucifier,Sheen Compound,743
 Frigate,Crucifier,Motley Compound,694
 Frigate,Crucifier,Base Metals,207
 Frigate,Crucifier,Heavy Metals,743
-Frigate,Inquisitor,Inquisitor Blueprint,1
 Frigate,Inquisitor,Tritanium,204157
 Frigate,Inquisitor,Pyerite,38089
 Frigate,Inquisitor,Mexallon,12114
@@ -240,7 +218,6 @@ Frigate,Inquisitor,Sheen Compound,997
 Frigate,Inquisitor,Motley Compound,931
 Frigate,Inquisitor,Base Metals,278
 Frigate,Inquisitor,Heavy Metals,997
-Frigate,Inquisitor II,Inquisitor II Blueprint,1
 Frigate,Inquisitor II,Tritanium,743214
 Frigate,Inquisitor II,Pyerite,139515
 Frigate,Inquisitor II,Mexallon,48222
@@ -251,7 +228,6 @@ Frigate,Inquisitor II,Sheen Compound,3353
 Frigate,Inquisitor II,Fiber Composite,3549
 Frigate,Inquisitor II,Heavy Metals,3353
 Frigate,Inquisitor II,Reactive Metals,883
-Frigate,Executioner II,Executioner II Blueprint,1
 Frigate,Executioner II,Tritanium,49543
 Frigate,Executioner II,Pyerite,8189
 Frigate,Executioner II,Mexallon,3296
@@ -260,7 +236,6 @@ Frigate,Executioner II,Sheen Compound,751
 Frigate,Executioner II,Motley Compound,702
 Frigate,Executioner II,Base Metals,210
 Frigate,Executioner II,Heavy Metals,751
-Frigate,Executioner Interceptor,Executioner Interceptor Blueprint,1
 Frigate,Executioner Interceptor,Tritanium,2097627
 Frigate,Executioner Interceptor,Pyerite,480738
 Frigate,Executioner Interceptor,Mexallon,145228
@@ -273,7 +248,6 @@ Frigate,Executioner Interceptor,Precious Alloy,3885
 Frigate,Executioner Interceptor,Fiber Composite,4957
 Frigate,Executioner Interceptor,Heavy Metals,4684
 Frigate,Executioner Interceptor,Reactive Metals,1233
-Frigate,Executioner II Interceptor,Executioner II Interceptor Blueprint,1
 Frigate,Executioner II Interceptor,Tritanium,7802069
 Frigate,Executioner II Interceptor,Pyerite,1933166
 Frigate,Executioner II Interceptor,Mexallon,637386
@@ -286,7 +260,6 @@ Frigate,Executioner II Interceptor,Precious Alloy,13509
 Frigate,Executioner II Interceptor,Fiber Composite,17240
 Frigate,Executioner II Interceptor,Heavy Metals,16289
 Frigate,Executioner II Interceptor,Reactive Metals,4287
-Frigate,Punisher Assault,Punisher Assault Blueprint,1
 Frigate,Punisher Assault,Tritanium,1861121
 Frigate,Punisher Assault,Pyerite,314367
 Frigate,Punisher Assault,Mexallon,114597
@@ -298,7 +271,6 @@ Frigate,Punisher Assault,Precious Alloy,3820
 Frigate,Punisher Assault,Fiber Composite,4875
 Frigate,Punisher Assault,Heavy Metals,4606
 Frigate,Punisher Assault,Reactive Metals,1212
-Frigate,Purifier,Purifier Blueprint,1
 Frigate,Purifier,Tritanium,708425
 Frigate,Purifier,Pyerite,132985
 Frigate,Purifier,Mexallon,45964
@@ -309,7 +281,6 @@ Frigate,Purifier,Sheen Compound,3196
 Frigate,Purifier,Fiber Composite,3382
 Frigate,Purifier,Heavy Metals,3196
 Frigate,Purifier,Reactive Metals,841
-Frigate,Purifier II,Purifier II Blueprint,1
 Frigate,Purifier II,Tritanium,2933503
 Frigate,Purifier II,Pyerite,648228
 Frigate,Purifier II,Mexallon,243299
@@ -322,7 +293,6 @@ Frigate,Purifier II,Precious Alloy,9313
 Frigate,Purifier II,Fiber Composite,11885
 Frigate,Purifier II,Heavy Metals,11230
 Frigate,Purifier II,Reactive Metals,2956
-Frigate,Magnate Covert Ops,Magnate Covert Ops Blueprint,1
 Frigate,Magnate Covert Ops,Tritanium,226274
 Frigate,Magnate Covert Ops,Pyerite,42215
 Frigate,Magnate Covert Ops,Mexallon,13426
@@ -332,7 +302,6 @@ Frigate,Magnate Covert Ops,Sheen Compound,1105
 Frigate,Magnate Covert Ops,Motley Compound,1032
 Frigate,Magnate Covert Ops,Base Metals,308
 Frigate,Magnate Covert Ops,Heavy Metals,1105
-Frigate,Maulus,Maulus Blueprint,1
 Frigate,Maulus,Tritanium,36363
 Frigate,Maulus,Pyerite,8757
 Frigate,Maulus,Mexallon,3316
@@ -341,7 +310,6 @@ Frigate,Maulus,Sheen Compound,719
 Frigate,Maulus,Motley Compound,672
 Frigate,Maulus,Base Metals,201
 Frigate,Maulus,Heavy Metals,719
-Frigate,Navitas,Navitas Blueprint,1
 Frigate,Navitas,Tritanium,163076
 Frigate,Navitas,Pyerite,44328
 Frigate,Navitas,Mexallon,13265
@@ -351,7 +319,6 @@ Frigate,Navitas,Sheen Compound,1039
 Frigate,Navitas,Motley Compound,970
 Frigate,Navitas,Base Metals,290
 Frigate,Navitas,Heavy Metals,1039
-Frigate,Navitas II,Navitas II Blueprint,1
 Frigate,Navitas II,Tritanium,548634
 Frigate,Navitas II,Pyerite,150053
 Frigate,Navitas II,Mexallon,48799
@@ -362,7 +329,6 @@ Frigate,Navitas II,Sheen Compound,3228
 Frigate,Navitas II,Fiber Composite,3417
 Frigate,Navitas II,Heavy Metals,3228
 Frigate,Navitas II,Reactive Metals,850
-Frigate,Atron II,Atron II Blueprint,1
 Frigate,Atron II,Tritanium,36363
 Frigate,Atron II,Pyerite,8757
 Frigate,Atron II,Mexallon,3316
@@ -371,7 +337,6 @@ Frigate,Atron II,Sheen Compound,719
 Frigate,Atron II,Motley Compound,672
 Frigate,Atron II,Base Metals,201
 Frigate,Atron II,Heavy Metals,719
-Frigate,Atron Interceptor,Atron Interceptor Blueprint,1
 Frigate,Atron Interceptor,Tritanium,1592919
 Frigate,Atron Interceptor,Pyerite,531899
 Frigate,Atron Interceptor,Mexallon,151189
@@ -384,7 +349,6 @@ Frigate,Atron Interceptor,Precious Alloy,3848
 Frigate,Atron Interceptor,Fiber Composite,4910
 Frigate,Atron Interceptor,Heavy Metals,4640
 Frigate,Atron Interceptor,Reactive Metals,1221
-Frigate,Atron II Interceptor,Atron II Interceptor Blueprint,1
 Frigate,Atron II Interceptor,Tritanium,7516250
 Frigate,Atron II Interceptor,Pyerite,1571187
 Frigate,Atron II Interceptor,Mexallon,663493
@@ -397,7 +361,6 @@ Frigate,Atron II Interceptor,Precious Alloy,13413
 Frigate,Atron II Interceptor,Fiber Composite,17117
 Frigate,Atron II Interceptor,Heavy Metals,16173
 Frigate,Atron II Interceptor,Reactive Metals,4256
-Frigate,Incursus Assault,Incursus Assault Blueprint,1
 Frigate,Incursus Assault,Tritanium,1341390
 Frigate,Incursus Assault,Pyerite,330120
 Frigate,Incursus Assault,Mexallon,113229
@@ -409,7 +372,6 @@ Frigate,Incursus Assault,Precious Alloy,3591
 Frigate,Incursus Assault,Fiber Composite,4583
 Frigate,Incursus Assault,Heavy Metals,4330
 Frigate,Incursus Assault,Reactive Metals,1140
-Frigate,Nemesis,Nemesis Blueprint,1
 Frigate,Nemesis,Tritanium,563396
 Frigate,Nemesis,Pyerite,154091
 Frigate,Nemesis,Mexallon,50112
@@ -420,7 +382,6 @@ Frigate,Nemesis,Sheen Compound,3315
 Frigate,Nemesis,Fiber Composite,3509
 Frigate,Nemesis,Heavy Metals,3315
 Frigate,Nemesis,Reactive Metals,873
-Frigate,Nemesis II,Nemesis II Blueprint,1
 Frigate,Nemesis II,Tritanium,3290006
 Frigate,Nemesis II,Pyerite,737830
 Frigate,Nemesis II,Mexallon,259206
@@ -433,7 +394,6 @@ Frigate,Nemesis II,Precious Alloy,9384
 Frigate,Nemesis II,Fiber Composite,11976
 Frigate,Nemesis II,Heavy Metals,11315
 Frigate,Nemesis II,Reactive Metals,2978
-Frigate,Imicus Covert Ops,Imicus Covert Ops Blueprint,1
 Frigate,Imicus Covert Ops,Tritanium,192244
 Frigate,Imicus Covert Ops,Pyerite,52256
 Frigate,Imicus Covert Ops,Mexallon,15638
@@ -443,7 +403,6 @@ Frigate,Imicus Covert Ops,Sheen Compound,1225
 Frigate,Imicus Covert Ops,Motley Compound,1144
 Frigate,Imicus Covert Ops,Base Metals,341
 Frigate,Imicus Covert Ops,Heavy Metals,1225
-Frigate,Worm,Worm Blueprint,1
 Frigate,Worm,Tritanium,13729037
 Frigate,Worm,Pyerite,4116171
 Frigate,Worm,Mexallon,1350259
@@ -454,7 +413,6 @@ Frigate,Worm,Precious Alloy,23665
 Frigate,Worm,Fiber Composite,30200
 Frigate,Worm,Reactive Metals,7509
 Frigate,Worm,Toxic Metals,7448
-Frigate,Dramiel,Dramiel Blueprint,1
 Frigate,Dramiel,Tritanium,14042281
 Frigate,Dramiel,Pyerite,3409566
 Frigate,Dramiel,Mexallon,1234992
@@ -465,7 +423,6 @@ Frigate,Dramiel,Precious Alloy,23695
 Frigate,Dramiel,Fiber Composite,30239
 Frigate,Dramiel,Reactive Metals,7519
 Frigate,Dramiel,Toxic Metals,7457
-Frigate,Cruor,Cruor Blueprint,1
 Frigate,Cruor,Tritanium,16951751
 Frigate,Cruor,Pyerite,3365928
 Frigate,Cruor,Mexallon,1217548
@@ -476,7 +433,6 @@ Frigate,Cruor,Precious Alloy,22645
 Frigate,Cruor,Fiber Composite,28899
 Frigate,Cruor,Reactive Metals,7186
 Frigate,Cruor,Toxic Metals,7127
-Frigate,Astero,Astero Blueprint,1
 Frigate,Astero,Tritanium,14227048
 Frigate,Astero,Pyerite,3454428
 Frigate,Astero,Mexallon,1251242
@@ -487,7 +443,6 @@ Frigate,Astero,Precious Alloy,24007
 Frigate,Astero,Fiber Composite,30637
 Frigate,Astero,Reactive Metals,7618
 Frigate,Astero,Toxic Metals,7555
-Frigate,Garmur,Garmur Blueprint,1
 Frigate,Garmur,Tritanium,13363336
 Frigate,Garmur,Pyerite,4006528
 Frigate,Garmur,Mexallon,1314292
@@ -498,7 +453,6 @@ Frigate,Garmur,Precious Alloy,23034
 Frigate,Garmur,Fiber Composite,29396
 Frigate,Garmur,Reactive Metals,7309
 Frigate,Garmur,Toxic Metals,7249
-Frigate,Succubus,Succubus Blueprint,1
 Frigate,Succubus,Tritanium,17281100
 Frigate,Succubus,Pyerite,3431323
 Frigate,Succubus,Mexallon,1241203
@@ -509,7 +463,6 @@ Frigate,Succubus,Precious Alloy,23085
 Frigate,Succubus,Fiber Composite,29461
 Frigate,Succubus,Reactive Metals,7325
 Frigate,Succubus,Toxic Metals,7265
-Frigate,Daredevil,Daredevil Blueprint,1
 Frigate,Daredevil,Tritanium,13518575
 Frigate,Daredevil,Pyerite,3910893
 Frigate,Daredevil,Mexallon,1331088
@@ -520,7 +473,6 @@ Frigate,Daredevil,Precious Alloy,23555
 Frigate,Daredevil,Fiber Composite,30060
 Frigate,Daredevil,Reactive Metals,7475
 Frigate,Daredevil,Toxic Metals,7413
-Destroyer,Cormorant Guardian,Cormorant Guardian Blueprint,1
 Destroyer,Cormorant Guardian,Tritanium,264691
 Destroyer,Cormorant Guardian,Pyerite,74565
 Destroyer,Cormorant Guardian,Mexallon,21506
@@ -530,7 +482,6 @@ Destroyer,Cormorant Guardian,Gleaming Alloy,1558
 Destroyer,Cormorant Guardian,Motley Compound,1558
 Destroyer,Cormorant Guardian,Base Metals,465
 Destroyer,Cormorant Guardian,Noble Metals,1765
-Destroyer,Corax,Corax Blueprint,1
 Destroyer,Corax,Tritanium,59268
 Destroyer,Corax,Pyerite,14792
 Destroyer,Corax,Mexallon,5398
@@ -539,7 +490,6 @@ Destroyer,Corax,Gleaming Alloy,1083
 Destroyer,Corax,Motley Compound,1083
 Destroyer,Corax,Base Metals,323
 Destroyer,Corax,Noble Metals,1227
-Destroyer,Cormorant II,Cormorant II Blueprint,1
 Destroyer,Cormorant II,Tritanium,57073
 Destroyer,Cormorant II,Pyerite,14244
 Destroyer,Cormorant II,Mexallon,5198
@@ -548,7 +498,6 @@ Destroyer,Cormorant II,Gleaming Alloy,1043
 Destroyer,Cormorant II,Motley Compound,1043
 Destroyer,Cormorant II,Base Metals,311
 Destroyer,Cormorant II,Noble Metals,1181
-Destroyer,Cormorant Navy Issue,Cormorant Navy Issue Blueprint,1
 Destroyer,Cormorant Navy Issue,Tritanium,262044
 Destroyer,Cormorant Navy Issue,Pyerite,73819
 Destroyer,Cormorant Navy Issue,Mexallon,21291
@@ -558,7 +507,6 @@ Destroyer,Cormorant Navy Issue,Gleaming Alloy,1542
 Destroyer,Cormorant Navy Issue,Motley Compound,1542
 Destroyer,Cormorant Navy Issue,Base Metals,460
 Destroyer,Cormorant Navy Issue,Noble Metals,1747
-Destroyer,Corax Assault,Corax Assault Blueprint,1
 Destroyer,Corax Assault,Tritanium,2121717
 Destroyer,Corax Assault,Pyerite,541143
 Destroyer,Corax Assault,Mexallon,178891
@@ -570,7 +518,6 @@ Destroyer,Corax Assault,Precious Alloy,5619
 Destroyer,Corax Assault,Lucent Compound,6775
 Destroyer,Corax Assault,Reactive Metals,1783
 Destroyer,Corax Assault,Noble Metals,7170
-Destroyer,Corax Sniper,Corax Sniper Blueprint,1
 Destroyer,Corax Sniper,Tritanium,830809
 Destroyer,Corax Sniper,Pyerite,235490
 Destroyer,Corax Sniper,Mexallon,73813
@@ -581,7 +528,6 @@ Destroyer,Corax Sniper,Gleaming Alloy,4517
 Destroyer,Corax Sniper,Lucent Compound,4836
 Destroyer,Corax Sniper,Reactive Metals,1273
 Destroyer,Corax Sniper,Noble Metals,5118
-Destroyer,Cormorant Covert Ops,Cormorant Covert Ops Blueprint,1
 Destroyer,Cormorant Covert Ops,Tritanium,9702959
 Destroyer,Cormorant Covert Ops,Pyerite,2375071
 Destroyer,Cormorant Covert Ops,Mexallon,916674
@@ -594,7 +540,6 @@ Destroyer,Cormorant Covert Ops,Precious Alloy,20670
 Destroyer,Cormorant Covert Ops,Lucent Compound,24923
 Destroyer,Cormorant Covert Ops,Reactive Metals,6559
 Destroyer,Cormorant Covert Ops,Noble Metals,26378
-Destroyer,Thrasher Guardian,Thrasher Guardian Blueprint,1
 Destroyer,Thrasher Guardian,Tritanium,284424
 Destroyer,Thrasher Guardian,Pyerite,64889
 Destroyer,Thrasher Guardian,Mexallon,20665
@@ -604,7 +549,6 @@ Destroyer,Thrasher Guardian,Gleaming Alloy,1639
 Destroyer,Thrasher Guardian,Motley Compound,1639
 Destroyer,Thrasher Guardian,Base Metals,489
 Destroyer,Thrasher Guardian,Noble Metals,1857
-Destroyer,Talwar,Talwar Blueprint,1
 Destroyer,Talwar,Tritanium,58851
 Destroyer,Talwar,Pyerite,11895
 Destroyer,Talwar,Mexallon,4793
@@ -613,7 +557,6 @@ Destroyer,Talwar,Gleaming Alloy,1053
 Destroyer,Talwar,Motley Compound,1053
 Destroyer,Talwar,Base Metals,314
 Destroyer,Talwar,Noble Metals,1192
-Destroyer,Thrasher II,Thrasher II Blueprint,1
 Destroyer,Thrasher II,Tritanium,61631
 Destroyer,Thrasher II,Pyerite,12457
 Destroyer,Thrasher II,Mexallon,5020
@@ -622,7 +565,6 @@ Destroyer,Thrasher II,Gleaming Alloy,1102
 Destroyer,Thrasher II,Motley Compound,1102
 Destroyer,Thrasher II,Base Metals,329
 Destroyer,Thrasher II,Noble Metals,1249
-Destroyer,Thrasher Fleet Issue,Thrasher Fleet Issue Blueprint,1
 Destroyer,Thrasher Fleet Issue,Tritanium,293996
 Destroyer,Thrasher Fleet Issue,Pyerite,67072
 Destroyer,Thrasher Fleet Issue,Mexallon,21361
@@ -632,7 +574,6 @@ Destroyer,Thrasher Fleet Issue,Gleaming Alloy,1694
 Destroyer,Thrasher Fleet Issue,Motley Compound,1694
 Destroyer,Thrasher Fleet Issue,Base Metals,505
 Destroyer,Thrasher Fleet Issue,Noble Metals,1919
-Destroyer,Talwar Assault,Talwar Assault Blueprint,1
 Destroyer,Talwar Assault,Tritanium,1839631
 Destroyer,Talwar Assault,Pyerite,379983
 Destroyer,Talwar Assault,Mexallon,138702
@@ -644,7 +585,6 @@ Destroyer,Talwar Assault,Precious Alloy,4769
 Destroyer,Talwar Assault,Lucent Compound,5750
 Destroyer,Talwar Assault,Reactive Metals,1514
 Destroyer,Talwar Assault,Noble Metals,6086
-Destroyer,Talwar Sniper,Talwar Sniper Blueprint,1
 Destroyer,Talwar Sniper,Tritanium,831975
 Destroyer,Talwar Sniper,Pyerite,190980
 Destroyer,Talwar Sniper,Mexallon,66098
@@ -655,7 +595,6 @@ Destroyer,Talwar Sniper,Gleaming Alloy,4429
 Destroyer,Talwar Sniper,Lucent Compound,4741
 Destroyer,Talwar Sniper,Reactive Metals,1248
 Destroyer,Talwar Sniper,Noble Metals,5017
-Destroyer,Thrasher Covert Ops,Thrasher Covert Ops Blueprint,1
 Destroyer,Thrasher Covert Ops,Tritanium,9784310
 Destroyer,Thrasher Covert Ops,Pyerite,3144397
 Destroyer,Thrasher Covert Ops,Mexallon,867124
@@ -668,7 +607,6 @@ Destroyer,Thrasher Covert Ops,Precious Alloy,20660
 Destroyer,Thrasher Covert Ops,Lucent Compound,24912
 Destroyer,Thrasher Covert Ops,Reactive Metals,6556
 Destroyer,Thrasher Covert Ops,Noble Metals,26366
-Destroyer,Coercer Guardian,Coercer Guardian Blueprint,1
 Destroyer,Coercer Guardian,Tritanium,348769
 Destroyer,Coercer Guardian,Pyerite,65068
 Destroyer,Coercer Guardian,Mexallon,20695
@@ -678,7 +616,6 @@ Destroyer,Coercer Guardian,Sheen Compound,1703
 Destroyer,Coercer Guardian,Motley Compound,1591
 Destroyer,Coercer Guardian,Base Metals,475
 Destroyer,Coercer Guardian,Heavy Metals,1703
-Destroyer,Dragoon,Dragoon Blueprint,1
 Destroyer,Dragoon,Tritanium,69811
 Destroyer,Dragoon,Pyerite,11539
 Destroyer,Dragoon,Mexallon,4644
@@ -687,7 +624,6 @@ Destroyer,Dragoon,Sheen Compound,1058
 Destroyer,Dragoon,Motley Compound,988
 Destroyer,Dragoon,Base Metals,295
 Destroyer,Dragoon,Heavy Metals,1058
-Destroyer,Coercer II,Coercer II Blueprint,1
 Destroyer,Coercer II,Tritanium,71500
 Destroyer,Coercer II,Pyerite,11818
 Destroyer,Coercer II,Mexallon,4756
@@ -696,7 +632,6 @@ Destroyer,Coercer II,Sheen Compound,1084
 Destroyer,Coercer II,Motley Compound,1012
 Destroyer,Coercer II,Base Metals,302
 Destroyer,Coercer II,Heavy Metals,1084
-Destroyer,Coercer Navy Issue,Coercer Navy Issue Blueprint,1
 Destroyer,Coercer Navy Issue,Tritanium,347067
 Destroyer,Coercer Navy Issue,Pyerite,64751
 Destroyer,Coercer Navy Issue,Mexallon,20594
@@ -706,7 +641,6 @@ Destroyer,Coercer Navy Issue,Sheen Compound,1695
 Destroyer,Coercer Navy Issue,Motley Compound,1583
 Destroyer,Coercer Navy Issue,Base Metals,472
 Destroyer,Coercer Navy Issue,Heavy Metals,1695
-Destroyer,Dragoon Assault,Dragoon Assault Blueprint,1
 Destroyer,Dragoon Assault,Tritanium,2704442
 Destroyer,Dragoon Assault,Pyerite,456814
 Destroyer,Dragoon Assault,Mexallon,166523
@@ -718,7 +652,6 @@ Destroyer,Dragoon Assault,Precious Alloy,5550
 Destroyer,Dragoon Assault,Lucent Compound,6692
 Destroyer,Dragoon Assault,Heavy Metals,6692
 Destroyer,Dragoon Assault,Reactive Metals,1762
-Destroyer,Dragoon Sniper,Dragoon Sniper Blueprint,1
 Destroyer,Dragoon Sniper,Tritanium,1122727
 Destroyer,Dragoon Sniper,Pyerite,210757
 Destroyer,Dragoon Sniper,Mexallon,72845
@@ -729,7 +662,6 @@ Destroyer,Dragoon Sniper,Sheen Compound,5065
 Destroyer,Dragoon Sniper,Lucent Compound,5065
 Destroyer,Dragoon Sniper,Heavy Metals,5065
 Destroyer,Dragoon Sniper,Reactive Metals,1333
-Destroyer,Coercer Covert Ops,Coercer Covert Ops Blueprint,1
 Destroyer,Coercer Covert Ops,Tritanium,11591270
 Destroyer,Coercer Covert Ops,Pyerite,2872039
 Destroyer,Coercer Covert Ops,Mexallon,946942
@@ -742,7 +674,6 @@ Destroyer,Coercer Covert Ops,Precious Alloy,20070
 Destroyer,Coercer Covert Ops,Lucent Compound,24200
 Destroyer,Coercer Covert Ops,Heavy Metals,24200
 Destroyer,Coercer Covert Ops,Reactive Metals,6369
-Destroyer,Catalyst Guardian,Catalyst Guardian Blueprint,1
 Destroyer,Catalyst Guardian,Tritanium,267815
 Destroyer,Catalyst Guardian,Pyerite,72798
 Destroyer,Catalyst Guardian,Mexallon,21785
@@ -752,7 +683,6 @@ Destroyer,Catalyst Guardian,Sheen Compound,1706
 Destroyer,Catalyst Guardian,Motley Compound,1593
 Destroyer,Catalyst Guardian,Base Metals,475
 Destroyer,Catalyst Guardian,Heavy Metals,1706
-Destroyer,Algos,Algos Blueprint,1
 Destroyer,Algos,Tritanium,58706
 Destroyer,Algos,Pyerite,14138
 Destroyer,Algos,Mexallon,5353
@@ -761,7 +691,6 @@ Destroyer,Algos,Sheen Compound,1161
 Destroyer,Algos,Motley Compound,1084
 Destroyer,Algos,Base Metals,324
 Destroyer,Algos,Heavy Metals,1161
-Destroyer,Catalyst II,Catalyst II Blueprint,1
 Destroyer,Catalyst II,Tritanium,55201
 Destroyer,Catalyst II,Pyerite,13294
 Destroyer,Catalyst II,Mexallon,5034
@@ -770,7 +699,6 @@ Destroyer,Catalyst II,Sheen Compound,1091
 Destroyer,Catalyst II,Motley Compound,1019
 Destroyer,Catalyst II,Base Metals,304
 Destroyer,Catalyst II,Heavy Metals,1091
-Destroyer,Catalyst Navy Issue,Catalyst Navy Issue Blueprint,1
 Destroyer,Catalyst Navy Issue,Tritanium,269141
 Destroyer,Catalyst Navy Issue,Pyerite,73159
 Destroyer,Catalyst Navy Issue,Mexallon,21893
@@ -780,7 +708,6 @@ Destroyer,Catalyst Navy Issue,Sheen Compound,1714
 Destroyer,Catalyst Navy Issue,Motley Compound,1601
 Destroyer,Catalyst Navy Issue,Base Metals,478
 Destroyer,Catalyst Navy Issue,Heavy Metals,1714
-Destroyer,Algos Assault,Algos Assault Blueprint,1
 Destroyer,Algos Assault,Tritanium,2040671
 Destroyer,Algos Assault,Pyerite,502215
 Destroyer,Algos Assault,Mexallon,172256
@@ -792,7 +719,6 @@ Destroyer,Algos Assault,Precious Alloy,5463
 Destroyer,Algos Assault,Lucent Compound,6587
 Destroyer,Algos Assault,Heavy Metals,6587
 Destroyer,Algos Assault,Reactive Metals,1734
-Destroyer,Algos Sniper,Algos Sniper Blueprint,1
 Destroyer,Algos Sniper,Tritanium,890608
 Destroyer,Algos Sniper,Pyerite,243584
 Destroyer,Algos Sniper,Mexallon,79217
@@ -803,7 +729,6 @@ Destroyer,Algos Sniper,Sheen Compound,5240
 Destroyer,Algos Sniper,Lucent Compound,5240
 Destroyer,Algos Sniper,Heavy Metals,5240
 Destroyer,Algos Sniper,Reactive Metals,1379
-Destroyer,Catalyst Covert Ops,Catalyst Covert Ops Blueprint,1
 Destroyer,Catalyst Covert Ops,Tritanium,11522236
 Destroyer,Catalyst Covert Ops,Pyerite,2408593
 Destroyer,Catalyst Covert Ops,Mexallon,1017119
@@ -816,7 +741,6 @@ Destroyer,Catalyst Covert Ops,Precious Alloy,20561
 Destroyer,Catalyst Covert Ops,Lucent Compound,24792
 Destroyer,Catalyst Covert Ops,Heavy Metals,24792
 Destroyer,Catalyst Covert Ops,Reactive Metals,6525
-Cruiser,Moa Guardian,Moa Guardian Blueprint,1
 Cruiser,Moa Guardian,Tritanium,4256805
 Cruiser,Moa Guardian,Pyerite,1085697
 Cruiser,Moa Guardian,Mexallon,358909
@@ -828,7 +752,6 @@ Cruiser,Moa Guardian,Precious Alloy,11272
 Cruiser,Moa Guardian,Opulent Compound,14385
 Cruiser,Moa Guardian,Reactive Metals,3577
 Cruiser,Moa Guardian,Noble Metals,14385
-Cruiser,Moa II Guardian,Moa II Guardian Blueprint,1
 Cruiser,Moa II Guardian,Tritanium,5082637
 Cruiser,Moa II Guardian,Pyerite,1758865
 Cruiser,Moa II Guardian,Mexallon,481853
@@ -841,7 +764,6 @@ Cruiser,Moa II Guardian,Precious Alloy,12145
 Cruiser,Moa II Guardian,Opulent Compound,15498
 Cruiser,Moa II Guardian,Reactive Metals,3854
 Cruiser,Moa II Guardian,Noble Metals,15498
-Cruiser,Blackbird,Blackbird Blueprint,1
 Cruiser,Blackbird,Tritanium,1659130
 Cruiser,Blackbird,Pyerite,470273
 Cruiser,Blackbird,Mexallon,147404
@@ -852,7 +774,6 @@ Cruiser,Blackbird,Gleaming Alloy,9021
 Cruiser,Blackbird,Opulent Compound,10221
 Cruiser,Blackbird,Reactive Metals,2542
 Cruiser,Blackbird,Noble Metals,10221
-Cruiser,Osprey,Osprey Blueprint,1
 Cruiser,Osprey,Tritanium,4140913
 Cruiser,Osprey,Pyerite,1056139
 Cruiser,Osprey,Mexallon,349138
@@ -864,7 +785,6 @@ Cruiser,Osprey,Precious Alloy,10965
 Cruiser,Osprey,Opulent Compound,13993
 Cruiser,Osprey,Reactive Metals,3480
 Cruiser,Osprey,Noble Metals,13993
-Cruiser,Caracal,Caracal Blueprint,1
 Cruiser,Caracal,Tritanium,553203
 Cruiser,Caracal,Pyerite,155840
 Cruiser,Caracal,Mexallon,44947
@@ -874,7 +794,6 @@ Cruiser,Caracal,Gleaming Alloy,3255
 Cruiser,Caracal,Motley Compound,3255
 Cruiser,Caracal,Base Metals,971
 Cruiser,Caracal,Noble Metals,3688
-Cruiser,Moa,Moa Blueprint,1
 Cruiser,Moa,Tritanium,1674055
 Cruiser,Moa,Pyerite,474504
 Cruiser,Moa,Mexallon,148730
@@ -885,7 +804,6 @@ Cruiser,Moa,Gleaming Alloy,9102
 Cruiser,Moa,Opulent Compound,10312
 Cruiser,Moa,Reactive Metals,2564
 Cruiser,Moa,Noble Metals,10312
-Cruiser,Caracal Navy Issue,Caracal Navy Issue Blueprint,1
 Cruiser,Caracal Navy Issue,Tritanium,1703904
 Cruiser,Caracal Navy Issue,Pyerite,482964
 Cruiser,Caracal Navy Issue,Mexallon,151382
@@ -896,7 +814,6 @@ Cruiser,Caracal Navy Issue,Gleaming Alloy,9264
 Cruiser,Caracal Navy Issue,Opulent Compound,10496
 Cruiser,Caracal Navy Issue,Reactive Metals,2610
 Cruiser,Caracal Navy Issue,Noble Metals,10496
-Cruiser,Caracal Sniper,Caracal Sniper Blueprint,1
 Cruiser,Caracal Sniper,Tritanium,4832912
 Cruiser,Caracal Sniper,Pyerite,1672447
 Cruiser,Caracal Sniper,Mexallon,458178
@@ -909,7 +826,6 @@ Cruiser,Caracal Sniper,Precious Alloy,11548
 Cruiser,Caracal Sniper,Opulent Compound,14737
 Cruiser,Caracal Sniper,Reactive Metals,3665
 Cruiser,Caracal Sniper,Noble Metals,14737
-Cruiser,Blackbird Covert Ops,Blackbird Covert Ops Blueprint,1
 Cruiser,Blackbird Covert Ops,Tritanium,4189944
 Cruiser,Blackbird Covert Ops,Pyerite,1068644
 Cruiser,Blackbird Covert Ops,Mexallon,353272
@@ -921,7 +837,6 @@ Cruiser,Blackbird Covert Ops,Precious Alloy,11095
 Cruiser,Blackbird Covert Ops,Opulent Compound,14159
 Cruiser,Blackbird Covert Ops,Reactive Metals,3521
 Cruiser,Blackbird Covert Ops,Noble Metals,14159
-Cruiser,Blackbird II Covert Ops,Blackbird II Covert Ops Blueprint,1
 Cruiser,Blackbird II Covert Ops,Tritanium,8163755
 Cruiser,Blackbird II Covert Ops,Pyerite,2334804
 Cruiser,Blackbird II Covert Ops,Mexallon,831623
@@ -934,7 +849,6 @@ Cruiser,Blackbird II Covert Ops,Precious Alloy,29784
 Cruiser,Blackbird II Covert Ops,Opulent Compound,38009
 Cruiser,Blackbird II Covert Ops,Reactive Metals,9451
 Cruiser,Blackbird II Covert Ops,Noble Metals,38009
-Cruiser,Rupture Guardian,Rupture Guardian Blueprint,1
 Cruiser,Rupture Guardian,Tritanium,4017429
 Cruiser,Rupture Guardian,Pyerite,829815
 Cruiser,Rupture Guardian,Mexallon,302900
@@ -946,7 +860,6 @@ Cruiser,Rupture Guardian,Precious Alloy,10414
 Cruiser,Rupture Guardian,Opulent Compound,13290
 Cruiser,Rupture Guardian,Reactive Metals,3305
 Cruiser,Rupture Guardian,Noble Metals,13290
-Cruiser,Rupture II Guardian,Rupture II Guardian Blueprint,1
 Cruiser,Rupture II Guardian,Tritanium,5136723
 Cruiser,Rupture II Guardian,Pyerite,1439586
 Cruiser,Rupture II Guardian,Mexallon,435473
@@ -959,7 +872,6 @@ Cruiser,Rupture II Guardian,Precious Alloy,12015
 Cruiser,Rupture II Guardian,Opulent Compound,15334
 Cruiser,Rupture II Guardian,Reactive Metals,3813
 Cruiser,Rupture II Guardian,Noble Metals,15334
-Cruiser,Bellicose,Bellicose Blueprint,1
 Cruiser,Bellicose,Tritanium,1741869
 Cruiser,Bellicose,Pyerite,399847
 Cruiser,Bellicose,Mexallon,138387
@@ -970,7 +882,6 @@ Cruiser,Bellicose,Gleaming Alloy,9271
 Cruiser,Bellicose,Opulent Compound,10504
 Cruiser,Bellicose,Reactive Metals,2612
 Cruiser,Bellicose,Noble Metals,10504
-Cruiser,Scythe,Scythe Blueprint,1
 Cruiser,Scythe,Tritanium,4233856
 Cruiser,Scythe,Pyerite,874519
 Cruiser,Scythe,Mexallon,319218
@@ -982,7 +893,6 @@ Cruiser,Scythe,Precious Alloy,10975
 Cruiser,Scythe,Opulent Compound,14006
 Cruiser,Scythe,Reactive Metals,3483
 Cruiser,Scythe,Noble Metals,14006
-Cruiser,Stabber,Stabber Blueprint,1
 Cruiser,Stabber,Tritanium,553805
 Cruiser,Stabber,Pyerite,126345
 Cruiser,Stabber,Mexallon,40237
@@ -992,7 +902,6 @@ Cruiser,Stabber,Gleaming Alloy,3190
 Cruiser,Stabber,Motley Compound,3190
 Cruiser,Stabber,Base Metals,952
 Cruiser,Stabber,Noble Metals,3615
-Cruiser,Stabber Fleet Issue,Stabber Fleet Issue Blueprint,1
 Cruiser,Stabber Fleet Issue,Tritanium,1807220
 Cruiser,Stabber Fleet Issue,Pyerite,414848
 Cruiser,Stabber Fleet Issue,Mexallon,143579
@@ -1003,7 +912,6 @@ Cruiser,Stabber Fleet Issue,Gleaming Alloy,9619
 Cruiser,Stabber Fleet Issue,Opulent Compound,10898
 Cruiser,Stabber Fleet Issue,Reactive Metals,2710
 Cruiser,Stabber Fleet Issue,Noble Metals,10898
-Cruiser,Rupture,Rupture Blueprint,1
 Cruiser,Rupture,Tritanium,1663950
 Cruiser,Rupture,Pyerite,381960
 Cruiser,Rupture,Mexallon,132196
@@ -1014,7 +922,6 @@ Cruiser,Rupture,Gleaming Alloy,8857
 Cruiser,Rupture,Opulent Compound,10034
 Cruiser,Rupture,Reactive Metals,2495
 Cruiser,Rupture,Noble Metals,10034
-Cruiser,Stabber Sniper,Stabber Sniper Blueprint,1
 Cruiser,Stabber Sniper,Tritanium,5036884
 Cruiser,Stabber Sniper,Pyerite,1411606
 Cruiser,Stabber Sniper,Mexallon,427009
@@ -1027,7 +934,6 @@ Cruiser,Stabber Sniper,Precious Alloy,11782
 Cruiser,Stabber Sniper,Opulent Compound,15036
 Cruiser,Stabber Sniper,Reactive Metals,3739
 Cruiser,Stabber Sniper,Noble Metals,15036
-Cruiser,Bellicose Covert Ops,Bellicose Covert Ops Blueprint,1
 Cruiser,Bellicose Covert Ops,Tritanium,4166223
 Cruiser,Bellicose Covert Ops,Pyerite,860549
 Cruiser,Bellicose Covert Ops,Mexallon,314118
@@ -1039,7 +945,6 @@ Cruiser,Bellicose Covert Ops,Precious Alloy,10800
 Cruiser,Bellicose Covert Ops,Opulent Compound,13783
 Cruiser,Bellicose Covert Ops,Reactive Metals,3427
 Cruiser,Bellicose Covert Ops,Noble Metals,13783
-Cruiser,Bellicose II Covert Ops,Bellicose II Covert Ops Blueprint,1
 Cruiser,Bellicose II Covert Ops,Tritanium,8376792
 Cruiser,Bellicose II Covert Ops,Pyerite,2442451
 Cruiser,Bellicose II Covert Ops,Mexallon,764174
@@ -1052,7 +957,6 @@ Cruiser,Bellicose II Covert Ops,Precious Alloy,27940
 Cruiser,Bellicose II Covert Ops,Opulent Compound,35657
 Cruiser,Bellicose II Covert Ops,Reactive Metals,8866
 Cruiser,Bellicose II Covert Ops,Noble Metals,35657
-Cruiser,Maller Guardian,Maller Guardian Blueprint,1
 Cruiser,Maller Guardian,Tritanium,5240219
 Cruiser,Maller Guardian,Pyerite,885138
 Cruiser,Maller Guardian,Mexallon,322660
@@ -1064,7 +968,6 @@ Cruiser,Maller Guardian,Precious Alloy,10754
 Cruiser,Maller Guardian,Opulent Compound,13724
 Cruiser,Maller Guardian,Heavy Metals,12967
 Cruiser,Maller Guardian,Reactive Metals,3413
-Cruiser,Maller II Guardian,Maller II Guardian Blueprint,1
 Cruiser,Maller II Guardian,Tritanium,6014880
 Cruiser,Maller II Guardian,Pyerite,1378502
 Cruiser,Maller II Guardian,Mexallon,416435
@@ -1077,7 +980,6 @@ Cruiser,Maller II Guardian,Precious Alloy,11138
 Cruiser,Maller II Guardian,Opulent Compound,14214
 Cruiser,Maller II Guardian,Heavy Metals,13430
 Cruiser,Maller II Guardian,Reactive Metals,3535
-Cruiser,Arbitrator,Arbitrator Blueprint,1
 Cruiser,Arbitrator,Tritanium,2147413
 Cruiser,Arbitrator,Pyerite,403109
 Cruiser,Arbitrator,Mexallon,139328
@@ -1088,7 +990,6 @@ Cruiser,Arbitrator,Sheen Compound,9687
 Cruiser,Arbitrator,Opulent Compound,10252
 Cruiser,Arbitrator,Heavy Metals,9687
 Cruiser,Arbitrator,Reactive Metals,2549
-Cruiser,Augoror,Augoror Blueprint,1
 Cruiser,Augoror,Tritanium,5577547
 Cruiser,Augoror,Pyerite,942117
 Cruiser,Augoror,Mexallon,343430
@@ -1100,7 +1001,6 @@ Cruiser,Augoror,Precious Alloy,11446
 Cruiser,Augoror,Opulent Compound,14607
 Cruiser,Augoror,Heavy Metals,13802
 Cruiser,Augoror,Reactive Metals,3632
-Cruiser,Omen,Omen Blueprint,1
 Cruiser,Omen,Tritanium,733264
 Cruiser,Omen,Pyerite,136801
 Cruiser,Omen,Mexallon,43509
@@ -1110,7 +1010,6 @@ Cruiser,Omen,Sheen Compound,3580
 Cruiser,Omen,Motley Compound,3344
 Cruiser,Omen,Base Metals,997
 Cruiser,Omen,Heavy Metals,3580
-Cruiser,Maller,Maller Blueprint,1
 Cruiser,Maller,Tritanium,2198015
 Cruiser,Maller,Pyerite,412608
 Cruiser,Maller,Mexallon,142612
@@ -1121,7 +1020,6 @@ Cruiser,Maller,Sheen Compound,9915
 Cruiser,Maller,Opulent Compound,10494
 Cruiser,Maller,Heavy Metals,9915
 Cruiser,Maller,Reactive Metals,2610
-Cruiser,Omen Navy Issue,Omen Navy Issue Blueprint,1
 Cruiser,Omen Navy Issue,Tritanium,2198015
 Cruiser,Omen Navy Issue,Pyerite,412608
 Cruiser,Omen Navy Issue,Mexallon,142612
@@ -1132,7 +1030,6 @@ Cruiser,Omen Navy Issue,Sheen Compound,9915
 Cruiser,Omen Navy Issue,Opulent Compound,10494
 Cruiser,Omen Navy Issue,Heavy Metals,9915
 Cruiser,Omen Navy Issue,Reactive Metals,2610
-Cruiser,Omen Sniper,Omen Sniper Blueprint,1
 Cruiser,Omen Sniper,Tritanium,6299197
 Cruiser,Omen Sniper,Pyerite,1443662
 Cruiser,Omen Sniper,Mexallon,436119
@@ -1145,7 +1042,6 @@ Cruiser,Omen Sniper,Precious Alloy,11665
 Cruiser,Omen Sniper,Opulent Compound,14886
 Cruiser,Omen Sniper,Heavy Metals,14065
 Cruiser,Omen Sniper,Reactive Metals,3702
-Cruiser,Arbitrator Covert Ops,Arbitrator Covert Ops Blueprint,1
 Cruiser,Arbitrator Covert Ops,Tritanium,5164611
 Cruiser,Arbitrator Covert Ops,Pyerite,872367
 Cruiser,Arbitrator Covert Ops,Mexallon,318004
@@ -1157,7 +1053,6 @@ Cruiser,Arbitrator Covert Ops,Precious Alloy,10599
 Cruiser,Arbitrator Covert Ops,Opulent Compound,13526
 Cruiser,Arbitrator Covert Ops,Heavy Metals,12780
 Cruiser,Arbitrator Covert Ops,Reactive Metals,3363
-Cruiser,Arbitrator II Covert Ops,Arbitrator II Covert Ops Blueprint,1
 Cruiser,Arbitrator II Covert Ops,Tritanium,9202077
 Cruiser,Arbitrator II Covert Ops,Pyerite,2033419
 Cruiser,Arbitrator II Covert Ops,Mexallon,763202
@@ -1170,7 +1065,6 @@ Cruiser,Arbitrator II Covert Ops,Precious Alloy,29214
 Cruiser,Arbitrator II Covert Ops,Opulent Compound,37282
 Cruiser,Arbitrator II Covert Ops,Heavy Metals,35226
 Cruiser,Arbitrator II Covert Ops,Reactive Metals,9270
-Cruiser,Thorax Guardian,Thorax Guardian Blueprint,1
 Cruiser,Thorax Guardian,Tritanium,4160506
 Cruiser,Thorax Guardian,Pyerite,1023912
 Cruiser,Thorax Guardian,Mexallon,351193
@@ -1182,7 +1076,6 @@ Cruiser,Thorax Guardian,Precious Alloy,11137
 Cruiser,Thorax Guardian,Opulent Compound,14212
 Cruiser,Thorax Guardian,Heavy Metals,13429
 Cruiser,Thorax Guardian,Reactive Metals,3534
-Cruiser,Thorax II Guardian,Thorax II Guardian Blueprint,1
 Cruiser,Thorax II Guardian,Tritanium,4633504
 Cruiser,Thorax II Guardian,Pyerite,1547194
 Cruiser,Thorax II Guardian,Mexallon,439779
@@ -1195,7 +1088,6 @@ Cruiser,Thorax II Guardian,Precious Alloy,11192
 Cruiser,Thorax II Guardian,Opulent Compound,14283
 Cruiser,Thorax II Guardian,Heavy Metals,13495
 Cruiser,Thorax II Guardian,Reactive Metals,3552
-Cruiser,Celestis,Celestis Blueprint,1
 Cruiser,Celestis,Tritanium,1717249
 Cruiser,Celestis,Pyerite,469672
 Cruiser,Celestis,Mexallon,152743
@@ -1206,7 +1098,6 @@ Cruiser,Celestis,Sheen Compound,10104
 Cruiser,Celestis,Opulent Compound,10694
 Cruiser,Celestis,Heavy Metals,10104
 Cruiser,Celestis,Reactive Metals,2659
-Cruiser,Exequror,Exequror Blueprint,1
 Cruiser,Exequror,Tritanium,4134118
 Cruiser,Exequror,Pyerite,1017418
 Cruiser,Exequror,Mexallon,348966
@@ -1218,7 +1109,6 @@ Cruiser,Exequror,Precious Alloy,11066
 Cruiser,Exequror,Opulent Compound,14122
 Cruiser,Exequror,Heavy Metals,13343
 Cruiser,Exequror,Reactive Metals,3512
-Cruiser,Vexor,Vexor Blueprint,1
 Cruiser,Vexor,Tritanium,530327
 Cruiser,Vexor,Pyerite,144155
 Cruiser,Vexor,Mexallon,43138
@@ -1228,7 +1118,6 @@ Cruiser,Vexor,Sheen Compound,3377
 Cruiser,Vexor,Motley Compound,3155
 Cruiser,Vexor,Base Metals,941
 Cruiser,Vexor,Heavy Metals,3377
-Cruiser,Vexor Navy Issue,Vexor Navy Issue Blueprint,1
 Cruiser,Vexor Navy Issue,Tritanium,1643442
 Cruiser,Vexor Navy Issue,Pyerite,449486
 Cruiser,Vexor Navy Issue,Mexallon,146178
@@ -1239,7 +1128,6 @@ Cruiser,Vexor Navy Issue,Sheen Compound,9669
 Cruiser,Vexor Navy Issue,Opulent Compound,10234
 Cruiser,Vexor Navy Issue,Heavy Metals,9669
 Cruiser,Vexor Navy Issue,Reactive Metals,2545
-Cruiser,Thorax,Thorax Blueprint,1
 Cruiser,Thorax,Tritanium,1763994
 Cruiser,Thorax,Pyerite,482457
 Cruiser,Thorax,Mexallon,156901
@@ -1250,7 +1138,6 @@ Cruiser,Thorax,Sheen Compound,10379
 Cruiser,Thorax,Opulent Compound,10985
 Cruiser,Thorax,Heavy Metals,10379
 Cruiser,Thorax,Reactive Metals,2732
-Cruiser,Vexor Sniper,Vexor Sniper Blueprint,1
 Cruiser,Vexor Sniper,Tritanium,4778755
 Cruiser,Vexor Sniper,Pyerite,1595695
 Cruiser,Vexor Sniper,Mexallon,453565
@@ -1263,7 +1150,6 @@ Cruiser,Vexor Sniper,Precious Alloy,11543
 Cruiser,Vexor Sniper,Opulent Compound,14730
 Cruiser,Vexor Sniper,Heavy Metals,13918
 Cruiser,Vexor Sniper,Reactive Metals,3663
-Cruiser,Celestis Covert Ops,Celestis Covert Ops Blueprint,1
 Cruiser,Celestis Covert Ops,Tritanium,4090138
 Cruiser,Celestis Covert Ops,Pyerite,1006595
 Cruiser,Celestis Covert Ops,Mexallon,345254
@@ -1275,7 +1161,6 @@ Cruiser,Celestis Covert Ops,Precious Alloy,10949
 Cruiser,Celestis Covert Ops,Opulent Compound,13972
 Cruiser,Celestis Covert Ops,Heavy Metals,13201
 Cruiser,Celestis Covert Ops,Reactive Metals,3474
-Cruiser,Celestis II Covert Ops,Celestis II Covert Ops Blueprint,1
 Cruiser,Celestis II Covert Ops,Tritanium,9817437
 Cruiser,Celestis II Covert Ops,Pyerite,2201698
 Cruiser,Celestis II Covert Ops,Mexallon,773474
@@ -1288,7 +1173,6 @@ Cruiser,Celestis II Covert Ops,Precious Alloy,28002
 Cruiser,Celestis II Covert Ops,Opulent Compound,35735
 Cruiser,Celestis II Covert Ops,Heavy Metals,33763
 Cruiser,Celestis II Covert Ops,Reactive Metals,8885
-Cruiser,Thorax Prototype,Thorax Prototype Blueprint,1
 Cruiser,Thorax Prototype,Tritanium,567903
 Cruiser,Thorax Prototype,Pyerite,124951
 Cruiser,Thorax Prototype,Mexallon,41261
@@ -1298,7 +1182,6 @@ Cruiser,Thorax Prototype,Sheen Compound,3486
 Cruiser,Thorax Prototype,Motley Compound,3256
 Cruiser,Thorax Prototype,Base Metals,971
 Cruiser,Thorax Prototype,Heavy Metals,3486
-Cruiser,Gila,Gila Blueprint,1
 Cruiser,Gila,Tritanium,38592133
 Cruiser,Gila,Pyerite,11570499
 Cruiser,Gila,Mexallon,3795558
@@ -1311,7 +1194,6 @@ Cruiser,Gila,Precious Alloy,66520
 Cruiser,Gila,Opulent Compound,84891
 Cruiser,Gila,Reactive Metals,21108
 Cruiser,Gila,Toxic Metals,20934
-Cruiser,Cynabal,Cynabal Blueprint,1
 Cruiser,Cynabal,Tritanium,39495308
 Cruiser,Cynabal,Pyerite,9589740
 Cruiser,Cynabal,Mexallon,3473538
@@ -1324,7 +1206,6 @@ Cruiser,Cynabal,Precious Alloy,66644
 Cruiser,Cynabal,Opulent Compound,85049
 Cruiser,Cynabal,Reactive Metals,21147
 Cruiser,Cynabal,Toxic Metals,20973
-Cruiser,Ashimmu,Ashimmu Blueprint,1
 Cruiser,Ashimmu,Tritanium,49205578
 Cruiser,Ashimmu,Pyerite,9770224
 Cruiser,Ashimmu,Mexallon,3534156
@@ -1337,7 +1218,6 @@ Cruiser,Ashimmu,Precious Alloy,65731
 Cruiser,Ashimmu,Opulent Compound,83884
 Cruiser,Ashimmu,Reactive Metals,20857
 Cruiser,Ashimmu,Toxic Metals,20686
-Cruiser,Stratios,Stratios Blueprint,1
 Cruiser,Stratios,Tritanium,37199509
 Cruiser,Stratios,Pyerite,9032304
 Cruiser,Stratios,Mexallon,3271626
@@ -1350,7 +1230,6 @@ Cruiser,Stratios,Precious Alloy,62770
 Cruiser,Stratios,Opulent Compound,80105
 Cruiser,Stratios,Reactive Metals,19918
 Cruiser,Stratios,Toxic Metals,19754
-Cruiser,Orthrus,Orthrus Blueprint,1
 Cruiser,Orthrus,Tritanium,37231077
 Cruiser,Orthrus,Pyerite,11162434
 Cruiser,Orthrus,Mexallon,3661698
@@ -1363,7 +1242,6 @@ Cruiser,Orthrus,Precious Alloy,64174
 Cruiser,Orthrus,Opulent Compound,81897
 Cruiser,Orthrus,Reactive Metals,20363
 Cruiser,Orthrus,Toxic Metals,20196
-Cruiser,Phantasm,Phantasm Blueprint,1
 Cruiser,Phantasm,Tritanium,46954447
 Cruiser,Phantasm,Pyerite,9323241
 Cruiser,Phantasm,Mexallon,3372470
@@ -1376,7 +1254,6 @@ Cruiser,Phantasm,Precious Alloy,62724
 Cruiser,Phantasm,Opulent Compound,80046
 Cruiser,Phantasm,Reactive Metals,19903
 Cruiser,Phantasm,Toxic Metals,19739
-Cruiser,Vigilant,Vigilant Blueprint,1
 Cruiser,Vigilant,Tritanium,35798400
 Cruiser,Vigilant,Pyerite,10356396
 Cruiser,Vigilant,Mexallon,3524841
@@ -1389,7 +1266,6 @@ Cruiser,Vigilant,Precious Alloy,62375
 Cruiser,Vigilant,Opulent Compound,79602
 Cruiser,Vigilant,Reactive Metals,19793
 Cruiser,Vigilant,Toxic Metals,19630
-Battlecruiser,Ferox Guardian,Ferox Guardian Blueprint,1
 Battlecruiser,Ferox Guardian,Tritanium,11723249
 Battlecruiser,Ferox Guardian,Pyerite,3352806
 Battlecruiser,Ferox Guardian,Mexallon,1194221
@@ -1402,7 +1278,6 @@ Battlecruiser,Ferox Guardian,Precious Alloy,42769
 Battlecruiser,Ferox Guardian,Glossy Compound,48173
 Battlecruiser,Ferox Guardian,Reactive Metals,13571
 Battlecruiser,Ferox Guardian,Noble Metals,54581
-Battlecruiser,Ferox II Guardian,Ferox II Guardian Blueprint,1
 Battlecruiser,Ferox II Guardian,Tritanium,30713127
 Battlecruiser,Ferox II Guardian,Pyerite,7517896
 Battlecruiser,Ferox II Guardian,Mexallon,2901580
@@ -1415,7 +1290,6 @@ Battlecruiser,Ferox II Guardian,Precious Alloy,65427
 Battlecruiser,Ferox II Guardian,Glossy Compound,73693
 Battlecruiser,Ferox II Guardian,Reactive Metals,20761
 Battlecruiser,Ferox II Guardian,Noble Metals,83496
-Battlecruiser,Naga,Naga Blueprint,1
 Battlecruiser,Naga,Tritanium,7232230
 Battlecruiser,Naga,Pyerite,2502739
 Battlecruiser,Naga,Mexallon,685643
@@ -1428,7 +1302,6 @@ Battlecruiser,Naga,Precious Alloy,17281
 Battlecruiser,Naga,Glossy Compound,19464
 Battlecruiser,Naga,Reactive Metals,5484
 Battlecruiser,Naga,Noble Metals,22053
-Battlecruiser,Naga II,Naga II Blueprint,1
 Battlecruiser,Naga II,Tritanium,11431686
 Battlecruiser,Naga II,Pyerite,3269420
 Battlecruiser,Naga II,Mexallon,1164520
@@ -1441,7 +1314,6 @@ Battlecruiser,Naga II,Precious Alloy,41706
 Battlecruiser,Naga II,Glossy Compound,46975
 Battlecruiser,Naga II,Reactive Metals,13234
 Battlecruiser,Naga II,Noble Metals,53223
-Battlecruiser,Drake Logistics,Drake Logistics Blueprint,1
 Battlecruiser,Drake Logistics,Tritanium,12008737
 Battlecruiser,Drake Logistics,Pyerite,3434455
 Battlecruiser,Drake Logistics,Mexallon,1223303
@@ -1454,7 +1326,6 @@ Battlecruiser,Drake Logistics,Precious Alloy,43811
 Battlecruiser,Drake Logistics,Glossy Compound,49346
 Battlecruiser,Drake Logistics,Reactive Metals,13902
 Battlecruiser,Drake Logistics,Noble Metals,55910
-Battlecruiser,Ferox,Ferox Blueprint,1
 Battlecruiser,Ferox,Tritanium,6271544
 Battlecruiser,Ferox,Pyerite,1599555
 Battlecruiser,Ferox,Mexallon,528781
@@ -1466,7 +1337,6 @@ Battlecruiser,Ferox,Precious Alloy,16607
 Battlecruiser,Ferox,Glossy Compound,18705
 Battlecruiser,Ferox,Reactive Metals,5270
 Battlecruiser,Ferox,Noble Metals,21193
-Battlecruiser,Drake,Drake Blueprint,1
 Battlecruiser,Drake,Tritanium,7349748
 Battlecruiser,Drake,Pyerite,2543406
 Battlecruiser,Drake,Mexallon,696784
@@ -1479,7 +1349,6 @@ Battlecruiser,Drake,Precious Alloy,17561
 Battlecruiser,Drake,Glossy Compound,19780
 Battlecruiser,Drake,Reactive Metals,5573
 Battlecruiser,Drake,Noble Metals,22411
-Battlecruiser,Cyclone Guardian,Cyclone Guardian Blueprint,1
 Battlecruiser,Cyclone Guardian,Tritanium,12673398
 Battlecruiser,Cyclone Guardian,Pyerite,3695227
 Battlecruiser,Cyclone Guardian,Mexallon,1156132
@@ -1492,7 +1361,6 @@ Battlecruiser,Cyclone Guardian,Precious Alloy,42271
 Battlecruiser,Cyclone Guardian,Glossy Compound,47612
 Battlecruiser,Cyclone Guardian,Reactive Metals,13413
 Battlecruiser,Cyclone Guardian,Noble Metals,53945
-Battlecruiser,Cyclone II Guardian,Cyclone II Guardian Blueprint,1
 Battlecruiser,Cyclone II Guardian,Tritanium,27569050
 Battlecruiser,Cyclone II Guardian,Pyerite,8859903
 Battlecruiser,Cyclone II Guardian,Mexallon,2443277
@@ -1505,7 +1373,6 @@ Battlecruiser,Cyclone II Guardian,Precious Alloy,58213
 Battlecruiser,Cyclone II Guardian,Glossy Compound,65569
 Battlecruiser,Cyclone II Guardian,Reactive Metals,18472
 Battlecruiser,Cyclone II Guardian,Noble Metals,74290
-Battlecruiser,Tornado,Tornado Blueprint,1
 Battlecruiser,Tornado,Tritanium,7707580
 Battlecruiser,Tornado,Pyerite,2160078
 Battlecruiser,Tornado,Mexallon,653421
@@ -1518,7 +1385,6 @@ Battlecruiser,Tornado,Precious Alloy,18029
 Battlecruiser,Tornado,Glossy Compound,20307
 Battlecruiser,Tornado,Reactive Metals,5721
 Battlecruiser,Tornado,Noble Metals,23008
-Battlecruiser,Tornado II,Tornado II Blueprint,1
 Battlecruiser,Tornado II,Tritanium,12883454
 Battlecruiser,Tornado II,Pyerite,3756474
 Battlecruiser,Tornado II,Mexallon,1175294
@@ -1531,7 +1397,6 @@ Battlecruiser,Tornado II,Precious Alloy,42972
 Battlecruiser,Tornado II,Glossy Compound,48401
 Battlecruiser,Tornado II,Reactive Metals,13636
 Battlecruiser,Tornado II,Noble Metals,54839
-Battlecruiser,Hurricane Logistics,Hurricane Logistics Blueprint,1
 Battlecruiser,Hurricane Logistics,Tritanium,12106883
 Battlecruiser,Hurricane Logistics,Pyerite,3530046
 Battlecruiser,Hurricane Logistics,Mexallon,1104452
@@ -1544,7 +1409,6 @@ Battlecruiser,Hurricane Logistics,Precious Alloy,40382
 Battlecruiser,Hurricane Logistics,Glossy Compound,45484
 Battlecruiser,Hurricane Logistics,Reactive Metals,12814
 Battlecruiser,Hurricane Logistics,Noble Metals,51534
-Battlecruiser,Cyclone,Cyclone Blueprint,1
 Battlecruiser,Cyclone,Tritanium,6393619
 Battlecruiser,Cyclone,Pyerite,1320625
 Battlecruiser,Cyclone,Mexallon,482056
@@ -1556,7 +1420,6 @@ Battlecruiser,Cyclone,Precious Alloy,16574
 Battlecruiser,Cyclone,Glossy Compound,18668
 Battlecruiser,Cyclone,Reactive Metals,5259
 Battlecruiser,Cyclone,Noble Metals,21151
-Battlecruiser,Hurricane,Hurricane Blueprint,1
 Battlecruiser,Hurricane,Tritanium,7662653
 Battlecruiser,Hurricane,Pyerite,2147487
 Battlecruiser,Hurricane,Mexallon,649612
@@ -1569,7 +1432,6 @@ Battlecruiser,Hurricane,Precious Alloy,17924
 Battlecruiser,Hurricane,Glossy Compound,20188
 Battlecruiser,Hurricane,Reactive Metals,5688
 Battlecruiser,Hurricane,Noble Metals,22874
-Battlecruiser,Hurricane Prototype,Hurricane Prototype Blueprint,1
 Battlecruiser,Hurricane Prototype,Tritanium,5231335
 Battlecruiser,Hurricane Prototype,Pyerite,1331912
 Battlecruiser,Hurricane Prototype,Mexallon,527482
@@ -1581,7 +1443,6 @@ Battlecruiser,Hurricane Prototype,Precious Alloy,18626
 Battlecruiser,Hurricane Prototype,Glossy Compound,20979
 Battlecruiser,Hurricane Prototype,Reactive Metals,5910
 Battlecruiser,Hurricane Prototype,Noble Metals,23770
-Battlecruiser,Prophecy Guardian,Prophecy Guardian Blueprint,1
 Battlecruiser,Prophecy Guardian,Tritanium,13966465
 Battlecruiser,Prophecy Guardian,Pyerite,3086224
 Battlecruiser,Prophecy Guardian,Mexallon,1158351
@@ -1594,7 +1455,6 @@ Battlecruiser,Prophecy Guardian,Precious Alloy,44340
 Battlecruiser,Prophecy Guardian,Glossy Compound,49942
 Battlecruiser,Prophecy Guardian,Heavy Metals,53464
 Battlecruiser,Prophecy Guardian,Reactive Metals,14070
-Battlecruiser,Prophecy II Guardian,Prophecy II Guardian Blueprint,1
 Battlecruiser,Prophecy II Guardian,Tritanium,36378955
 Battlecruiser,Prophecy II Guardian,Pyerite,9013834
 Battlecruiser,Prophecy II Guardian,Mexallon,2971956
@@ -1607,7 +1467,6 @@ Battlecruiser,Prophecy II Guardian,Precious Alloy,62988
 Battlecruiser,Prophecy II Guardian,Glossy Compound,70946
 Battlecruiser,Prophecy II Guardian,Heavy Metals,75949
 Battlecruiser,Prophecy II Guardian,Reactive Metals,19987
-Battlecruiser,Oracle,Oracle Blueprint,1
 Battlecruiser,Oracle,Tritanium,9268728
 Battlecruiser,Oracle,Pyerite,2124224
 Battlecruiser,Oracle,Mexallon,641712
@@ -1620,7 +1479,6 @@ Battlecruiser,Oracle,Precious Alloy,17164
 Battlecruiser,Oracle,Glossy Compound,19332
 Battlecruiser,Oracle,Heavy Metals,20695
 Battlecruiser,Oracle,Reactive Metals,5447
-Battlecruiser,Oracle II,Oracle II Blueprint,1
 Battlecruiser,Oracle II,Tritanium,13449189
 Battlecruiser,Oracle II,Pyerite,2971919
 Battlecruiser,Oracle II,Mexallon,1115449
@@ -1633,7 +1491,6 @@ Battlecruiser,Oracle II,Precious Alloy,42698
 Battlecruiser,Oracle II,Glossy Compound,48092
 Battlecruiser,Oracle II,Heavy Metals,51484
 Battlecruiser,Oracle II,Reactive Metals,13549
-Battlecruiser,Harbinger Logistics,Harbinger Logistics Blueprint,1
 Battlecruiser,Harbinger Logistics,Tritanium,13537670
 Battlecruiser,Harbinger Logistics,Pyerite,2991471
 Battlecruiser,Harbinger Logistics,Mexallon,1122788
@@ -1646,7 +1503,6 @@ Battlecruiser,Harbinger Logistics,Precious Alloy,42978
 Battlecruiser,Harbinger Logistics,Glossy Compound,48409
 Battlecruiser,Harbinger Logistics,Heavy Metals,51822
 Battlecruiser,Harbinger Logistics,Reactive Metals,13638
-Battlecruiser,Prophecy,Prophecy Blueprint,1
 Battlecruiser,Prophecy,Tritanium,8113324
 Battlecruiser,Prophecy,Pyerite,1370442
 Battlecruiser,Prophecy,Mexallon,499568
@@ -1658,7 +1514,6 @@ Battlecruiser,Prophecy,Precious Alloy,16650
 Battlecruiser,Prophecy,Glossy Compound,18754
 Battlecruiser,Prophecy,Heavy Metals,20076
 Battlecruiser,Prophecy,Reactive Metals,5284
-Battlecruiser,Harbinger,Harbinger Blueprint,1
 Battlecruiser,Harbinger,Tritanium,9843680
 Battlecruiser,Harbinger,Pyerite,2255993
 Battlecruiser,Harbinger,Mexallon,681518
@@ -1671,7 +1526,6 @@ Battlecruiser,Harbinger,Precious Alloy,18228
 Battlecruiser,Harbinger,Glossy Compound,20531
 Battlecruiser,Harbinger,Heavy Metals,21979
 Battlecruiser,Harbinger,Reactive Metals,5784
-Battlecruiser,Harbinger Prototype,Harbinger Prototype Blueprint,1
 Battlecruiser,Harbinger Prototype,Tritanium,6511343
 Battlecruiser,Harbinger Prototype,Pyerite,1259718
 Battlecruiser,Harbinger Prototype,Mexallon,403757
@@ -1683,7 +1537,6 @@ Battlecruiser,Harbinger Prototype,Precious Alloy,17983
 Battlecruiser,Harbinger Prototype,Glossy Compound,20255
 Battlecruiser,Harbinger Prototype,Heavy Metals,21684
 Battlecruiser,Harbinger Prototype,Reactive Metals,5707
-Battlecruiser,Myrmidon Guardian,Myrmidon Guardian Blueprint,1
 Battlecruiser,Myrmidon Guardian,Tritanium,14699865
 Battlecruiser,Myrmidon Guardian,Pyerite,3296650
 Battlecruiser,Myrmidon Guardian,Mexallon,1158139
@@ -1696,7 +1549,6 @@ Battlecruiser,Myrmidon Guardian,Precious Alloy,41927
 Battlecruiser,Myrmidon Guardian,Glossy Compound,47225
 Battlecruiser,Myrmidon Guardian,Heavy Metals,50555
 Battlecruiser,Myrmidon Guardian,Reactive Metals,13304
-Battlecruiser,Myrmidon II Guardian,Myrmidon II Guardian Blueprint,1
 Battlecruiser,Myrmidon II Guardian,Tritanium,34874861
 Battlecruiser,Myrmidon II Guardian,Pyerite,7290193
 Battlecruiser,Myrmidon II Guardian,Mexallon,3078559
@@ -1709,7 +1561,6 @@ Battlecruiser,Myrmidon II Guardian,Precious Alloy,62232
 Battlecruiser,Myrmidon II Guardian,Glossy Compound,70095
 Battlecruiser,Myrmidon II Guardian,Heavy Metals,75038
 Battlecruiser,Myrmidon II Guardian,Reactive Metals,19747
-Battlecruiser,Talos,Talos Blueprint,1
 Battlecruiser,Talos,Tritanium,7010777
 Battlecruiser,Talos,Pyerite,2340999
 Battlecruiser,Talos,Mexallon,665412
@@ -1722,7 +1573,6 @@ Battlecruiser,Talos,Precious Alloy,16934
 Battlecruiser,Talos,Glossy Compound,19073
 Battlecruiser,Talos,Heavy Metals,20418
 Battlecruiser,Talos,Reactive Metals,5374
-Battlecruiser,Talos II,Talos II Blueprint,1
 Battlecruiser,Talos II,Tritanium,14617240
 Battlecruiser,Talos II,Pyerite,3278120
 Battlecruiser,Talos II,Mexallon,1151630
@@ -1735,7 +1585,6 @@ Battlecruiser,Talos II,Precious Alloy,41691
 Battlecruiser,Talos II,Glossy Compound,46959
 Battlecruiser,Talos II,Heavy Metals,50270
 Battlecruiser,Talos II,Reactive Metals,13229
-Battlecruiser,Brutix Logistics,Brutix Logistics Blueprint,1
 Battlecruiser,Brutix Logistics,Tritanium,14091440
 Battlecruiser,Brutix Logistics,Pyerite,3160202
 Battlecruiser,Brutix Logistics,Mexallon,1110204
@@ -1748,7 +1597,6 @@ Battlecruiser,Brutix Logistics,Precious Alloy,40192
 Battlecruiser,Brutix Logistics,Glossy Compound,45270
 Battlecruiser,Brutix Logistics,Heavy Metals,48462
 Battlecruiser,Brutix Logistics,Reactive Metals,12754
-Battlecruiser,Myrmidon,Myrmidon Blueprint,1
 Battlecruiser,Myrmidon,Tritanium,5814153
 Battlecruiser,Myrmidon,Pyerite,1430879
 Battlecruiser,Myrmidon,Mexallon,490780
@@ -1760,7 +1608,6 @@ Battlecruiser,Myrmidon,Precious Alloy,15563
 Battlecruiser,Myrmidon,Glossy Compound,17530
 Battlecruiser,Myrmidon,Heavy Metals,18766
 Battlecruiser,Myrmidon,Reactive Metals,4939
-Battlecruiser,Brutix,Brutix Blueprint,1
 Battlecruiser,Brutix,Tritanium,7315804
 Battlecruiser,Brutix,Pyerite,2442852
 Battlecruiser,Brutix,Mexallon,694363
@@ -1773,7 +1620,6 @@ Battlecruiser,Brutix,Precious Alloy,17670
 Battlecruiser,Brutix,Glossy Compound,19903
 Battlecruiser,Brutix,Heavy Metals,21306
 Battlecruiser,Brutix,Reactive Metals,5607
-Battleship,Scorpion,Scorpion Blueprint,1
 Battleship,Scorpion,Tritanium,18204443
 Battleship,Scorpion,Pyerite,5206404
 Battleship,Scorpion,Mexallon,1854445
@@ -1786,7 +1632,6 @@ Battleship,Scorpion,Precious Alloy,66414
 Battleship,Scorpion,Crystal Compound,79421
 Battleship,Scorpion,Reactive Metals,21074
 Battleship,Scorpion,Noble Metals,84756
-Battleship,Raven Striker,Raven Striker Blueprint,1
 Battleship,Raven Striker,Tritanium,45284160
 Battleship,Raven Striker,Pyerite,11084564
 Battleship,Raven Striker,Mexallon,4278158
@@ -1799,7 +1644,6 @@ Battleship,Raven Striker,Precious Alloy,96466
 Battleship,Raven Striker,Crystal Compound,115359
 Battleship,Raven Striker,Reactive Metals,30610
 Battleship,Raven Striker,Noble Metals,123108
-Battleship,Rokh,Rokh Blueprint,1
 Battleship,Rokh,Tritanium,18532451
 Battleship,Rokh,Pyerite,5300213
 Battleship,Rokh,Mexallon,1887858
@@ -1812,7 +1656,6 @@ Battleship,Rokh,Precious Alloy,67611
 Battleship,Rokh,Crystal Compound,80852
 Battleship,Rokh,Reactive Metals,21454
 Battleship,Rokh,Noble Metals,86283
-Battleship,Raven,Raven Blueprint,1
 Battleship,Raven,Tritanium,43336930
 Battleship,Raven,Pyerite,10607925
 Battleship,Raven,Mexallon,4094196
@@ -1825,7 +1668,6 @@ Battleship,Raven,Precious Alloy,92318
 Battleship,Raven,Crystal Compound,110399
 Battleship,Raven,Reactive Metals,29294
 Battleship,Raven,Noble Metals,117814
-Battleship,Maelstrom Striker,Maelstrom Striker Blueprint,1
 Battleship,Maelstrom Striker,Tritanium,41721162
 Battleship,Maelstrom Striker,Pyerite,13407987
 Battleship,Maelstrom Striker,Mexallon,3697492
@@ -1838,7 +1680,6 @@ Battleship,Maelstrom Striker,Precious Alloy,88096
 Battleship,Maelstrom Striker,Crystal Compound,105349
 Battleship,Maelstrom Striker,Reactive Metals,27954
 Battleship,Maelstrom Striker,Noble Metals,112425
-Battleship,Maelstrom,Maelstrom Blueprint,1
 Battleship,Maelstrom,Tritanium,17988459
 Battleship,Maelstrom,Pyerite,5244958
 Battleship,Maelstrom,Mexallon,1640999
@@ -1851,7 +1692,6 @@ Battleship,Maelstrom,Precious Alloy,59999
 Battleship,Maelstrom,Crystal Compound,71750
 Battleship,Maelstrom,Reactive Metals,19039
 Battleship,Maelstrom,Noble Metals,76569
-Battleship,Typhoon,Typhoon Blueprint,1
 Battleship,Typhoon,Tritanium,18427668
 Battleship,Typhoon,Pyerite,5373020
 Battleship,Typhoon,Mexallon,1681066
@@ -1864,7 +1704,6 @@ Battleship,Typhoon,Precious Alloy,61464
 Battleship,Typhoon,Crystal Compound,73502
 Battleship,Typhoon,Reactive Metals,19503
 Battleship,Typhoon,Noble Metals,78439
-Battleship,Tempest,Tempest Blueprint,1
 Battleship,Tempest,Tritanium,41180593
 Battleship,Tempest,Pyerite,13234263
 Battleship,Tempest,Mexallon,3649584
@@ -1877,7 +1716,6 @@ Battleship,Tempest,Precious Alloy,86954
 Battleship,Tempest,Crystal Compound,103984
 Battleship,Tempest,Reactive Metals,27592
 Battleship,Tempest,Noble Metals,110969
-Battleship,Armageddon,Armageddon Blueprint,1
 Battleship,Armageddon,Tritanium,19452319
 Battleship,Armageddon,Pyerite,4298454
 Battleship,Armageddon,Mexallon,1613337
@@ -1890,7 +1728,6 @@ Battleship,Armageddon,Precious Alloy,61756
 Battleship,Armageddon,Crystal Compound,73850
 Battleship,Armageddon,Heavy Metals,74463
 Battleship,Armageddon,Reactive Metals,19596
-Battleship,Apocalypse Striker,Apocalypse Striker Blueprint,1
 Battleship,Apocalypse Striker,Tritanium,53482984
 Battleship,Apocalypse Striker,Pyerite,13251803
 Battleship,Apocalypse Striker,Mexallon,4369259
@@ -1903,7 +1740,6 @@ Battleship,Apocalypse Striker,Precious Alloy,92602
 Battleship,Apocalypse Striker,Crystal Compound,110738
 Battleship,Apocalypse Striker,Heavy Metals,111657
 Battleship,Apocalypse Striker,Reactive Metals,29384
-Battleship,Apocalypse,Apocalypse Blueprint,1
 Battleship,Apocalypse,Tritanium,19166455
 Battleship,Apocalypse,Pyerite,4235286
 Battleship,Apocalypse,Mexallon,1589628
@@ -1916,7 +1752,6 @@ Battleship,Apocalypse,Precious Alloy,60848
 Battleship,Apocalypse,Crystal Compound,72765
 Battleship,Apocalypse,Heavy Metals,73369
 Battleship,Apocalypse,Reactive Metals,19308
-Battleship,Abaddon,Abaddon Blueprint,1
 Battleship,Abaddon,Tritanium,50470044
 Battleship,Abaddon,Pyerite,12505268
 Battleship,Abaddon,Mexallon,4123118
@@ -1929,7 +1764,6 @@ Battleship,Abaddon,Precious Alloy,87385
 Battleship,Abaddon,Crystal Compound,104499
 Battleship,Abaddon,Heavy Metals,105367
 Battleship,Abaddon,Reactive Metals,27728
-Battleship,Megathron Striker,Megathron Striker Blueprint,1
 Battleship,Megathron Striker,Tritanium,51863460
 Battleship,Megathron Striker,Pyerite,10841467
 Battleship,Megathron Striker,Mexallon,4578218
@@ -1942,7 +1776,6 @@ Battleship,Megathron Striker,Precious Alloy,92547
 Battleship,Megathron Striker,Crystal Compound,110672
 Battleship,Megathron Striker,Heavy Metals,111590
 Battleship,Megathron Striker,Reactive Metals,29366
-Battleship,Dominix,Dominix Blueprint,1
 Battleship,Dominix,Tritanium,21422594
 Battleship,Dominix,Pyerite,4804316
 Battleship,Dominix,Mexallon,1687794
@@ -1955,7 +1788,6 @@ Battleship,Dominix,Precious Alloy,61101
 Battleship,Dominix,Crystal Compound,73068
 Battleship,Dominix,Heavy Metals,73675
 Battleship,Dominix,Reactive Metals,19388
-Battleship,Megathron,Megathron Blueprint,1
 Battleship,Megathron,Tritanium,21242319
 Battleship,Megathron,Pyerite,4763887
 Battleship,Megathron,Mexallon,1673591
@@ -1968,7 +1800,6 @@ Battleship,Megathron,Precious Alloy,60587
 Battleship,Megathron,Crystal Compound,72453
 Battleship,Megathron,Heavy Metals,73055
 Battleship,Megathron,Reactive Metals,19225
-Battleship,Hyperion,Hyperion Blueprint,1
 Battleship,Hyperion,Tritanium,55601487
 Battleship,Hyperion,Pyerite,11622859
 Battleship,Hyperion,Mexallon,4908190
@@ -1981,7 +1812,6 @@ Battleship,Hyperion,Precious Alloy,99217
 Battleship,Hyperion,Crystal Compound,118648
 Battleship,Hyperion,Heavy Metals,119633
 Battleship,Hyperion,Reactive Metals,31483
-Battleship,Rattlesnake,Rattlesnake Blueprint,1
 Battleship,Rattlesnake,Tritanium,104652545
 Battleship,Rattlesnake,Pyerite,25616635
 Battleship,Rattlesnake,Mexallon,9886902
@@ -1994,7 +1824,6 @@ Battleship,Rattlesnake,Precious Alloy,222935
 Battleship,Rattlesnake,Crystal Compound,266596
 Battleship,Rattlesnake,Reactive Metals,70740
 Battleship,Rattlesnake,Toxic Metals,70157
-Battleship,Machariel,Machariel Blueprint,1
 Battleship,Machariel,Tritanium,137047617
 Battleship,Machariel,Pyerite,28648246
 Battleship,Machariel,Mexallon,12097801
@@ -2007,7 +1836,6 @@ Battleship,Machariel,Precious Alloy,244551
 Battleship,Machariel,Crystal Compound,292445
 Battleship,Machariel,Reactive Metals,77599
 Battleship,Machariel,Toxic Metals,76960
-Battleship,Bhaalgorn,Bhaalgorn Blueprint,1
 Battleship,Bhaalgorn,Tritanium,136200701
 Battleship,Bhaalgorn,Pyerite,33747271
 Battleship,Bhaalgorn,Mexallon,11126830
@@ -2020,7 +1848,6 @@ Battleship,Bhaalgorn,Precious Alloy,235820
 Battleship,Bhaalgorn,Crystal Compound,282005
 Battleship,Bhaalgorn,Reactive Metals,74828
 Battleship,Bhaalgorn,Toxic Metals,74212
-Battleship,Nestor,Nestor Blueprint,1
 Battleship,Nestor,Tritanium,107335501
 Battleship,Nestor,Pyerite,34494555
 Battleship,Nestor,Mexallon,9512489
@@ -2033,7 +1860,6 @@ Battleship,Nestor,Precious Alloy,226642
 Battleship,Nestor,Crystal Compound,271030
 Battleship,Nestor,Reactive Metals,71916
 Battleship,Nestor,Toxic Metals,71324
-Battleship,Barghest,Barghest Blueprint,1
 Battleship,Barghest,Tritanium,104995523
 Battleship,Barghest,Pyerite,25700589
 Battleship,Barghest,Mexallon,9919305
@@ -2046,7 +1872,6 @@ Battleship,Barghest,Precious Alloy,223666
 Battleship,Barghest,Crystal Compound,267470
 Battleship,Barghest,Reactive Metals,70972
 Battleship,Barghest,Toxic Metals,70387
-Battleship,Nightmare,Nightmare Blueprint,1
 Battleship,Nightmare,Tritanium,131753654
 Battleship,Nightmare,Pyerite,32645399
 Battleship,Nightmare,Mexallon,10763531
@@ -2059,7 +1884,6 @@ Battleship,Nightmare,Precious Alloy,228121
 Battleship,Nightmare,Crystal Compound,272798
 Battleship,Nightmare,Reactive Metals,72385
 Battleship,Nightmare,Toxic Metals,71789
-Battleship,Vindicator,Vindicator Blueprint,1
 Battleship,Vindicator,Tritanium,104459671
 Battleship,Vindicator,Pyerite,33570345
 Battleship,Vindicator,Mexallon,9257622
@@ -2072,7 +1896,6 @@ Battleship,Vindicator,Precious Alloy,220570
 Battleship,Vindicator,Crystal Compound,263768
 Battleship,Vindicator,Reactive Metals,69989
 Battleship,Vindicator,Toxic Metals,69413
-Industrial,Tayra,Tayra Blueprint,1
 Industrial,Tayra,Tritanium,1059655
 Industrial,Tayra,Pyerite,300355
 Industrial,Tayra,Mexallon,94144
@@ -2083,7 +1906,6 @@ Industrial,Tayra,Gleaming Alloy,5762
 Industrial,Tayra,Opulent Compound,6528
 Industrial,Tayra,Reactive Metals,1623
 Industrial,Tayra,Noble Metals,6528
-Industrial,Badger,Badger Blueprint,1
 Industrial,Badger,Tritanium,3760564
 Industrial,Badger,Pyerite,1301357
 Industrial,Badger,Mexallon,356516
@@ -2096,7 +1918,6 @@ Industrial,Badger,Precious Alloy,8986
 Industrial,Badger,Opulent Compound,11467
 Industrial,Badger,Reactive Metals,2852
 Industrial,Badger,Noble Metals,11467
-Industrial,Badger II,Badger II Blueprint,1
 Industrial,Badger II,Tritanium,10820403
 Industrial,Badger II,Pyerite,2648596
 Industrial,Badger II,Mexallon,1022243
@@ -2109,7 +1930,6 @@ Industrial,Badger II,Precious Alloy,23050
 Industrial,Badger II,Opulent Compound,29416
 Industrial,Badger II,Reactive Metals,7314
 Industrial,Badger II,Noble Metals,29416
-Industrial,Wreathe,Wreathe Blueprint,1
 Industrial,Wreathe,Tritanium,3768927
 Industrial,Wreathe,Pyerite,1056256
 Industrial,Wreathe,Mexallon,319516
@@ -2122,7 +1942,6 @@ Industrial,Wreathe,Precious Alloy,8816
 Industrial,Wreathe,Opulent Compound,11251
 Industrial,Wreathe,Reactive Metals,2798
 Industrial,Wreathe,Noble Metals,11251
-Industrial,Mammoth,Mammoth Blueprint,1
 Industrial,Mammoth,Tritanium,1153705
 Industrial,Mammoth,Pyerite,264834
 Industrial,Mammoth,Mexallon,91659
@@ -2133,7 +1952,6 @@ Industrial,Mammoth,Gleaming Alloy,6141
 Industrial,Mammoth,Opulent Compound,6958
 Industrial,Mammoth,Reactive Metals,1730
 Industrial,Mammoth,Noble Metals,6958
-Industrial,Wreathe II,Wreathe II Blueprint,1
 Industrial,Wreathe II,Tritanium,10854638
 Industrial,Wreathe II,Pyerite,3488370
 Industrial,Wreathe II,Mexallon,961981
@@ -2146,7 +1964,6 @@ Industrial,Wreathe II,Precious Alloy,22920
 Industrial,Wreathe II,Opulent Compound,29250
 Industrial,Wreathe II,Reactive Metals,7273
 Industrial,Wreathe II,Noble Metals,29250
-Industrial,Bestower,Bestower Blueprint,1
 Industrial,Bestower,Tritanium,1394712
 Industrial,Bestower,Pyerite,261813
 Industrial,Bestower,Mexallon,90492
@@ -2157,7 +1974,6 @@ Industrial,Bestower,Sheen Compound,6291
 Industrial,Bestower,Opulent Compound,6659
 Industrial,Bestower,Heavy Metals,6291
 Industrial,Bestower,Reactive Metals,1656
-Industrial,Sigil,Sigil Blueprint,1
 Industrial,Sigil,Tritanium,4568024
 Industrial,Sigil,Pyerite,1046908
 Industrial,Sigil,Mexallon,316263
@@ -2170,7 +1986,6 @@ Industrial,Sigil,Precious Alloy,8459
 Industrial,Sigil,Opulent Compound,10795
 Industrial,Sigil,Heavy Metals,10200
 Industrial,Sigil,Reactive Metals,2685
-Industrial,Sigil II,Sigil II Blueprint,1
 Industrial,Sigil II,Tritanium,13235888
 Industrial,Sigil II,Pyerite,3279536
 Industrial,Sigil II,Mexallon,1081298
@@ -2183,7 +1998,6 @@ Industrial,Sigil II,Precious Alloy,22917
 Industrial,Sigil II,Opulent Compound,29246
 Industrial,Sigil II,Heavy Metals,27633
 Industrial,Sigil II,Reactive Metals,7272
-Industrial,Kryos,Kryos Blueprint,1
 Industrial,Kryos,Tritanium,1153854
 Industrial,Kryos,Pyerite,315582
 Industrial,Kryos,Mexallon,102631
@@ -2194,7 +2008,6 @@ Industrial,Kryos,Sheen Compound,6789
 Industrial,Kryos,Opulent Compound,7185
 Industrial,Kryos,Heavy Metals,6789
 Industrial,Kryos,Reactive Metals,1787
-Industrial,Nereus,Nereus Blueprint,1
 Industrial,Nereus,Tritanium,3510231
 Industrial,Nereus,Pyerite,1172117
 Industrial,Nereus,Mexallon,333166
@@ -2207,7 +2020,6 @@ Industrial,Nereus,Precious Alloy,8479
 Industrial,Nereus,Opulent Compound,10820
 Industrial,Nereus,Heavy Metals,10223
 Industrial,Nereus,Reactive Metals,2691
-Industrial,Nereus II,Nereus II Blueprint,1
 Industrial,Nereus II,Tritanium,13036205
 Industrial,Nereus II,Pyerite,2725071
 Industrial,Nereus II,Mexallon,1150764
@@ -2220,7 +2032,6 @@ Industrial,Nereus II,Precious Alloy,23263
 Industrial,Nereus II,Opulent Compound,29687
 Industrial,Nereus II,Heavy Metals,28049
 Industrial,Nereus II,Reactive Metals,7382
-Industrial,Nereus High Mobility,Nereus High Mobility Blueprint,1
 Industrial,Nereus High Mobility,Tritanium,745454
 Industrial,Nereus High Mobility,Pyerite,203884
 Industrial,Nereus High Mobility,Mexallon,66306
@@ -2231,7 +2042,6 @@ Industrial,Nereus High Mobility,Condensed Alloy,4642
 Industrial,Nereus High Mobility,Opulent Compound,4642
 Industrial,Nereus High Mobility,Reactive Metals,1155
 Industrial,Nereus High Mobility,Toxic Metals,1145
-Industrial,Nereus Combat,Nereus Combat Blueprint,1
 Industrial,Nereus Combat,Tritanium,1794383
 Industrial,Nereus Combat,Pyerite,441603
 Industrial,Nereus Combat,Mexallon,151466
@@ -2243,7 +2053,6 @@ Industrial,Nereus Combat,Precious Alloy,4804
 Industrial,Nereus Combat,Opulent Compound,6130
 Industrial,Nereus Combat,Reactive Metals,1525
 Industrial,Nereus Combat,Toxic Metals,1512
-Industrial,Nereus Hauling,Nereus Hauling Blueprint,1
 Industrial,Nereus Hauling,Tritanium,2527366
 Industrial,Nereus Hauling,Pyerite,843924
 Industrial,Nereus Hauling,Mexallon,239880
@@ -2256,7 +2065,6 @@ Industrial,Nereus Hauling,Precious Alloy,6105
 Industrial,Nereus Hauling,Opulent Compound,7791
 Industrial,Nereus Hauling,Reactive Metals,1937
 Industrial,Nereus Hauling,Toxic Metals,1922
-Industrial,Imicus High Mobility,Imicus High Mobility Blueprint,1
 Industrial,Imicus High Mobility,Tritanium,14020
 Industrial,Imicus High Mobility,Pyerite,3377
 Industrial,Imicus High Mobility,Mexallon,1279
@@ -2265,7 +2073,6 @@ Industrial,Imicus High Mobility,Condensed Alloy,294
 Industrial,Imicus High Mobility,Motley Compound,259
 Industrial,Imicus High Mobility,Base Metals,78
 Industrial,Imicus High Mobility,Toxic Metals,73
-Industrial,Humpback High Mobility,Humpback High Mobility Blueprint,1
 Industrial,Humpback High Mobility,Tritanium,13460531
 Industrial,Humpback High Mobility,Pyerite,2812441
 Industrial,Humpback High Mobility,Mexallon,1188302
@@ -2278,7 +2085,6 @@ Industrial,Humpback High Mobility,Precious Alloy,40315
 Industrial,Humpback High Mobility,Crystal Compound,48211
 Industrial,Humpback High Mobility,Reactive Metals,12793
 Industrial,Humpback High Mobility,Toxic Metals,12687
-Industrial,Humpback Hauling,Humpback Hauling Blueprint,1
 Industrial,Humpback Hauling,Tritanium,23031074
 Industrial,Humpback Hauling,Pyerite,4814385
 Industrial,Humpback Hauling,Mexallon,2033056
@@ -2291,7 +2097,6 @@ Industrial,Humpback Hauling,Precious Alloy,41098
 Industrial,Humpback Hauling,Crystal Compound,49146
 Industrial,Humpback Hauling,Reactive Metals,13041
 Industrial,Humpback Hauling,Toxic Metals,12934
-Industrial,Humpback Combat,Humpback Combat Blueprint,1
 Industrial,Humpback Combat,Tritanium,23607186
 Industrial,Humpback Combat,Pyerite,4934814
 Industrial,Humpback Combat,Mexallon,2083911
@@ -2304,7 +2109,6 @@ Industrial,Humpback Combat,Precious Alloy,42126
 Industrial,Humpback Combat,Crystal Compound,50376
 Industrial,Humpback Combat,Reactive Metals,13367
 Industrial,Humpback Combat,Toxic Metals,13257
-Industrial,Retriever,Retriever Blueprint,1
 Industrial,Retriever,Tritanium,2616809
 Industrial,Retriever,Pyerite,644004
 Industrial,Retriever,Mexallon,220888
@@ -2316,7 +2120,6 @@ Industrial,Retriever,Precious Alloy,7005
 Industrial,Retriever,Opulent Compound,8939
 Industrial,Retriever,Reactive Metals,2223
 Industrial,Retriever,Toxic Metals,2205
-Industrial,Procurer,Procurer Blueprint,1
 Industrial,Procurer,Tritanium,6114303
 Industrial,Procurer,Pyerite,1371218
 Industrial,Procurer,Mexallon,481720
@@ -2329,7 +2132,6 @@ Industrial,Procurer,Precious Alloy,17440
 Industrial,Procurer,Opulent Compound,22256
 Industrial,Procurer,Reactive Metals,5534
 Industrial,Procurer,Toxic Metals,5489
-Industrial,Covetor,Covetor Blueprint,1
 Industrial,Covetor,Tritanium,15568417
 Industrial,Covetor,Pyerite,3254401
 Industrial,Covetor,Mexallon,1374294
@@ -2342,7 +2144,6 @@ Industrial,Covetor,Precious Alloy,27781
 Industrial,Covetor,Opulent Compound,35453
 Industrial,Covetor,Reactive Metals,8816
 Industrial,Covetor,Toxic Metals,8743
-Industrial,Venture,Venture Blueprint,1
 Industrial,Venture,Tritanium,17524
 Industrial,Venture,Pyerite,4221
 Industrial,Venture,Mexallon,1598
@@ -2351,7 +2152,6 @@ Industrial,Venture,Condensed Alloy,367
 Industrial,Venture,Motley Compound,324
 Industrial,Venture,Base Metals,97
 Industrial,Venture,Toxic Metals,91
-Industrial,Venture II,Venture II Blueprint,1
 Industrial,Venture II,Tritanium,84853
 Industrial,Venture II,Pyerite,23065
 Industrial,Venture II,Mexallon,6903
@@ -2361,7 +2161,6 @@ Industrial,Venture II,Condensed Alloy,572
 Industrial,Venture II,Motley Compound,505
 Industrial,Venture II,Base Metals,151
 Industrial,Venture II,Toxic Metals,142
-Industrial,Venture III,Venture III Blueprint,1
 Industrial,Venture III,Tritanium,250945
 Industrial,Venture III,Pyerite,68634
 Industrial,Venture III,Mexallon,22321
@@ -2372,7 +2171,6 @@ Industrial,Venture III,Precious Alloy,1225
 Industrial,Venture III,Fiber Composite,1563
 Industrial,Venture III,Reactive Metals,389
 Industrial,Venture III,Toxic Metals,386
-Module,MK5 Cloaking Device,MK5 Cloaking Device Blueprint,1
 Module,MK5 Cloaking Device,Tritanium,67903
 Module,MK5 Cloaking Device,Pyerite,15246
 Module,MK5 Cloaking Device,Mexallon,6184
@@ -2383,7 +2181,6 @@ Module,MK5 Cloaking Device,Precious Alloy,1058
 Module,MK5 Cloaking Device,Lucent Compound,1382
 Module,MK5 Cloaking Device,Dark Compound,1081
 Module,MK5 Cloaking Device,Base Metals,282
-Module,MK7 Cloaking Device,MK7 Cloaking Device Blueprint,1
 Module,MK7 Cloaking Device,Tritanium,110900
 Module,MK7 Cloaking Device,Pyerite,30393
 Module,MK7 Cloaking Device,Mexallon,8344
@@ -2395,7 +2192,6 @@ Module,MK7 Cloaking Device,Precious Alloy,2012
 Module,MK7 Cloaking Device,Lucent Compound,2410
 Module,MK7 Cloaking Device,Dark Compound,2346
 Module,MK7 Cloaking Device,Base Metals,529
-Module,MK9 Cloaking Device,MK9 Cloaking Device Blueprint,1
 Module,MK9 Cloaking Device,Tritanium,188186
 Module,MK9 Cloaking Device,Pyerite,38364
 Module,MK9 Cloaking Device,Mexallon,12905
@@ -2408,7 +2204,6 @@ Module,MK9 Cloaking Device,Precious Alloy,2292
 Module,MK9 Cloaking Device,Lucent Compound,3239
 Module,MK9 Cloaking Device,Dark Compound,3397
 Module,MK9 Cloaking Device,Base Metals,902
-Module,MK5 Covert Ops Cloaking Device,MK5 Covert Ops Cloaking Device Blueprint,1
 Module,MK5 Covert Ops Cloaking Device,Tritanium,262176
 Module,MK5 Covert Ops Cloaking Device,Pyerite,59020
 Module,MK5 Covert Ops Cloaking Device,Mexallon,22066
@@ -2419,7 +2214,6 @@ Module,MK5 Covert Ops Cloaking Device,Precious Alloy,4641
 Module,MK5 Covert Ops Cloaking Device,Lucent Compound,4569
 Module,MK5 Covert Ops Cloaking Device,Crystal Compound,4531
 Module,MK5 Covert Ops Cloaking Device,Noble Metals,4948
-Module,MK7 Covert Ops Cloaking Device,MK7 Covert Ops Cloaking Device Blueprint,1
 Module,MK7 Covert Ops Cloaking Device,Tritanium,472498
 Module,MK7 Covert Ops Cloaking Device,Pyerite,111627
 Module,MK7 Covert Ops Cloaking Device,Mexallon,43563
@@ -2431,7 +2225,6 @@ Module,MK7 Covert Ops Cloaking Device,Precious Alloy,6299
 Module,MK7 Covert Ops Cloaking Device,Lucent Compound,9063
 Module,MK7 Covert Ops Cloaking Device,Crystal Compound,9938
 Module,MK7 Covert Ops Cloaking Device,Noble Metals,9795
-Module,MK9 Covert Ops Cloaking Device,MK9 Covert Ops Cloaking Device Blueprint,1
 Module,MK9 Covert Ops Cloaking Device,Tritanium,605589
 Module,MK9 Covert Ops Cloaking Device,Pyerite,156768
 Module,MK9 Covert Ops Cloaking Device,Mexallon,45378
@@ -2444,7 +2237,6 @@ Module,MK9 Covert Ops Cloaking Device,Precious Alloy,10968
 Module,MK9 Covert Ops Cloaking Device,Lucent Compound,13406
 Module,MK9 Covert Ops Cloaking Device,Crystal Compound,13385
 Module,MK9 Covert Ops Cloaking Device,Noble Metals,11696
-Module,MK5 Small Shield Field Module,MK5 Small Shield Field Module Blueprint,1
 Module,MK5 Small Shield Field Module,Tritanium,46849
 Module,MK5 Small Shield Field Module,Pyerite,14408
 Module,MK5 Small Shield Field Module,Mexallon,4749
@@ -2455,7 +2247,6 @@ Module,MK5 Small Shield Field Module,Dark Compound,1000
 Module,MK5 Small Shield Field Module,Base Metals,273
 Module,MK5 Small Shield Field Module,Reactive Metals,239
 Module,MK5 Small Shield Field Module,Toxic Metals,285
-Module,MK7 Small Shield Field Module,MK7 Small Shield Field Module Blueprint,1
 Module,MK7 Small Shield Field Module,Tritanium,106610
 Module,MK7 Small Shield Field Module,Pyerite,23624
 Module,MK7 Small Shield Field Module,Mexallon,8158
@@ -2467,7 +2258,6 @@ Module,MK7 Small Shield Field Module,Dark Compound,1737
 Module,MK7 Small Shield Field Module,Base Metals,545
 Module,MK7 Small Shield Field Module,Reactive Metals,518
 Module,MK7 Small Shield Field Module,Toxic Metals,450
-Module,MK9 Small Shield Field Module,MK9 Small Shield Field Module Blueprint,1
 Module,MK9 Small Shield Field Module,Tritanium,134838
 Module,MK9 Small Shield Field Module,Pyerite,32026
 Module,MK9 Small Shield Field Module,Mexallon,12539
@@ -2480,7 +2270,6 @@ Module,MK9 Small Shield Field Module,Dark Compound,2193
 Module,MK9 Small Shield Field Module,Base Metals,652
 Module,MK9 Small Shield Field Module,Reactive Metals,716
 Module,MK9 Small Shield Field Module,Toxic Metals,686
-Module,MK5 Medium Shield Field Module,MK5 Medium Shield Field Module Blueprint,1
 Module,MK5 Medium Shield Field Module,Tritanium,99001
 Module,MK5 Medium Shield Field Module,Pyerite,28672
 Module,MK5 Medium Shield Field Module,Mexallon,9804
@@ -2491,7 +2280,6 @@ Module,MK5 Medium Shield Field Module,Condensed Alloy,2010
 Module,MK5 Medium Shield Field Module,Crystal Compound,1897
 Module,MK5 Medium Shield Field Module,Reactive Metals,549
 Module,MK5 Medium Shield Field Module,Toxic Metals,533
-Module,MK7 Medium Shield Field Module,MK7 Medium Shield Field Module Blueprint,1
 Module,MK7 Medium Shield Field Module,Tritanium,175520
 Module,MK7 Medium Shield Field Module,Pyerite,45358
 Module,MK7 Medium Shield Field Module,Mexallon,16069
@@ -2503,7 +2291,6 @@ Module,MK7 Medium Shield Field Module,Condensed Alloy,4027
 Module,MK7 Medium Shield Field Module,Crystal Compound,3520
 Module,MK7 Medium Shield Field Module,Reactive Metals,928
 Module,MK7 Medium Shield Field Module,Toxic Metals,833
-Module,MK9 Medium Shield Field Module,MK9 Medium Shield Field Module Blueprint,1
 Module,MK9 Medium Shield Field Module,Tritanium,273724
 Module,MK9 Medium Shield Field Module,Pyerite,69678
 Module,MK9 Medium Shield Field Module,Mexallon,22236
@@ -2516,7 +2303,6 @@ Module,MK9 Medium Shield Field Module,Condensed Alloy,4564
 Module,MK9 Medium Shield Field Module,Crystal Compound,5822
 Module,MK9 Medium Shield Field Module,Reactive Metals,1087
 Module,MK9 Medium Shield Field Module,Toxic Metals,1239
-Module,MK7 Large Shield Field Module,MK7 Large Shield Field Module Blueprint,1
 Module,MK7 Large Shield Field Module,Tritanium,474423
 Module,MK7 Large Shield Field Module,Pyerite,120626
 Module,MK7 Large Shield Field Module,Mexallon,43931
@@ -2528,7 +2314,6 @@ Module,MK7 Large Shield Field Module,Motley Compound,8413
 Module,MK7 Large Shield Field Module,Fiber Composite,8365
 Module,MK7 Large Shield Field Module,Heavy Metals,7291
 Module,MK7 Large Shield Field Module,Noble Metals,9727
-Module,MK9 Large Shield Field Module,MK9 Large Shield Field Module Blueprint,1
 Module,MK9 Large Shield Field Module,Tritanium,653619
 Module,MK9 Large Shield Field Module,Pyerite,143329
 Module,MK9 Large Shield Field Module,Mexallon,51730
@@ -2541,7 +2326,6 @@ Module,MK9 Large Shield Field Module,Motley Compound,13078
 Module,MK9 Large Shield Field Module,Fiber Composite,10400
 Module,MK9 Large Shield Field Module,Heavy Metals,11565
 Module,MK9 Large Shield Field Module,Noble Metals,14265
-Module,MK5 Small Armor Link Module,MK5 Small Armor Link Module Blueprint,1
 Module,MK5 Small Armor Link Module,Tritanium,45510
 Module,MK5 Small Armor Link Module,Pyerite,14343
 Module,MK5 Small Armor Link Module,Mexallon,4328
@@ -2552,7 +2336,6 @@ Module,MK5 Small Armor Link Module,Condensed Alloy,938
 Module,MK5 Small Armor Link Module,Opulent Compound,1171
 Module,MK5 Small Armor Link Module,Crystal Compound,1090
 Module,MK5 Small Armor Link Module,Reactive Metals,211
-Module,MK7 Small Armor Link Module,MK7 Small Armor Link Module Blueprint,1
 Module,MK7 Small Armor Link Module,Tritanium,76701
 Module,MK7 Small Armor Link Module,Pyerite,23858
 Module,MK7 Small Armor Link Module,Mexallon,7518
@@ -2564,7 +2347,6 @@ Module,MK7 Small Armor Link Module,Condensed Alloy,1798
 Module,MK7 Small Armor Link Module,Opulent Compound,1595
 Module,MK7 Small Armor Link Module,Crystal Compound,1875
 Module,MK7 Small Armor Link Module,Reactive Metals,508
-Module,MK9 Small Armor Link Module,MK9 Small Armor Link Module Blueprint,1
 Module,MK9 Small Armor Link Module,Tritanium,133469
 Module,MK9 Small Armor Link Module,Pyerite,36008
 Module,MK9 Small Armor Link Module,Mexallon,10610
@@ -2577,7 +2359,6 @@ Module,MK9 Small Armor Link Module,Condensed Alloy,2187
 Module,MK9 Small Armor Link Module,Opulent Compound,2973
 Module,MK9 Small Armor Link Module,Crystal Compound,2157
 Module,MK9 Small Armor Link Module,Reactive Metals,744
-Module,MK5 Medium Armor Link Module,MK5 Medium Armor Link Module Blueprint,1
 Module,MK5 Medium Armor Link Module,Tritanium,105958
 Module,MK5 Medium Armor Link Module,Pyerite,22574
 Module,MK5 Medium Armor Link Module,Mexallon,9715
@@ -2588,7 +2369,6 @@ Module,MK5 Medium Armor Link Module,Precious Alloy,1551
 Module,MK5 Medium Armor Link Module,Motley Compound,1694
 Module,MK5 Medium Armor Link Module,Lucent Compound,2239
 Module,MK5 Medium Armor Link Module,Noble Metals,2385
-Module,MK7 Medium Armor Link Module,MK7 Medium Armor Link Module Blueprint,1
 Module,MK7 Medium Armor Link Module,Tritanium,189021
 Module,MK7 Medium Armor Link Module,Pyerite,39980
 Module,MK7 Medium Armor Link Module,Mexallon,17428
@@ -2600,7 +2380,6 @@ Module,MK7 Medium Armor Link Module,Precious Alloy,2880
 Module,MK7 Medium Armor Link Module,Motley Compound,3530
 Module,MK7 Medium Armor Link Module,Lucent Compound,3754
 Module,MK7 Medium Armor Link Module,Noble Metals,3162
-Module,MK9 Medium Armor Link Module,MK9 Medium Armor Link Module Blueprint,1
 Module,MK9 Medium Armor Link Module,Tritanium,227191
 Module,MK9 Medium Armor Link Module,Pyerite,71005
 Module,MK9 Medium Armor Link Module,Mexallon,23257
@@ -2613,7 +2392,6 @@ Module,MK9 Medium Armor Link Module,Precious Alloy,4087
 Module,MK9 Medium Armor Link Module,Motley Compound,4367
 Module,MK9 Medium Armor Link Module,Lucent Compound,6196
 Module,MK9 Medium Armor Link Module,Noble Metals,5062
-Module,MK7 Large Armor Link Module,MK7 Large Armor Link Module Blueprint,1
 Module,MK7 Large Armor Link Module,Tritanium,446652
 Module,MK7 Large Armor Link Module,Pyerite,120065
 Module,MK7 Large Armor Link Module,Mexallon,35682
@@ -2625,7 +2403,6 @@ Module,MK7 Large Armor Link Module,Precious Alloy,7876
 Module,MK7 Large Armor Link Module,Glossy Compound,6582
 Module,MK7 Large Armor Link Module,Dark Compound,9681
 Module,MK7 Large Armor Link Module,Heavy Metals,8517
-Module,MK9 Large Armor Link Module,MK9 Large Armor Link Module Blueprint,1
 Module,MK9 Large Armor Link Module,Tritanium,584644
 Module,MK9 Large Armor Link Module,Pyerite,175976
 Module,MK9 Large Armor Link Module,Mexallon,54453
@@ -2638,7 +2415,6 @@ Module,MK9 Large Armor Link Module,Precious Alloy,8726
 Module,MK9 Large Armor Link Module,Glossy Compound,9910
 Module,MK9 Large Armor Link Module,Dark Compound,14174
 Module,MK9 Large Armor Link Module,Heavy Metals,13739
-Module,MK5 Small Group Shield Booster,MK5 Small Group Shield Booster Blueprint,1
 Module,MK5 Small Group Shield Booster,Tritanium,42038
 Module,MK5 Small Group Shield Booster,Pyerite,10089
 Module,MK5 Small Group Shield Booster,Mexallon,2940
@@ -2649,7 +2425,6 @@ Module,MK5 Small Group Shield Booster,Motley Compound,772
 Module,MK5 Small Group Shield Booster,Glossy Compound,631
 Module,MK5 Small Group Shield Booster,Reactive Metals,182
 Module,MK5 Small Group Shield Booster,Noble Metals,982
-Module,MK7 Small Group Shield Booster,MK7 Small Group Shield Booster Blueprint,1
 Module,MK7 Small Group Shield Booster,Tritanium,60272
 Module,MK7 Small Group Shield Booster,Pyerite,19797
 Module,MK7 Small Group Shield Booster,Mexallon,6834
@@ -2661,7 +2436,6 @@ Module,MK7 Small Group Shield Booster,Motley Compound,1385
 Module,MK7 Small Group Shield Booster,Glossy Compound,1424
 Module,MK7 Small Group Shield Booster,Reactive Metals,410
 Module,MK7 Small Group Shield Booster,Noble Metals,1602
-Module,MK9 Small Group Shield Booster,MK9 Small Group Shield Booster Blueprint,1
 Module,MK9 Small Group Shield Booster,Tritanium,110071
 Module,MK9 Small Group Shield Booster,Pyerite,24897
 Module,MK9 Small Group Shield Booster,Mexallon,8795
@@ -2674,7 +2448,6 @@ Module,MK9 Small Group Shield Booster,Motley Compound,2203
 Module,MK9 Small Group Shield Booster,Glossy Compound,1670
 Module,MK9 Small Group Shield Booster,Reactive Metals,542
 Module,MK9 Small Group Shield Booster,Noble Metals,2226
-Module,MK5 Medium Group Shield Booster,MK5 Medium Group Shield Booster Blueprint,1
 Module,MK5 Medium Group Shield Booster,Tritanium,81425
 Module,MK5 Medium Group Shield Booster,Pyerite,16862
 Module,MK5 Medium Group Shield Booster,Mexallon,8367
@@ -2685,7 +2458,6 @@ Module,MK5 Medium Group Shield Booster,Precious Alloy,1313
 Module,MK5 Medium Group Shield Booster,Lucent Compound,1752
 Module,MK5 Medium Group Shield Booster,Opulent Compound,1355
 Module,MK5 Medium Group Shield Booster,Heavy Metals,1673
-Module,MK7 Medium Group Shield Booster,MK7 Medium Group Shield Booster Blueprint,1
 Module,MK7 Medium Group Shield Booster,Tritanium,172649
 Module,MK7 Medium Group Shield Booster,Pyerite,46569
 Module,MK7 Medium Group Shield Booster,Mexallon,11669
@@ -2697,7 +2469,6 @@ Module,MK7 Medium Group Shield Booster,Precious Alloy,2750
 Module,MK7 Medium Group Shield Booster,Lucent Compound,2471
 Module,MK7 Medium Group Shield Booster,Opulent Compound,2703
 Module,MK7 Medium Group Shield Booster,Heavy Metals,3006
-Module,MK9 Medium Group Shield Booster,MK9 Medium Group Shield Booster Blueprint,1
 Module,MK9 Medium Group Shield Booster,Tritanium,199704
 Module,MK9 Medium Group Shield Booster,Pyerite,46489
 Module,MK9 Medium Group Shield Booster,Mexallon,16460
@@ -2710,7 +2481,6 @@ Module,MK9 Medium Group Shield Booster,Precious Alloy,3414
 Module,MK9 Medium Group Shield Booster,Lucent Compound,4236
 Module,MK9 Medium Group Shield Booster,Opulent Compound,5183
 Module,MK9 Medium Group Shield Booster,Heavy Metals,3575
-Module,MK7 Large Group Shield Booster,MK7 Large Group Shield Booster Blueprint,1
 Module,MK7 Large Group Shield Booster,Tritanium,408695
 Module,MK7 Large Group Shield Booster,Pyerite,81889
 Module,MK7 Large Group Shield Booster,Mexallon,30939
@@ -2722,7 +2492,6 @@ Module,MK7 Large Group Shield Booster,Condensed Alloy,6955
 Module,MK7 Large Group Shield Booster,Motley Compound,7477
 Module,MK7 Large Group Shield Booster,Fiber Composite,6903
 Module,MK7 Large Group Shield Booster,Noble Metals,6327
-Module,MK9 Large Group Shield Booster,MK9 Large Group Shield Booster Blueprint,1
 Module,MK9 Large Group Shield Booster,Tritanium,626332
 Module,MK9 Large Group Shield Booster,Pyerite,124115
 Module,MK9 Large Group Shield Booster,Mexallon,41987
@@ -2735,7 +2504,6 @@ Module,MK9 Large Group Shield Booster,Condensed Alloy,9462
 Module,MK9 Large Group Shield Booster,Motley Compound,9833
 Module,MK9 Large Group Shield Booster,Fiber Composite,11141
 Module,MK9 Large Group Shield Booster,Noble Metals,9309
-Module,MK5 Small Group Armor Repairer,MK5 Small Group Armor Repairer Blueprint,1
 Module,MK5 Small Group Armor Repairer,Tritanium,42463
 Module,MK5 Small Group Armor Repairer,Pyerite,9986
 Module,MK5 Small Group Armor Repairer,Mexallon,3767
@@ -2746,7 +2514,6 @@ Module,MK5 Small Group Armor Repairer,Crystal Compound,814
 Module,MK5 Small Group Armor Repairer,Dark Compound,703
 Module,MK5 Small Group Armor Repairer,Base Metals,243
 Module,MK5 Small Group Armor Repairer,Reactive Metals,193
-Module,MK7 Small Group Armor Repairer,MK7 Small Group Armor Repairer Blueprint,1
 Module,MK7 Small Group Armor Repairer,Tritanium,71160
 Module,MK7 Small Group Armor Repairer,Pyerite,19891
 Module,MK7 Small Group Armor Repairer,Mexallon,6286
@@ -2758,7 +2525,6 @@ Module,MK7 Small Group Armor Repairer,Crystal Compound,1430
 Module,MK7 Small Group Armor Repairer,Dark Compound,1226
 Module,MK7 Small Group Armor Repairer,Base Metals,479
 Module,MK7 Small Group Armor Repairer,Reactive Metals,404
-Module,MK9 Small Group Armor Repairer,MK9 Small Group Armor Repairer Blueprint,1
 Module,MK9 Small Group Armor Repairer,Tritanium,104965
 Module,MK9 Small Group Armor Repairer,Pyerite,29299
 Module,MK9 Small Group Armor Repairer,Mexallon,11006
@@ -2771,7 +2537,6 @@ Module,MK9 Small Group Armor Repairer,Crystal Compound,2473
 Module,MK9 Small Group Armor Repairer,Dark Compound,1758
 Module,MK9 Small Group Armor Repairer,Base Metals,632
 Module,MK9 Small Group Armor Repairer,Reactive Metals,562
-Module,MK5 Medium Group Armor Repairer,MK5 Medium Group Armor Repairer Blueprint,1
 Module,MK5 Medium Group Armor Repairer,Tritanium,94572
 Module,MK5 Medium Group Armor Repairer,Pyerite,19226
 Module,MK5 Medium Group Armor Repairer,Mexallon,7910
@@ -2782,7 +2547,6 @@ Module,MK5 Medium Group Armor Repairer,Glossy Compound,1343
 Module,MK5 Medium Group Armor Repairer,Dark Compound,1303
 Module,MK5 Medium Group Armor Repairer,Heavy Metals,1482
 Module,MK5 Medium Group Armor Repairer,Noble Metals,2080
-Module,MK7 Medium Group Armor Repairer,MK7 Medium Group Armor Repairer Blueprint,1
 Module,MK7 Medium Group Armor Repairer,Tritanium,179649
 Module,MK7 Medium Group Armor Repairer,Pyerite,41856
 Module,MK7 Medium Group Armor Repairer,Mexallon,11604
@@ -2794,7 +2558,6 @@ Module,MK7 Medium Group Armor Repairer,Glossy Compound,3001
 Module,MK7 Medium Group Armor Repairer,Dark Compound,2245
 Module,MK7 Medium Group Armor Repairer,Heavy Metals,2512
 Module,MK7 Medium Group Armor Repairer,Noble Metals,3225
-Module,MK9 Medium Group Armor Repairer,MK9 Medium Group Armor Repairer Blueprint,1
 Module,MK9 Medium Group Armor Repairer,Tritanium,268919
 Module,MK9 Medium Group Armor Repairer,Pyerite,50891
 Module,MK9 Medium Group Armor Repairer,Mexallon,16931
@@ -2807,7 +2570,6 @@ Module,MK9 Medium Group Armor Repairer,Glossy Compound,3648
 Module,MK9 Medium Group Armor Repairer,Dark Compound,4717
 Module,MK9 Medium Group Armor Repairer,Heavy Metals,4236
 Module,MK9 Medium Group Armor Repairer,Noble Metals,4674
-Module,MK7 Large Group Armor Repairer,MK7 Large Group Armor Repairer Blueprint,1
 Module,MK7 Large Group Armor Repairer,Tritanium,440420
 Module,MK7 Large Group Armor Repairer,Pyerite,91842
 Module,MK7 Large Group Armor Repairer,Mexallon,29392
@@ -2819,7 +2581,6 @@ Module,MK7 Large Group Armor Repairer,Opulent Compound,8158
 Module,MK7 Large Group Armor Repairer,Crystal Compound,5978
 Module,MK7 Large Group Armor Repairer,Reactive Metals,2185
 Module,MK7 Large Group Armor Repairer,Noble Metals,6798
-Module,MK9 Large Group Armor Repairer,MK9 Large Group Armor Repairer Blueprint,1
 Module,MK9 Large Group Armor Repairer,Tritanium,471111
 Module,MK9 Large Group Armor Repairer,Pyerite,127416
 Module,MK9 Large Group Armor Repairer,Mexallon,43567
@@ -2832,7 +2593,6 @@ Module,MK9 Large Group Armor Repairer,Opulent Compound,10225
 Module,MK9 Large Group Armor Repairer,Crystal Compound,9867
 Module,MK9 Large Group Armor Repairer,Reactive Metals,3036
 Module,MK9 Large Group Armor Repairer,Noble Metals,10301
-Module,MK5 Small Group Capacitor Transmitter,MK5 Small Group Capacitor Transmitter Blueprint,1
 Module,MK5 Small Group Capacitor Transmitter,Tritanium,46921
 Module,MK5 Small Group Capacitor Transmitter,Pyerite,10192
 Module,MK5 Small Group Capacitor Transmitter,Mexallon,3221
@@ -2843,7 +2603,6 @@ Module,MK5 Small Group Capacitor Transmitter,Motley Compound,757
 Module,MK5 Small Group Capacitor Transmitter,Fiber Composite,845
 Module,MK5 Small Group Capacitor Transmitter,Dark Compound,799
 Module,MK5 Small Group Capacitor Transmitter,Base Metals,210
-Module,MK7 Small Group Capacitor Transmitter,MK7 Small Group Capacitor Transmitter Blueprint,1
 Module,MK7 Small Group Capacitor Transmitter,Tritanium,81270
 Module,MK7 Small Group Capacitor Transmitter,Pyerite,17346
 Module,MK7 Small Group Capacitor Transmitter,Mexallon,5480
@@ -2855,7 +2614,6 @@ Module,MK7 Small Group Capacitor Transmitter,Motley Compound,1328
 Module,MK7 Small Group Capacitor Transmitter,Fiber Composite,1667
 Module,MK7 Small Group Capacitor Transmitter,Dark Compound,1606
 Module,MK7 Small Group Capacitor Transmitter,Base Metals,365
-Module,MK9 Small Group Capacitor Transmitter,MK9 Small Group Capacitor Transmitter Blueprint,1
 Module,MK9 Small Group Capacitor Transmitter,Tritanium,107234
 Module,MK9 Small Group Capacitor Transmitter,Pyerite,25722
 Module,MK9 Small Group Capacitor Transmitter,Mexallon,9736
@@ -2868,7 +2626,6 @@ Module,MK9 Small Group Capacitor Transmitter,Motley Compound,1796
 Module,MK9 Small Group Capacitor Transmitter,Fiber Composite,2560
 Module,MK9 Small Group Capacitor Transmitter,Dark Compound,2043
 Module,MK9 Small Group Capacitor Transmitter,Base Metals,523
-Module,MK5 Medium Group Capacitor Transmitter,MK5 Medium Group Capacitor Transmitter Blueprint,1
 Module,MK5 Medium Group Capacitor Transmitter,Tritanium,73368
 Module,MK5 Medium Group Capacitor Transmitter,Pyerite,20666
 Module,MK5 Medium Group Capacitor Transmitter,Mexallon,7066
@@ -2879,7 +2636,6 @@ Module,MK5 Medium Group Capacitor Transmitter,Lucent Compound,1415
 Module,MK5 Medium Group Capacitor Transmitter,Glossy Compound,1511
 Module,MK5 Medium Group Capacitor Transmitter,Heavy Metals,1763
 Module,MK5 Medium Group Capacitor Transmitter,Reactive Metals,367
-Module,MK7 Medium Group Capacitor Transmitter,MK7 Medium Group Capacitor Transmitter Blueprint,1
 Module,MK7 Medium Group Capacitor Transmitter,Tritanium,179649
 Module,MK7 Medium Group Capacitor Transmitter,Pyerite,37897
 Module,MK7 Medium Group Capacitor Transmitter,Mexallon,14505
@@ -2891,7 +2647,6 @@ Module,MK7 Medium Group Capacitor Transmitter,Lucent Compound,2945
 Module,MK7 Medium Group Capacitor Transmitter,Glossy Compound,3155
 Module,MK7 Medium Group Capacitor Transmitter,Heavy Metals,2759
 Module,MK7 Medium Group Capacitor Transmitter,Reactive Metals,748
-Module,MK9 Medium Group Capacitor Transmitter,MK9 Medium Group Capacitor Transmitter Blueprint,1
 Module,MK9 Medium Group Capacitor Transmitter,Tritanium,280266
 Module,MK9 Medium Group Capacitor Transmitter,Pyerite,51716
 Module,MK9 Medium Group Capacitor Transmitter,Mexallon,17495
@@ -2904,7 +2659,6 @@ Module,MK9 Medium Group Capacitor Transmitter,Lucent Compound,3845
 Module,MK9 Medium Group Capacitor Transmitter,Glossy Compound,4350
 Module,MK9 Medium Group Capacitor Transmitter,Heavy Metals,4146
 Module,MK9 Medium Group Capacitor Transmitter,Reactive Metals,1186
-Module,MK7 Large Group Capacitor Transmitter,MK7 Large Group Capacitor Transmitter Blueprint,1
 Module,MK7 Large Group Capacitor Transmitter,Tritanium,300456
 Module,MK7 Large Group Capacitor Transmitter,Pyerite,91390
 Module,MK7 Large Group Capacitor Transmitter,Mexallon,32950
@@ -2916,7 +2670,6 @@ Module,MK7 Large Group Capacitor Transmitter,Lucent Compound,6769
 Module,MK7 Large Group Capacitor Transmitter,Crystal Compound,8134
 Module,MK7 Large Group Capacitor Transmitter,Base Metals,1721
 Module,MK7 Large Group Capacitor Transmitter,Noble Metals,7112
-Module,MK9 Large Group Capacitor Transmitter,MK9 Large Group Capacitor Transmitter Blueprint,1
 Module,MK9 Large Group Capacitor Transmitter,Tritanium,514682
 Module,MK9 Large Group Capacitor Transmitter,Pyerite,112232
 Module,MK9 Large Group Capacitor Transmitter,Mexallon,52596
@@ -2929,610 +2682,408 @@ Module,MK9 Large Group Capacitor Transmitter,Lucent Compound,10598
 Module,MK9 Large Group Capacitor Transmitter,Crystal Compound,10082
 Module,MK9 Large Group Capacitor Transmitter,Base Metals,2450
 Module,MK9 Large Group Capacitor Transmitter,Noble Metals,10454
-Rig,Railgun Collision Accelerator I,Railgun Collision Accelerator I Blueprint,1
 Rig,Railgun Collision Accelerator I,Charred Micro Circuit,95
 Rig,Railgun Collision Accelerator I,Defective Current Pump,19
-Rig,Railgun Collision Accelerator II,Railgun Collision Accelerator II Blueprint,1
 Rig,Railgun Collision Accelerator II,Fried Interface Circuit,158
 Rig,Railgun Collision Accelerator II,Defective Current Pump,47
-Rig,Railgun Collision Accelerator III,Railgun Collision Accelerator III Blueprint,1
 Rig,Railgun Collision Accelerator III,Tripped Power Circuit,296
 Rig,Railgun Collision Accelerator III,Defective Current Pump,116
-Rig,Railgun Ambit Extension I,Railgun Ambit Extension I Blueprint,1
 Rig,Railgun Ambit Extension I,Charred Micro Circuit,68
 Rig,Railgun Ambit Extension I,Defective Current Pump,22
-Rig,Railgun Ambit Extension II,Railgun Ambit Extension II Blueprint,1
 Rig,Railgun Ambit Extension II,Fried Interface Circuit,113
 Rig,Railgun Ambit Extension II,Defective Current Pump,54
-Rig,Railgun Ambit Extension III,Railgun Ambit Extension III Blueprint,1
 Rig,Railgun Ambit Extension III,Tripped Power Circuit,211
 Rig,Railgun Ambit Extension III,Defective Current Pump,135
-Rig,Railgun Discharge Elutriation I,Railgun Discharge Elutriation I Blueprint,1
 Rig,Railgun Discharge Elutriation I,Charred Micro Circuit,33
 Rig,Railgun Discharge Elutriation I,Defective Current Pump,18
-Rig,Railgun Discharge Elutriation II,Railgun Discharge Elutriation II Blueprint,1
 Rig,Railgun Discharge Elutriation II,Fried Interface Circuit,54
 Rig,Railgun Discharge Elutriation II,Defective Current Pump,44
-Rig,Railgun Discharge Elutriation III,Railgun Discharge Elutriation III Blueprint,1
 Rig,Railgun Discharge Elutriation III,Tripped Power Circuit,101
 Rig,Railgun Discharge Elutriation III,Defective Current Pump,110
-Rig,Railgun Burst Aerator I,Railgun Burst Aerator I Blueprint,1
 Rig,Railgun Burst Aerator I,Charred Micro Circuit,88
 Rig,Railgun Burst Aerator I,Defective Current Pump,21
-Rig,Railgun Burst Aerator II,Railgun Burst Aerator II Blueprint,1
 Rig,Railgun Burst Aerator II,Fried Interface Circuit,146
 Rig,Railgun Burst Aerator II,Defective Current Pump,51
-Rig,Railgun Burst Aerator III,Railgun Burst Aerator III Blueprint,1
 Rig,Railgun Burst Aerator III,Tripped Power Circuit,273
 Rig,Railgun Burst Aerator III,Defective Current Pump,127
-Rig,Algid Railgun Administrations Unit I,Algid Railgun Administrations Unit I Blueprint,1
 Rig,Algid Railgun Administrations Unit I,Charred Micro Circuit,28
 Rig,Algid Railgun Administrations Unit I,Defective Current Pump,16
-Rig,Algid Railgun Administrations Unit II,Algid Railgun Administrations Unit II Blueprint,1
 Rig,Algid Railgun Administrations Unit II,Fried Interface Circuit,47
 Rig,Algid Railgun Administrations Unit II,Defective Current Pump,40
-Rig,Algid Railgun Administrations Unit III,Algid Railgun Administrations Unit III Blueprint,1
 Rig,Algid Railgun Administrations Unit III,Tripped Power Circuit,87
 Rig,Algid Railgun Administrations Unit III,Defective Current Pump,99
-Rig,Laser Collision Accelerator I,Laser Collision Accelerator I Blueprint,1
 Rig,Laser Collision Accelerator I,Smashed Trigger Unit,48
 Rig,Laser Collision Accelerator I,Conductive Polymer,56
-Rig,Laser Collision Accelerator II,Laser Collision Accelerator II Blueprint,1
 Rig,Laser Collision Accelerator II,Damaged Close-in Weapon System,79
 Rig,Laser Collision Accelerator II,Conductive Polymer,139
-Rig,Laser Collision Accelerator III,Laser Collision Accelerator III Blueprint,1
 Rig,Laser Collision Accelerator III,Scorched Telemetry Processor,148
 Rig,Laser Collision Accelerator III,Conductive Polymer,347
-Rig,Laser Ambit Extension I,Laser Ambit Extension I Blueprint,1
 Rig,Laser Ambit Extension I,Smashed Trigger Unit,34
 Rig,Laser Ambit Extension I,Conductive Polymer,65
-Rig,Laser Ambit Extension II,Laser Ambit Extension II Blueprint,1
 Rig,Laser Ambit Extension II,Damaged Close-in Weapon System,57
 Rig,Laser Ambit Extension II,Conductive Polymer,162
-Rig,Laser Ambit Extension III,Laser Ambit Extension III Blueprint,1
 Rig,Laser Ambit Extension III,Scorched Telemetry Processor,106
 Rig,Laser Ambit Extension III,Conductive Polymer,405
-Rig,Laser Discharge Elutriation I,Laser Discharge Elutriation I Blueprint,1
 Rig,Laser Discharge Elutriation I,Smashed Trigger Unit,17
 Rig,Laser Discharge Elutriation I,Conductive Polymer,53
-Rig,Laser Discharge Elutriation II,Laser Discharge Elutriation II Blueprint,1
 Rig,Laser Discharge Elutriation II,Damaged Close-in Weapon System,27
 Rig,Laser Discharge Elutriation II,Conductive Polymer,132
-Rig,Laser Discharge Elutriation III,Laser Discharge Elutriation III Blueprint,1
 Rig,Laser Discharge Elutriation III,Scorched Telemetry Processor,51
 Rig,Laser Discharge Elutriation III,Conductive Polymer,330
-Rig,Laser Burst Aerator I,Laser Burst Aerator I Blueprint,1
 Rig,Laser Burst Aerator I,Smashed Trigger Unit,44
 Rig,Laser Burst Aerator I,Conductive Polymer,61
-Rig,Laser Burst Aerator II,Laser Burst Aerator II Blueprint,1
 Rig,Laser Burst Aerator II,Damaged Close-in Weapon System,73
 Rig,Laser Burst Aerator II,Conductive Polymer,152
-Rig,Laser Burst Aerator III,Laser Burst Aerator III Blueprint,1
 Rig,Laser Burst Aerator III,Scorched Telemetry Processor,137
 Rig,Laser Burst Aerator III,Conductive Polymer,380
-Rig,Algid Energy Administrations Unit I,Algid Energy Administrations Unit I Blueprint,1
 Rig,Algid Energy Administrations Unit I,Smashed Trigger Unit,14
 Rig,Algid Energy Administrations Unit I,Conductive Polymer,48
-Rig,Algid Energy Administrations Unit II,Algid Energy Administrations Unit II Blueprint,1
 Rig,Algid Energy Administrations Unit II,Damaged Close-in Weapon System,24
 Rig,Algid Energy Administrations Unit II,Conductive Polymer,119
-Rig,Algid Energy Administrations Unit III,Algid Energy Administrations Unit III Blueprint,1
 Rig,Algid Energy Administrations Unit III,Scorched Telemetry Processor,44
 Rig,Algid Energy Administrations Unit III,Conductive Polymer,296
-Rig,Cannon Collision Accelerator I,Cannon Collision Accelerator I Blueprint,1
 Rig,Cannon Collision Accelerator I,Charred Micro Circuit,95
 Rig,Cannon Collision Accelerator I,Contaminated Nanite Compound,14
-Rig,Cannon Collision Accelerator II,Cannon Collision Accelerator II Blueprint,1
 Rig,Cannon Collision Accelerator II,Fried Interface Circuit,158
 Rig,Cannon Collision Accelerator II,Contaminated Nanite Compound,35
-Rig,Cannon Collision Accelerator III,Cannon Collision Accelerator III Blueprint,1
 Rig,Cannon Collision Accelerator III,Tripped Power Circuit,296
 Rig,Cannon Collision Accelerator III,Contaminated Nanite Compound,87
-Rig,Cannon Ambit Extension I,Cannon Ambit Extension I Blueprint,1
 Rig,Cannon Ambit Extension I,Charred Micro Circuit,68
 Rig,Cannon Ambit Extension I,Contaminated Nanite Compound,17
-Rig,Cannon Ambit Extension II,Cannon Ambit Extension II Blueprint,1
 Rig,Cannon Ambit Extension II,Fried Interface Circuit,113
 Rig,Cannon Ambit Extension II,Contaminated Nanite Compound,41
-Rig,Cannon Ambit Extension III,Cannon Ambit Extension III Blueprint,1
 Rig,Cannon Ambit Extension III,Tripped Power Circuit,211
 Rig,Cannon Ambit Extension III,Contaminated Nanite Compound,102
-Rig,Cannon Burst Aerator I,Cannon Burst Aerator I Blueprint,1
 Rig,Cannon Burst Aerator I,Charred Micro Circuit,88
 Rig,Cannon Burst Aerator I,Contaminated Nanite Compound,16
-Rig,Cannon Burst Aerator II,Cannon Burst Aerator II Blueprint,1
 Rig,Cannon Burst Aerator II,Fried Interface Circuit,146
 Rig,Cannon Burst Aerator II,Contaminated Nanite Compound,38
-Rig,Cannon Burst Aerator III,Cannon Burst Aerator III Blueprint,1
 Rig,Cannon Burst Aerator III,Tripped Power Circuit,273
 Rig,Cannon Burst Aerator III,Contaminated Nanite Compound,95
-Rig,Cannon Metastasis Adjuster I,Cannon Metastasis Adjuster I Blueprint,1
 Rig,Cannon Metastasis Adjuster I,Charred Micro Circuit,28
 Rig,Cannon Metastasis Adjuster I,Contaminated Nanite Compound,12
-Rig,Cannon Metastasis Adjuster II,Cannon Metastasis Adjuster II Blueprint,1
 Rig,Cannon Metastasis Adjuster II,Fried Interface Circuit,47
 Rig,Cannon Metastasis Adjuster II,Contaminated Nanite Compound,30
-Rig,Cannon Metastasis Adjuster III,Cannon Metastasis Adjuster III Blueprint,1
 Rig,Cannon Metastasis Adjuster III,Tripped Power Circuit,87
 Rig,Cannon Metastasis Adjuster III,Contaminated Nanite Compound,74
-Rig,Decomposer Collision Accelerator I,Decomposer Collision Accelerator I Blueprint,1
 Rig,Decomposer Collision Accelerator I,Smashed Trigger Unit,48
 Rig,Decomposer Collision Accelerator I,Conductive Polymer,56
-Rig,Decomposer Collision Accelerator II,Decomposer Collision Accelerator II Blueprint,1
 Rig,Decomposer Collision Accelerator II,Damaged Close-in Weapon System,79
 Rig,Decomposer Collision Accelerator II,Conductive Polymer,139
-Rig,Decomposer Collision Accelerator III,Decomposer Collision Accelerator III Blueprint,1
 Rig,Decomposer Collision Accelerator III,Scorched Telemetry Processor,148
 Rig,Decomposer Collision Accelerator III,Conductive Polymer,347
-Rig,Decomposer Ambit Extension I,Decomposer Ambit Extension I Blueprint,1
 Rig,Decomposer Ambit Extension I,Smashed Trigger Unit,34
 Rig,Decomposer Ambit Extension I,Conductive Polymer,65
-Rig,Decomposer Ambit Extension II,Decomposer Ambit Extension II Blueprint,1
 Rig,Decomposer Ambit Extension II,Damaged Close-in Weapon System,57
 Rig,Decomposer Ambit Extension II,Conductive Polymer,162
-Rig,Decomposer Ambit Extension III,Decomposer Ambit Extension III Blueprint,1
 Rig,Decomposer Ambit Extension III,Scorched Telemetry Processor,106
 Rig,Decomposer Ambit Extension III,Conductive Polymer,405
-Rig,Decomposer Discharge Elutriation I,Decomposer Discharge Elutriation I Blueprint,1
 Rig,Decomposer Discharge Elutriation I,Smashed Trigger Unit,17
 Rig,Decomposer Discharge Elutriation I,Conductive Polymer,53
-Rig,Decomposer Discharge Elutriation II,Decomposer Discharge Elutriation II Blueprint,1
 Rig,Decomposer Discharge Elutriation II,Damaged Close-in Weapon System,27
 Rig,Decomposer Discharge Elutriation II,Conductive Polymer,132
-Rig,Decomposer Discharge Elutriation III,Decomposer Discharge Elutriation III Blueprint,1
 Rig,Decomposer Discharge Elutriation III,Scorched Telemetry Processor,51
 Rig,Decomposer Discharge Elutriation III,Conductive Polymer,330
-Rig,Decomposer Burst Aerator I,Decomposer Burst Aerator I Blueprint,1
 Rig,Decomposer Burst Aerator I,Smashed Trigger Unit,44
 Rig,Decomposer Burst Aerator I,Conductive Polymer,61
-Rig,Decomposer Burst Aerator II,Decomposer Burst Aerator II Blueprint,1
 Rig,Decomposer Burst Aerator II,Damaged Close-in Weapon System,73
 Rig,Decomposer Burst Aerator II,Conductive Polymer,152
-Rig,Decomposer Burst Aerator III,Decomposer Burst Aerator III Blueprint,1
 Rig,Decomposer Burst Aerator III,Scorched Telemetry Processor,137
 Rig,Decomposer Burst Aerator III,Conductive Polymer,380
-Rig,Decomposer Algid Hybrid Administrations Unit I,Decomposer Algid Hybrid Administrations Unit I Blueprint,1
 Rig,Decomposer Algid Hybrid Administrations Unit I,Smashed Trigger Unit,14
 Rig,Decomposer Algid Hybrid Administrations Unit I,Conductive Polymer,48
-Rig,Decomposer Algid Hybrid Administrations Unit II,Decomposer Algid Hybrid Administrations Unit II Blueprint,1
 Rig,Decomposer Algid Hybrid Administrations Unit II,Damaged Close-in Weapon System,24
 Rig,Decomposer Algid Hybrid Administrations Unit II,Conductive Polymer,119
-Rig,Decomposer Algid Hybrid Administrations Unit III,Decomposer Algid Hybrid Administrations Unit III Blueprint,1
 Rig,Decomposer Algid Hybrid Administrations Unit III,Scorched Telemetry Processor,44
 Rig,Decomposer Algid Hybrid Administrations Unit III,Conductive Polymer,296
-Rig,Warhead Flare Catalyst I,Warhead Flare Catalyst I Blueprint,1
 Rig,Warhead Flare Catalyst I,Charred Micro Circuit,57
 Rig,Warhead Flare Catalyst I,Smashed Trigger Unit,35
-Rig,Warhead Flare Catalyst II,Warhead Flare Catalyst II Blueprint,1
 Rig,Warhead Flare Catalyst II,Fried Interface Circuit,95
 Rig,Warhead Flare Catalyst II,Damaged Close-in Weapon System,58
-Rig,Warhead Flare Catalyst III,Warhead Flare Catalyst III Blueprint,1
 Rig,Warhead Flare Catalyst III,Tripped Power Circuit,178
 Rig,Warhead Flare Catalyst III,Scorched Telemetry Processor,109
-Rig,Warhead Calefaction Catalyst I,Warhead Calefaction Catalyst I Blueprint,1
 Rig,Warhead Calefaction Catalyst I,Charred Micro Circuit,98
 Rig,Warhead Calefaction Catalyst I,Smashed Trigger Unit,27
-Rig,Warhead Calefaction Catalyst II,Warhead Calefaction Catalyst II Blueprint,1
 Rig,Warhead Calefaction Catalyst II,Fried Interface Circuit,163
 Rig,Warhead Calefaction Catalyst II,Damaged Close-in Weapon System,44
-Rig,Warhead Calefaction Catalyst III,Warhead Calefaction Catalyst III Blueprint,1
 Rig,Warhead Calefaction Catalyst III,Tripped Power Circuit,305
 Rig,Warhead Calefaction Catalyst III,Scorched Telemetry Processor,83
-Rig,Warhead Rigor Catalyst I,Warhead Rigor Catalyst I Blueprint,1
 Rig,Warhead Rigor Catalyst I,Charred Micro Circuit,56
 Rig,Warhead Rigor Catalyst I,Smashed Trigger Unit,39
-Rig,Warhead Rigor Catalyst II,Warhead Rigor Catalyst II Blueprint,1
 Rig,Warhead Rigor Catalyst II,Fried Interface Circuit,93
 Rig,Warhead Rigor Catalyst II,Damaged Close-in Weapon System,64
-Rig,Warhead Rigor Catalyst III,Warhead Rigor Catalyst III Blueprint,1
 Rig,Warhead Rigor Catalyst III,Tripped Power Circuit,174
 Rig,Warhead Rigor Catalyst III,Scorched Telemetry Processor,120
-Rig,Rocket Fuel Cache Partition I,Rocket Fuel Cache Partition I Blueprint,1
 Rig,Rocket Fuel Cache Partition I,Charred Micro Circuit,38
 Rig,Rocket Fuel Cache Partition I,Smashed Trigger Unit,29
-Rig,Rocket Fuel Cache Partition II,Rocket Fuel Cache Partition II Blueprint,1
 Rig,Rocket Fuel Cache Partition II,Fried Interface Circuit,64
 Rig,Rocket Fuel Cache Partition II,Damaged Close-in Weapon System,48
-Rig,Rocket Fuel Cache Partition III,Rocket Fuel Cache Partition III Blueprint,1
 Rig,Rocket Fuel Cache Partition III,Tripped Power Circuit,119
 Rig,Rocket Fuel Cache Partition III,Scorched Telemetry Processor,90
-Rig,Hydraulic Bay Thrusters I,Hydraulic Bay Thrusters I Blueprint,1
 Rig,Hydraulic Bay Thrusters I,Charred Micro Circuit,37
 Rig,Hydraulic Bay Thrusters I,Smashed Trigger Unit,27
-Rig,Hydraulic Bay Thrusters II,Hydraulic Bay Thrusters II Blueprint,1
 Rig,Hydraulic Bay Thrusters II,Fried Interface Circuit,62
 Rig,Hydraulic Bay Thrusters II,Damaged Close-in Weapon System,45
-Rig,Hydraulic Bay Thrusters III,Hydraulic Bay Thrusters III Blueprint,1
 Rig,Hydraulic Bay Thrusters III,Tripped Power Circuit,116
 Rig,Hydraulic Bay Thrusters III,Scorched Telemetry Processor,83
-Rig,Bay Loading Accelerator I,Bay Loading Accelerator I Blueprint,1
 Rig,Bay Loading Accelerator I,Charred Micro Circuit,94
 Rig,Bay Loading Accelerator I,Smashed Trigger Unit,28
-Rig,Bay Loading Accelerator II,Bay Loading Accelerator II Blueprint,1
 Rig,Bay Loading Accelerator II,Fried Interface Circuit,156
 Rig,Bay Loading Accelerator II,Damaged Close-in Weapon System,46
-Rig,Bay Loading Accelerator III,Bay Loading Accelerator III Blueprint,1
 Rig,Bay Loading Accelerator III,Tripped Power Circuit,292
 Rig,Bay Loading Accelerator III,Scorched Telemetry Processor,86
-Rig,Core Defense Operational Solidifier I,Core Defense Operational Solidifier I Blueprint,1
 Rig,Core Defense Operational Solidifier I,Charred Micro Circuit,31
 Rig,Core Defense Operational Solidifier I,Defective Current Pump,15
-Rig,Core Defense Operational Solidifier II,Core Defense Operational Solidifier II Blueprint,1
 Rig,Core Defense Operational Solidifier II,Fried Interface Circuit,52
 Rig,Core Defense Operational Solidifier II,Defective Current Pump,37
-Rig,Core Defense Operational Solidifier III,Core Defense Operational Solidifier III Blueprint,1
 Rig,Core Defense Operational Solidifier III,Tripped Power Circuit,97
 Rig,Core Defense Operational Solidifier III,Defective Current Pump,93
-Rig,Core Defense Charge Economizer I,Core Defense Charge Economizer I Blueprint,1
 Rig,Core Defense Charge Economizer I,Charred Micro Circuit,62
 Rig,Core Defense Charge Economizer I,Defective Current Pump,20
-Rig,Core Defense Charge Economizer II,Core Defense Charge Economizer II Blueprint,1
 Rig,Core Defense Charge Economizer II,Fried Interface Circuit,103
 Rig,Core Defense Charge Economizer II,Defective Current Pump,50
-Rig,Core Defense Charge Economizer III,Core Defense Charge Economizer III Blueprint,1
 Rig,Core Defense Charge Economizer III,Tripped Power Circuit,193
 Rig,Core Defense Charge Economizer III,Defective Current Pump,124
-Rig,Core Defense Capacitor Safeguard I,Core Defense Capacitor Safeguard I Blueprint,1
 Rig,Core Defense Capacitor Safeguard I,Charred Micro Circuit,57
 Rig,Core Defense Capacitor Safeguard I,Defective Current Pump,16
-Rig,Core Defense Capacitor Safeguard II,Core Defense Capacitor Safeguard II Blueprint,1
 Rig,Core Defense Capacitor Safeguard II,Fried Interface Circuit,94
 Rig,Core Defense Capacitor Safeguard II,Defective Current Pump,39
-Rig,Core Defense Capacitor Safeguard III,Core Defense Capacitor Safeguard III Blueprint,1
 Rig,Core Defense Capacitor Safeguard III,Tripped Power Circuit,176
 Rig,Core Defense Capacitor Safeguard III,Defective Current Pump,96
-Rig,Core Defense Field Extender I,Core Defense Field Extender I Blueprint,1
 Rig,Core Defense Field Extender I,Charred Micro Circuit,96
 Rig,Core Defense Field Extender I,Defective Current Pump,22
-Rig,Core Defense Field Extender II,Core Defense Field Extender II Blueprint,1
 Rig,Core Defense Field Extender II,Fried Interface Circuit,160
 Rig,Core Defense Field Extender II,Defective Current Pump,54
-Rig,Core Defense Field Extender III,Core Defense Field Extender III Blueprint,1
 Rig,Core Defense Field Extender III,Tripped Power Circuit,300
 Rig,Core Defense Field Extender III,Defective Current Pump,134
-Rig,Anti-Explosive Screen Reinforcer I,Anti-Explosive Screen Reinforcer I Blueprint,1
 Rig,Anti-Explosive Screen Reinforcer I,Charred Micro Circuit,62
 Rig,Anti-Explosive Screen Reinforcer I,Defective Current Pump,20
-Rig,Anti-Explosive Screen Reinforcer II,Anti-Explosive Screen Reinforcer II Blueprint,1
 Rig,Anti-Explosive Screen Reinforcer II,Fried Interface Circuit,102
 Rig,Anti-Explosive Screen Reinforcer II,Defective Current Pump,49
-Rig,Anti-Explosive Screen Reinforcer III,Anti-Explosive Screen Reinforcer III Blueprint,1
 Rig,Anti-Explosive Screen Reinforcer III,Tripped Power Circuit,192
 Rig,Anti-Explosive Screen Reinforcer III,Defective Current Pump,123
-Rig,Anti-EM Screen Reinforcer I,Anti-EM Screen Reinforcer I Blueprint,1
 Rig,Anti-EM Screen Reinforcer I,Charred Micro Circuit,62
 Rig,Anti-EM Screen Reinforcer I,Defective Current Pump,20
-Rig,Anti-EM Screen Reinforcer II,Anti-EM Screen Reinforcer II Blueprint,1
 Rig,Anti-EM Screen Reinforcer II,Fried Interface Circuit,102
 Rig,Anti-EM Screen Reinforcer II,Defective Current Pump,49
-Rig,Anti-EM Screen Reinforcer III,Anti-EM Screen Reinforcer III Blueprint,1
 Rig,Anti-EM Screen Reinforcer III,Tripped Power Circuit,192
 Rig,Anti-EM Screen Reinforcer III,Defective Current Pump,123
-Rig,Anti-Kinetic Screen Reinforcer I,Anti-Kinetic Screen Reinforcer I Blueprint,1
 Rig,Anti-Kinetic Screen Reinforcer I,Charred Micro Circuit,62
 Rig,Anti-Kinetic Screen Reinforcer I,Defective Current Pump,20
-Rig,Anti-Kinetic Screen Reinforcer II,Anti-Kinetic Screen Reinforcer II Blueprint,1
 Rig,Anti-Kinetic Screen Reinforcer II,Fried Interface Circuit,102
 Rig,Anti-Kinetic Screen Reinforcer II,Defective Current Pump,49
-Rig,Anti-Kinetic Screen Reinforcer III,Anti-Kinetic Screen Reinforcer III Blueprint,1
 Rig,Anti-Kinetic Screen Reinforcer III,Tripped Power Circuit,192
 Rig,Anti-Kinetic Screen Reinforcer III,Defective Current Pump,123
-Rig,Anti-Thermal Screen Reinforcer I,Anti-Thermal Screen Reinforcer I Blueprint,1
 Rig,Anti-Thermal Screen Reinforcer I,Charred Micro Circuit,62
 Rig,Anti-Thermal Screen Reinforcer I,Defective Current Pump,20
-Rig,Anti-Thermal Screen Reinforcer II,Anti-Thermal Screen Reinforcer II Blueprint,1
 Rig,Anti-Thermal Screen Reinforcer II,Fried Interface Circuit,102
 Rig,Anti-Thermal Screen Reinforcer II,Defective Current Pump,49
-Rig,Anti-Thermal Screen Reinforcer III,Anti-Thermal Screen Reinforcer III Blueprint,1
 Rig,Anti-Thermal Screen Reinforcer III,Tripped Power Circuit,192
 Rig,Anti-Thermal Screen Reinforcer III,Defective Current Pump,123
-Rig,Nanobot Accelerator I,Nanobot Accelerator I Blueprint,1
 Rig,Nanobot Accelerator I,Smashed Trigger Unit,16
 Rig,Nanobot Accelerator I,Contaminated Lorentz Fluid,8
-Rig,Nanobot Accelerator II,Nanobot Accelerator II Blueprint,1
 Rig,Nanobot Accelerator II,Damaged Close-in Weapon System,26
 Rig,Nanobot Accelerator II,Contaminated Lorentz Fluid,19
-Rig,Nanobot Accelerator III,Nanobot Accelerator III Blueprint,1
 Rig,Nanobot Accelerator III,Scorched Telemetry Processor,49
 Rig,Nanobot Accelerator III,Contaminated Lorentz Fluid,47
-Rig,Auxiliary Nano Pump I,Auxiliary Nano Pump I Blueprint,1
 Rig,Auxiliary Nano Pump I,Smashed Trigger Unit,31
 Rig,Auxiliary Nano Pump I,Contaminated Lorentz Fluid,10
-Rig,Auxiliary Nano Pump II,Auxiliary Nano Pump II Blueprint,1
 Rig,Auxiliary Nano Pump II,Damaged Close-in Weapon System,52
 Rig,Auxiliary Nano Pump II,Contaminated Lorentz Fluid,25
-Rig,Auxiliary Nano Pump III,Auxiliary Nano Pump III Blueprint,1
 Rig,Auxiliary Nano Pump III,Scorched Telemetry Processor,97
 Rig,Auxiliary Nano Pump III,Contaminated Lorentz Fluid,62
-Rig,Repair Augmentor I,Repair Augmentor I Blueprint,1
 Rig,Repair Augmentor I,Smashed Trigger Unit,29
 Rig,Repair Augmentor I,Contaminated Lorentz Fluid,8
-Rig,Repair Augmentor II,Repair Augmentor II Blueprint,1
 Rig,Repair Augmentor II,Damaged Close-in Weapon System,47
 Rig,Repair Augmentor II,Contaminated Lorentz Fluid,20
-Rig,Repair Augmentor III,Repair Augmentor III Blueprint,1
 Rig,Repair Augmentor III,Scorched Telemetry Processor,88
 Rig,Repair Augmentor III,Contaminated Lorentz Fluid,48
-Rig,Trimark Armor Pump I,Trimark Armor Pump I Blueprint,1
 Rig,Trimark Armor Pump I,Smashed Trigger Unit,48
 Rig,Trimark Armor Pump I,Contaminated Lorentz Fluid,11
-Rig,Trimark Armor Pump II,Trimark Armor Pump II Blueprint,1
 Rig,Trimark Armor Pump II,Damaged Close-in Weapon System,80
 Rig,Trimark Armor Pump II,Contaminated Lorentz Fluid,27
-Rig,Trimark Armor Pump III,Trimark Armor Pump III Blueprint,1
 Rig,Trimark Armor Pump III,Scorched Telemetry Processor,150
 Rig,Trimark Armor Pump III,Contaminated Lorentz Fluid,67
-Rig,Anti-Explosive Pump I,Anti-Explosive Pump I Blueprint,1
 Rig,Anti-Explosive Pump I,Smashed Trigger Unit,31
 Rig,Anti-Explosive Pump I,Contaminated Lorentz Fluid,10
-Rig,Anti-Explosive Pump II,Anti-Explosive Pump II Blueprint,1
 Rig,Anti-Explosive Pump II,Damaged Close-in Weapon System,51
 Rig,Anti-Explosive Pump II,Contaminated Lorentz Fluid,25
-Rig,Anti-Explosive Pump III,Anti-Explosive Pump III Blueprint,1
 Rig,Anti-Explosive Pump III,Scorched Telemetry Processor,96
 Rig,Anti-Explosive Pump III,Contaminated Lorentz Fluid,62
-Rig,Anti-EM Pump I,Anti-EM Pump I Blueprint,1
 Rig,Anti-EM Pump I,Smashed Trigger Unit,31
 Rig,Anti-EM Pump I,Contaminated Lorentz Fluid,10
-Rig,Anti-EM Pump II,Anti-EM Pump II Blueprint,1
 Rig,Anti-EM Pump II,Damaged Close-in Weapon System,51
 Rig,Anti-EM Pump II,Contaminated Lorentz Fluid,25
-Rig,Anti-EM Pump III,Anti-EM Pump III Blueprint,1
 Rig,Anti-EM Pump III,Scorched Telemetry Processor,96
 Rig,Anti-EM Pump III,Contaminated Lorentz Fluid,62
-Rig,Anti-Kinetic Pump I,Anti-Kinetic Pump I Blueprint,1
 Rig,Anti-Kinetic Pump I,Smashed Trigger Unit,31
 Rig,Anti-Kinetic Pump I,Contaminated Lorentz Fluid,10
-Rig,Anti-Kinetic Pump II,Anti-Kinetic Pump II Blueprint,1
 Rig,Anti-Kinetic Pump II,Damaged Close-in Weapon System,51
 Rig,Anti-Kinetic Pump II,Contaminated Lorentz Fluid,25
-Rig,Anti-Kinetic Pump III,Anti-Kinetic Pump III Blueprint,1
 Rig,Anti-Kinetic Pump III,Scorched Telemetry Processor,96
 Rig,Anti-Kinetic Pump III,Contaminated Lorentz Fluid,62
-Rig,Anti-Thermal Pump I,Anti-Thermal Pump I Blueprint,1
 Rig,Anti-Thermal Pump I,Smashed Trigger Unit,31
 Rig,Anti-Thermal Pump I,Contaminated Lorentz Fluid,10
-Rig,Anti-Thermal Pump II,Anti-Thermal Pump II Blueprint,1
 Rig,Anti-Thermal Pump II,Damaged Close-in Weapon System,51
 Rig,Anti-Thermal Pump II,Contaminated Lorentz Fluid,25
-Rig,Anti-Thermal Pump III,Anti-Thermal Pump III Blueprint,1
 Rig,Anti-Thermal Pump III,Scorched Telemetry Processor,96
 Rig,Anti-Thermal Pump III,Contaminated Lorentz Fluid,62
-Rig,Dynamic Fuel Valve I,Dynamic Fuel Valve I Blueprint,1
 Rig,Dynamic Fuel Valve I,Charred Micro Circuit,30
 Rig,Dynamic Fuel Valve I,Contaminated Nanite Compound,14
-Rig,Dynamic Fuel Valve II,Dynamic Fuel Valve II Blueprint,1
 Rig,Dynamic Fuel Valve II,Fried Interface Circuit,49
 Rig,Dynamic Fuel Valve II,Contaminated Nanite Compound,34
-Rig,Dynamic Fuel Valve III,Dynamic Fuel Valve III Blueprint,1
 Rig,Dynamic Fuel Valve III,Tripped Power Circuit,91
 Rig,Dynamic Fuel Valve III,Contaminated Nanite Compound,85
-Rig,Auxiliary Thrusters I,Auxiliary Thrusters I Blueprint,1
 Rig,Auxiliary Thrusters I,Charred Micro Circuit,98
 Rig,Auxiliary Thrusters I,Contaminated Nanite Compound,14
-Rig,Auxiliary Thrusters II,Auxiliary Thrusters II Blueprint,1
 Rig,Auxiliary Thrusters II,Fried Interface Circuit,163
 Rig,Auxiliary Thrusters II,Contaminated Nanite Compound,33
-Rig,Auxiliary Thrusters III,Auxiliary Thrusters III Blueprint,1
 Rig,Auxiliary Thrusters III,Tripped Power Circuit,305
 Rig,Auxiliary Thrusters III,Contaminated Nanite Compound,83
-Rig,Polycarbon Engine Housing I,Polycarbon Engine Housing I Blueprint,1
 Rig,Polycarbon Engine Housing I,Charred Micro Circuit,68
 Rig,Polycarbon Engine Housing I,Contaminated Nanite Compound,14
-Rig,Polycarbon Engine Housing II,Polycarbon Engine Housing II Blueprint,1
 Rig,Polycarbon Engine Housing II,Fried Interface Circuit,113
 Rig,Polycarbon Engine Housing II,Contaminated Nanite Compound,35
-Rig,Polycarbon Engine Housing III,Polycarbon Engine Housing III Blueprint,1
 Rig,Polycarbon Engine Housing III,Tripped Power Circuit,212
 Rig,Polycarbon Engine Housing III,Contaminated Nanite Compound,87
-Rig,Cargohold Optimization I,Cargohold Optimization I Blueprint,1
 Rig,Cargohold Optimization I,Charred Micro Circuit,68
 Rig,Cargohold Optimization I,Contaminated Nanite Compound,17
-Rig,Cargohold Optimization II,Cargohold Optimization II Blueprint,1
 Rig,Cargohold Optimization II,Fried Interface Circuit,113
 Rig,Cargohold Optimization II,Contaminated Nanite Compound,43
-Rig,Cargohold Optimization III,Cargohold Optimization III Blueprint,1
 Rig,Cargohold Optimization III,Tripped Power Circuit,211
 Rig,Cargohold Optimization III,Contaminated Nanite Compound,106
-Rig,Higgs Anchor I,Higgs Anchor I Blueprint,1
 Rig,Higgs Anchor I,Charred Micro Circuit,82
 Rig,Higgs Anchor I,Contaminated Nanite Compound,30
-Rig,Higgs Anchor II,Higgs Anchor II Blueprint,1
 Rig,Higgs Anchor II,Fried Interface Circuit,137
 Rig,Higgs Anchor II,Contaminated Nanite Compound,74
-Rig,Higgs Anchor III,Higgs Anchor III Blueprint,1
 Rig,Higgs Anchor III,Tripped Power Circuit,257
 Rig,Higgs Anchor III,Contaminated Nanite Compound,185
-Rig,Warp Core Optimizer I,Warp Core Optimizer I Blueprint,1
 Rig,Warp Core Optimizer I,Charred Micro Circuit,77
 Rig,Warp Core Optimizer I,Contaminated Nanite Compound,15
-Rig,Warp Core Optimizer II,Warp Core Optimizer II Blueprint,1
 Rig,Warp Core Optimizer II,Fried Interface Circuit,129
 Rig,Warp Core Optimizer II,Contaminated Nanite Compound,37
-Rig,Warp Core Optimizer III,Warp Core Optimizer III Blueprint,1
 Rig,Warp Core Optimizer III,Tripped Power Circuit,241
 Rig,Warp Core Optimizer III,Contaminated Nanite Compound,91
-Rig,Hyperspatial Velocity Optimizer I,Hyperspatial Velocity Optimizer I Blueprint,1
 Rig,Hyperspatial Velocity Optimizer I,Charred Micro Circuit,95
 Rig,Hyperspatial Velocity Optimizer I,Contaminated Nanite Compound,17
-Rig,Hyperspatial Velocity Optimizer II,Hyperspatial Velocity Optimizer II Blueprint,1
 Rig,Hyperspatial Velocity Optimizer II,Fried Interface Circuit,158
 Rig,Hyperspatial Velocity Optimizer II,Contaminated Nanite Compound,41
-Rig,Hyperspatial Velocity Optimizer III,Hyperspatial Velocity Optimizer III Blueprint,1
 Rig,Hyperspatial Velocity Optimizer III,Tripped Power Circuit,295
 Rig,Hyperspatial Velocity Optimizer III,Contaminated Nanite Compound,103
-Rig,Semiconductor Memory Cell I,Semiconductor Memory Cell I Blueprint,1
 Rig,Semiconductor Memory Cell I,Smashed Trigger Unit,43
 Rig,Semiconductor Memory Cell I,Conductive Polymer,50
-Rig,Semiconductor Memory Cell II,Semiconductor Memory Cell II Blueprint,1
 Rig,Semiconductor Memory Cell II,Damaged Close-in Weapon System,71
 Rig,Semiconductor Memory Cell II,Conductive Polymer,125
-Rig,Semiconductor Memory Cell III,Semiconductor Memory Cell III Blueprint,1
 Rig,Semiconductor Memory Cell III,Scorched Telemetry Processor,133
 Rig,Semiconductor Memory Cell III,Conductive Polymer,313
-Rig,Capacitor Control Circuit I,Capacitor Control Circuit I Blueprint,1
 Rig,Capacitor Control Circuit I,Smashed Trigger Unit,40
 Rig,Capacitor Control Circuit I,Conductive Polymer,65
-Rig,Capacitor Control Circuit II,Capacitor Control Circuit II Blueprint,1
 Rig,Capacitor Control Circuit II,Damaged Close-in Weapon System,66
 Rig,Capacitor Control Circuit II,Conductive Polymer,161
-Rig,Capacitor Control Circuit III,Capacitor Control Circuit III Blueprint,1
 Rig,Capacitor Control Circuit III,Scorched Telemetry Processor,123
 Rig,Capacitor Control Circuit III,Conductive Polymer,403
-Rig,Ancillary Powergrid Router I,Ancillary Powergrid Router I Blueprint,1
 Rig,Ancillary Powergrid Router I,Smashed Trigger Unit,20
 Rig,Ancillary Powergrid Router I,Conductive Polymer,56
-Rig,Ancillary Powergrid Router II,Ancillary Powergrid Router II Blueprint,1
 Rig,Ancillary Powergrid Router II,Damaged Close-in Weapon System,34
 Rig,Ancillary Powergrid Router II,Conductive Polymer,138
-Rig,Ancillary Powergrid Router III,Ancillary Powergrid Router III Blueprint,1
 Rig,Ancillary Powergrid Router III,Scorched Telemetry Processor,63
 Rig,Ancillary Powergrid Router III,Conductive Polymer,345
-Rig,Targeting System Subcontroller I,Targeting System Subcontroller I Blueprint,1
 Rig,Targeting System Subcontroller I,Smashed Trigger Unit,15
 Rig,Targeting System Subcontroller I,Conductive Polymer,56
-Rig,Targeting System Subcontroller II,Targeting System Subcontroller II Blueprint,1
 Rig,Targeting System Subcontroller II,Damaged Close-in Weapon System,25
 Rig,Targeting System Subcontroller II,Conductive Polymer,139
-Rig,Targeting System Subcontroller III,Targeting System Subcontroller III Blueprint,1
 Rig,Targeting System Subcontroller III,Scorched Telemetry Processor,47
 Rig,Targeting System Subcontroller III,Conductive Polymer,346
-Rig,Gravity Capacitor Upgrade I,Gravity Capacitor Upgrade I Blueprint,1
 Rig,Gravity Capacitor Upgrade I,Charred Micro Circuit,45
 Rig,Gravity Capacitor Upgrade I,Contaminated Nanite Compound,8
-Rig,Gravity Capacitor Upgrade II,Gravity Capacitor Upgrade II Blueprint,1
 Rig,Gravity Capacitor Upgrade II,Fried Interface Circuit,75
 Rig,Gravity Capacitor Upgrade II,Contaminated Nanite Compound,19
-Rig,Gravity Capacitor Upgrade III,Gravity Capacitor Upgrade III Blueprint,1
 Rig,Gravity Capacitor Upgrade III,Tripped Power Circuit,141
 Rig,Gravity Capacitor Upgrade III,Contaminated Nanite Compound,47
-Rig,Emission Scope Sharpener I,Emission Scope Sharpener I Blueprint,1
 Rig,Emission Scope Sharpener I,Charred Micro Circuit,26
 Rig,Emission Scope Sharpener I,Contaminated Nanite Compound,8
-Rig,Emission Scope Sharpener II,Emission Scope Sharpener II Blueprint,1
 Rig,Emission Scope Sharpener II,Fried Interface Circuit,42
 Rig,Emission Scope Sharpener II,Contaminated Nanite Compound,20
-Rig,Emission Scope Sharpener III,Emission Scope Sharpener III Blueprint,1
 Rig,Emission Scope Sharpener III,Tripped Power Circuit,79
 Rig,Emission Scope Sharpener III,Contaminated Nanite Compound,49
-Rig,Miner Efficiency Upgrade I,Miner Efficiency Upgrade I Blueprint,1
 Rig,Miner Efficiency Upgrade I,Smashed Trigger Unit,47
 Rig,Miner Efficiency Upgrade I,Conductive Polymer,57
-Rig,Miner Efficiency Upgrade II,Miner Efficiency Upgrade II Blueprint,1
 Rig,Miner Efficiency Upgrade II,Damaged Close-in Weapon System,78
 Rig,Miner Efficiency Upgrade II,Conductive Polymer,143
-Rig,Miner Efficiency Upgrade III,Miner Efficiency Upgrade III Blueprint,1
 Rig,Miner Efficiency Upgrade III,Scorched Telemetry Processor,146
 Rig,Miner Efficiency Upgrade III,Conductive Polymer,357
-Rig,Miner Circulation Accelerator I,Miner Circulation Accelerator I Blueprint,1
 Rig,Miner Circulation Accelerator I,Smashed Trigger Unit,30
 Rig,Miner Circulation Accelerator I,Conductive Polymer,73
-Rig,Miner Circulation Accelerator II,Miner Circulation Accelerator II Blueprint,1
 Rig,Miner Circulation Accelerator II,Damaged Close-in Weapon System,50
 Rig,Miner Circulation Accelerator II,Conductive Polymer,182
-Rig,Miner Circulation Accelerator III,Miner Circulation Accelerator III Blueprint,1
 Rig,Miner Circulation Accelerator III,Scorched Telemetry Processor,93
 Rig,Miner Circulation Accelerator III,Conductive Polymer,454
-Rig,Miner Range Controller I,Miner Range Controller I Blueprint,1
 Rig,Miner Range Controller I,Smashed Trigger Unit,18
 Rig,Miner Range Controller I,Conductive Polymer,51
-Rig,Miner Range Controller II,Miner Range Controller II Blueprint,1
 Rig,Miner Range Controller II,Damaged Close-in Weapon System,30
 Rig,Miner Range Controller II,Conductive Polymer,126
-Rig,Miner Range Controller III,Miner Range Controller III Blueprint,1
 Rig,Miner Range Controller III,Scorched Telemetry Processor,55
 Rig,Miner Range Controller III,Conductive Polymer,314
-Rig,Miner Algid Optimizer I,Miner Algid Optimizer I Blueprint,1
 Rig,Miner Algid Optimizer I,Smashed Trigger Unit,25
 Rig,Miner Algid Optimizer I,Conductive Polymer,44
-Rig,Miner Algid Optimizer II,Miner Algid Optimizer II Blueprint,1
 Rig,Miner Algid Optimizer II,Damaged Close-in Weapon System,42
 Rig,Miner Algid Optimizer II,Conductive Polymer,110
-Rig,Miner Algid Optimizer III,Miner Algid Optimizer III Blueprint,1
 Rig,Miner Algid Optimizer III,Scorched Telemetry Processor,78
 Rig,Miner Algid Optimizer III,Conductive Polymer,274
-Rig,Transverse Bulkhead I,Transverse Bulkhead I Blueprint,1
 Rig,Transverse Bulkhead I,Charred Micro Circuit,150
 Rig,Transverse Bulkhead I,Contaminated Lorentz Fluid,17
-Rig,Transverse Bulkhead II,Transverse Bulkhead II Blueprint,1
 Rig,Transverse Bulkhead II,Fried Interface Circuit,250
 Rig,Transverse Bulkhead II,Contaminated Lorentz Fluid,42
-Rig,Transverse Bulkhead III,Transverse Bulkhead III Blueprint,1
 Rig,Transverse Bulkhead III,Tripped Power Circuit,469
 Rig,Transverse Bulkhead III,Contaminated Lorentz Fluid,105
-Rig,Anti-Explosive Transverse Bulkhead I,Anti-Explosive Transverse Bulkhead I Blueprint,1
 Rig,Anti-Explosive Transverse Bulkhead I,Charred Micro Circuit,86
 Rig,Anti-Explosive Transverse Bulkhead I,Contaminated Lorentz Fluid,15
-Rig,Anti-Explosive Transverse Bulkhead II,Anti-Explosive Transverse Bulkhead II Blueprint,1
 Rig,Anti-Explosive Transverse Bulkhead II,Fried Interface Circuit,143
 Rig,Anti-Explosive Transverse Bulkhead II,Contaminated Lorentz Fluid,38
-Rig,Anti-Explosive Transverse Bulkhead III,Anti-Explosive Transverse Bulkhead III Blueprint,1
 Rig,Anti-Explosive Transverse Bulkhead III,Tripped Power Circuit,268
 Rig,Anti-Explosive Transverse Bulkhead III,Contaminated Lorentz Fluid,93
-Rig,Anti-EM Transverse Bulkhead I,Anti-EM Transverse Bulkhead I Blueprint,1
 Rig,Anti-EM Transverse Bulkhead I,Charred Micro Circuit,86
 Rig,Anti-EM Transverse Bulkhead I,Contaminated Lorentz Fluid,15
-Rig,Anti-EM Transverse Bulkhead II,Anti-EM Transverse Bulkhead II Blueprint,1
 Rig,Anti-EM Transverse Bulkhead II,Fried Interface Circuit,143
 Rig,Anti-EM Transverse Bulkhead II,Contaminated Lorentz Fluid,38
-Rig,Anti-EM Transverse Bulkhead III,Anti-EM Transverse Bulkhead III Blueprint,1
 Rig,Anti-EM Transverse Bulkhead III,Tripped Power Circuit,268
 Rig,Anti-EM Transverse Bulkhead III,Contaminated Lorentz Fluid,93
-Rig,Anti-Kinetic Transverse Bulkhead I,Anti-Kinetic Transverse Bulkhead I Blueprint,1
 Rig,Anti-Kinetic Transverse Bulkhead I,Charred Micro Circuit,86
 Rig,Anti-Kinetic Transverse Bulkhead I,Contaminated Lorentz Fluid,15
-Rig,Anti-Kinetic Transverse Bulkhead II,Anti-Kinetic Transverse Bulkhead II Blueprint,1
 Rig,Anti-Kinetic Transverse Bulkhead II,Fried Interface Circuit,143
 Rig,Anti-Kinetic Transverse Bulkhead II,Contaminated Lorentz Fluid,38
-Rig,Anti-Kinetic Transverse Bulkhead III,Anti-Kinetic Transverse Bulkhead III Blueprint,1
 Rig,Anti-Kinetic Transverse Bulkhead III,Tripped Power Circuit,268
 Rig,Anti-Kinetic Transverse Bulkhead III,Contaminated Lorentz Fluid,93
-Rig,Anti-Thermal Transverse Bulkhead I,Anti-Thermal Transverse Bulkhead I Blueprint,1
 Rig,Anti-Thermal Transverse Bulkhead I,Charred Micro Circuit,86
 Rig,Anti-Thermal Transverse Bulkhead I,Contaminated Lorentz Fluid,15
-Rig,Anti-Thermal Transverse Bulkhead II,Anti-Thermal Transverse Bulkhead II Blueprint,1
 Rig,Anti-Thermal Transverse Bulkhead II,Fried Interface Circuit,143
 Rig,Anti-Thermal Transverse Bulkhead II,Contaminated Lorentz Fluid,38
-Rig,Anti-Thermal Transverse Bulkhead III,Anti-Thermal Transverse Bulkhead III Blueprint,1
 Rig,Anti-Thermal Transverse Bulkhead III,Tripped Power Circuit,268
 Rig,Anti-Thermal Transverse Bulkhead III,Contaminated Lorentz Fluid,93
-Rig,Sentry Damage Augmentor I,Sentry Damage Augmentor I Blueprint,1
 Rig,Sentry Damage Augmentor I,Charred Micro Circuit,82
 Rig,Sentry Damage Augmentor I,Smashed Trigger Unit,23
-Rig,Sentry Damage Augmentor II,Sentry Damage Augmentor II Blueprint,1
 Rig,Sentry Damage Augmentor II,Fried Interface Circuit,137
 Rig,Sentry Damage Augmentor II,Damaged Close-in Weapon System,37
-Rig,Sentry Damage Augmentor III,Sentry Damage Augmentor III Blueprint,1
 Rig,Sentry Damage Augmentor III,Tripped Power Circuit,256
 Rig,Sentry Damage Augmentor III,Scorched Telemetry Processor,69
-Rig,Drone Scope Chip I,Drone Scope Chip I Blueprint,1
 Rig,Drone Scope Chip I,Charred Micro Circuit,58
 Rig,Drone Scope Chip I,Smashed Trigger Unit,28
-Rig,Drone Scope Chip II,Drone Scope Chip II Blueprint,1
 Rig,Drone Scope Chip II,Fried Interface Circuit,97
 Rig,Drone Scope Chip II,Damaged Close-in Weapon System,47
-Rig,Drone Scope Chip III,Drone Scope Chip III Blueprint,1
 Rig,Drone Scope Chip III,Tripped Power Circuit,181
 Rig,Drone Scope Chip III,Scorched Telemetry Processor,87
-Rig,Drone Speed Augmentor I,Drone Speed Augmentor I Blueprint,1
 Rig,Drone Speed Augmentor I,Charred Micro Circuit,86
 Rig,Drone Speed Augmentor I,Smashed Trigger Unit,25
-Rig,Drone Speed Augmentor II,Drone Speed Augmentor II Blueprint,1
 Rig,Drone Speed Augmentor II,Fried Interface Circuit,142
 Rig,Drone Speed Augmentor II,Damaged Close-in Weapon System,42
-Rig,Drone Speed Augmentor III,Drone Speed Augmentor III Blueprint,1
 Rig,Drone Speed Augmentor III,Tripped Power Circuit,266
 Rig,Drone Speed Augmentor III,Scorched Telemetry Processor,79
-Rig,Drone Control Range Augmentor I,Drone Control Range Augmentor I Blueprint,1
 Rig,Drone Control Range Augmentor I,Charred Micro Circuit,86
 Rig,Drone Control Range Augmentor I,Smashed Trigger Unit,25
-Rig,Drone Control Range Augmentor II,Drone Control Range Augmentor II Blueprint,1
 Rig,Drone Control Range Augmentor II,Fried Interface Circuit,142
 Rig,Drone Control Range Augmentor II,Damaged Close-in Weapon System,42
-Rig,Drone Control Range Augmentor III,Drone Control Range Augmentor III Blueprint,1
 Rig,Drone Control Range Augmentor III,Tripped Power Circuit,266
 Rig,Drone Control Range Augmentor III,Scorched Telemetry Processor,79
-Drone,MK3 Acolyte,MK3 Acolyte Blueprint,1
 Drone,MK3 Acolyte,Tritanium,10796
 Drone,MK3 Acolyte,Pyerite,3163
 Drone,MK3 Acolyte,Mexallon,1135
@@ -3542,7 +3093,6 @@ Drone,MK3 Acolyte,Motley Compound,334
 Drone,MK3 Acolyte,Crystal Compound,292
 Drone,MK3 Acolyte,Base Metals,100
 Drone,MK3 Acolyte,Reactive Metals,79
-Drone,MK5 Acolyte,MK5 Acolyte Blueprint,1
 Drone,MK5 Acolyte,Tritanium,45986
 Drone,MK5 Acolyte,Pyerite,8880
 Drone,MK5 Acolyte,Mexallon,3053
@@ -3553,7 +3103,6 @@ Drone,MK5 Acolyte,Motley Compound,1087
 Drone,MK5 Acolyte,Crystal Compound,951
 Drone,MK5 Acolyte,Base Metals,254
 Drone,MK5 Acolyte,Reactive Metals,290
-Drone,MK7 Acolyte,MK7 Acolyte Blueprint,1
 Drone,MK7 Acolyte,Tritanium,93228
 Drone,MK7 Acolyte,Pyerite,20352
 Drone,MK7 Acolyte,Mexallon,6190
@@ -3565,7 +3114,6 @@ Drone,MK7 Acolyte,Motley Compound,1826
 Drone,MK7 Acolyte,Crystal Compound,2083
 Drone,MK7 Acolyte,Base Metals,694
 Drone,MK7 Acolyte,Reactive Metals,547
-Drone,MK9 Acolyte,MK9 Acolyte Blueprint,1
 Drone,MK9 Acolyte,Tritanium,126232
 Drone,MK9 Acolyte,Pyerite,27382
 Drone,MK9 Acolyte,Mexallon,10684
@@ -3578,7 +3126,6 @@ Drone,MK9 Acolyte,Motley Compound,3878
 Drone,MK9 Acolyte,Crystal Compound,3402
 Drone,MK9 Acolyte,Base Metals,902
 Drone,MK9 Acolyte,Reactive Metals,949
-Drone,MK3 Hornet,MK3 Hornet Blueprint,1
 Drone,MK3 Hornet,Tritanium,11696
 Drone,MK3 Hornet,Pyerite,2929
 Drone,MK3 Hornet,Mexallon,1311
@@ -3588,7 +3135,6 @@ Drone,MK3 Hornet,Precious Alloy,277
 Drone,MK3 Hornet,Fiber Composite,377
 Drone,MK3 Hornet,Dark Compound,329
 Drone,MK3 Hornet,Heavy Metals,353
-Drone,MK5 Hornet,MK5 Hornet Blueprint,1
 Drone,MK5 Hornet,Tritanium,37644
 Drone,MK5 Hornet,Pyerite,9570
 Drone,MK5 Hornet,Mexallon,3205
@@ -3599,7 +3145,6 @@ Drone,MK5 Hornet,Precious Alloy,1019
 Drone,MK5 Hornet,Fiber Composite,1352
 Drone,MK5 Hornet,Dark Compound,981
 Drone,MK5 Hornet,Heavy Metals,927
-Drone,MK7 Hornet,MK7 Hornet Blueprint,1
 Drone,MK7 Hornet,Tritanium,79307
 Drone,MK7 Hornet,Pyerite,21375
 Drone,MK7 Hornet,Mexallon,8113
@@ -3611,7 +3156,6 @@ Drone,MK7 Hornet,Precious Alloy,1760
 Drone,MK7 Hornet,Fiber Composite,2388
 Drone,MK7 Hornet,Dark Compound,2011
 Drone,MK7 Hornet,Heavy Metals,2223
-Drone,MK9 Hornet,MK9 Hornet Blueprint,1
 Drone,MK9 Hornet,Tritanium,144834
 Drone,MK9 Hornet,Pyerite,32214
 Drone,MK9 Hornet,Mexallon,9142
@@ -3624,7 +3168,6 @@ Drone,MK9 Hornet,Precious Alloy,3385
 Drone,MK9 Hornet,Fiber Composite,3630
 Drone,MK9 Hornet,Dark Compound,3096
 Drone,MK9 Hornet,Heavy Metals,3694
-Drone,MK3 Hobgoblin,MK3 Hobgoblin Blueprint,1
 Drone,MK3 Hobgoblin,Tritanium,15551
 Drone,MK3 Hobgoblin,Pyerite,3241
 Drone,MK3 Hobgoblin,Mexallon,927
@@ -3634,7 +3177,6 @@ Drone,MK3 Hobgoblin,Lucent Compound,407
 Drone,MK3 Hobgoblin,Crystal Compound,314
 Drone,MK3 Hobgoblin,Noble Metals,373
 Drone,MK3 Hobgoblin,Toxic Metals,76
-Drone,MK5 Hobgoblin,MK5 Hobgoblin Blueprint,1
 Drone,MK5 Hobgoblin,Tritanium,43544
 Drone,MK5 Hobgoblin,Pyerite,10409
 Drone,MK5 Hobgoblin,Mexallon,2800
@@ -3645,7 +3187,6 @@ Drone,MK5 Hobgoblin,Lucent Compound,1148
 Drone,MK5 Hobgoblin,Crystal Compound,1192
 Drone,MK5 Hobgoblin,Noble Metals,1186
 Drone,MK5 Hobgoblin,Toxic Metals,235
-Drone,MK7 Hobgoblin,MK7 Hobgoblin Blueprint,1
 Drone,MK7 Hobgoblin,Tritanium,82260
 Drone,MK7 Hobgoblin,Pyerite,22806
 Drone,MK7 Hobgoblin,Mexallon,6574
@@ -3657,7 +3198,6 @@ Drone,MK7 Hobgoblin,Lucent Compound,2078
 Drone,MK7 Hobgoblin,Crystal Compound,2227
 Drone,MK7 Hobgoblin,Noble Metals,2022
 Drone,MK7 Hobgoblin,Toxic Metals,586
-Drone,MK9 Hobgoblin,MK9 Hobgoblin Blueprint,1
 Drone,MK9 Hobgoblin,Tritanium,134204
 Drone,MK9 Hobgoblin,Pyerite,36562
 Drone,MK9 Hobgoblin,Mexallon,10024
@@ -3670,7 +3210,6 @@ Drone,MK9 Hobgoblin,Lucent Compound,3747
 Drone,MK9 Hobgoblin,Crystal Compound,3646
 Drone,MK9 Hobgoblin,Noble Metals,3463
 Drone,MK9 Hobgoblin,Toxic Metals,1001
-Drone,MK3 Warrior,MK3 Warrior Blueprint,1
 Drone,MK3 Warrior,Tritanium,11953
 Drone,MK3 Warrior,Pyerite,3147
 Drone,MK3 Warrior,Mexallon,1124
@@ -3680,7 +3219,6 @@ Drone,MK3 Warrior,Condensed Alloy,386
 Drone,MK3 Warrior,Opulent Compound,375
 Drone,MK3 Warrior,Dark Compound,297
 Drone,MK3 Warrior,Reactive Metals,92
-Drone,MK5 Warrior,MK5 Warrior Blueprint,1
 Drone,MK5 Warrior,Tritanium,43748
 Drone,MK5 Warrior,Pyerite,10162
 Drone,MK5 Warrior,Mexallon,3020
@@ -3691,7 +3229,6 @@ Drone,MK5 Warrior,Condensed Alloy,1397
 Drone,MK5 Warrior,Opulent Compound,993
 Drone,MK5 Warrior,Dark Compound,1196
 Drone,MK5 Warrior,Reactive Metals,237
-Drone,MK7 Warrior,MK7 Warrior Blueprint,1
 Drone,MK7 Warrior,Tritanium,69183
 Drone,MK7 Warrior,Pyerite,20045
 Drone,MK7 Warrior,Mexallon,6749
@@ -3703,7 +3240,6 @@ Drone,MK7 Warrior,Condensed Alloy,2364
 Drone,MK7 Warrior,Opulent Compound,2766
 Drone,MK7 Warrior,Dark Compound,2189
 Drone,MK7 Warrior,Reactive Metals,535
-Drone,MK9 Warrior,MK9 Warrior Blueprint,1
 Drone,MK9 Warrior,Tritanium,118259
 Drone,MK9 Warrior,Pyerite,37851
 Drone,MK9 Warrior,Mexallon,11400
@@ -3716,7 +3252,6 @@ Drone,MK9 Warrior,Condensed Alloy,3128
 Drone,MK9 Warrior,Opulent Compound,4096
 Drone,MK9 Warrior,Dark Compound,3536
 Drone,MK9 Warrior,Reactive Metals,898
-Drone,MK5 Infiltrator,MK5 Infiltrator Blueprint,1
 Drone,MK5 Infiltrator,Tritanium,37847
 Drone,MK5 Infiltrator,Pyerite,9669
 Drone,MK5 Infiltrator,Mexallon,3155
@@ -3727,7 +3262,6 @@ Drone,MK5 Infiltrator,Lucent Compound,927
 Drone,MK5 Infiltrator,Glossy Compound,1123
 Drone,MK5 Infiltrator,Crystal Compound,978
 Drone,MK5 Infiltrator,Toxic Metals,284
-Drone,MK7 Infiltrator,MK7 Infiltrator Blueprint,1
 Drone,MK7 Infiltrator,Tritanium,83526
 Drone,MK7 Infiltrator,Pyerite,17897
 Drone,MK7 Infiltrator,Mexallon,9057
@@ -3739,7 +3273,6 @@ Drone,MK7 Infiltrator,Lucent Compound,2055
 Drone,MK7 Infiltrator,Glossy Compound,2504
 Drone,MK7 Infiltrator,Crystal Compound,2559
 Drone,MK7 Infiltrator,Toxic Metals,505
-Drone,MK9 Infiltrator,MK9 Infiltrator Blueprint,1
 Drone,MK9 Infiltrator,Tritanium,135533
 Drone,MK9 Infiltrator,Pyerite,34952
 Drone,MK9 Infiltrator,Mexallon,11015
@@ -3752,7 +3285,6 @@ Drone,MK9 Infiltrator,Lucent Compound,3237
 Drone,MK9 Infiltrator,Glossy Compound,3944
 Drone,MK9 Infiltrator,Crystal Compound,3716
 Drone,MK9 Infiltrator,Toxic Metals,905
-Drone,MK5 Vespa,MK5 Vespa Blueprint,1
 Drone,MK5 Vespa,Tritanium,33981
 Drone,MK5 Vespa,Pyerite,11445
 Drone,MK5 Vespa,Mexallon,3104
@@ -3763,7 +3295,6 @@ Drone,MK5 Vespa,Motley Compound,1087
 Drone,MK5 Vespa,Glossy Compound,861
 Drone,MK5 Vespa,Dark Compound,981
 Drone,MK5 Vespa,Base Metals,314
-Drone,MK7 Vespa,MK7 Vespa Blueprint,1
 Drone,MK7 Vespa,Tritanium,84791
 Drone,MK7 Vespa,Pyerite,22909
 Drone,MK7 Vespa,Mexallon,5840
@@ -3775,7 +3306,6 @@ Drone,MK7 Vespa,Motley Compound,2129
 Drone,MK7 Vespa,Glossy Compound,1889
 Drone,MK7 Vespa,Dark Compound,2402
 Drone,MK7 Vespa,Base Metals,570
-Drone,MK9 Vespa,MK9 Vespa Blueprint,1
 Drone,MK9 Vespa,Tritanium,115602
 Drone,MK9 Vespa,Pyerite,33985
 Drone,MK9 Vespa,Mexallon,10464
@@ -3788,7 +3318,6 @@ Drone,MK9 Vespa,Motley Compound,3796
 Drone,MK9 Vespa,Glossy Compound,3221
 Drone,MK9 Vespa,Dark Compound,3342
 Drone,MK9 Vespa,Base Metals,931
-Drone,MK5 Hammerhead,MK5 Hammerhead Blueprint,1
 Drone,MK5 Hammerhead,Tritanium,37644
 Drone,MK5 Hammerhead,Pyerite,11248
 Drone,MK5 Hammerhead,Mexallon,2952
@@ -3799,7 +3328,6 @@ Drone,MK5 Hammerhead,Fiber Composite,1312
 Drone,MK5 Hammerhead,Crystal Compound,1010
 Drone,MK5 Hammerhead,Heavy Metals,1067
 Drone,MK5 Hammerhead,Toxic Metals,248
-Drone,MK7 Hammerhead,MK7 Hammerhead Blueprint,1
 Drone,MK7 Hammerhead,Tritanium,87322
 Drone,MK7 Hammerhead,Pyerite,23727
 Drone,MK7 Hammerhead,Mexallon,5805
@@ -3811,7 +3339,6 @@ Drone,MK7 Hammerhead,Fiber Composite,2459
 Drone,MK7 Hammerhead,Crystal Compound,2382
 Drone,MK7 Hammerhead,Heavy Metals,1910
 Drone,MK7 Hammerhead,Toxic Metals,487
-Drone,MK9 Hammerhead,MK9 Hammerhead Blueprint,1
 Drone,MK9 Hammerhead,Tritanium,125568
 Drone,MK9 Hammerhead,Pyerite,30603
 Drone,MK9 Hammerhead,Mexallon,12612
@@ -3824,7 +3351,6 @@ Drone,MK9 Hammerhead,Fiber Composite,4003
 Drone,MK9 Hammerhead,Crystal Compound,4204
 Drone,MK9 Hammerhead,Heavy Metals,3202
 Drone,MK9 Hammerhead,Toxic Metals,804
-Drone,MK5 Valkyrie,MK5 Valkyrie Blueprint,1
 Drone,MK5 Valkyrie,Tritanium,43341
 Drone,MK5 Valkyrie,Pyerite,9077
 Drone,MK5 Valkyrie,Mexallon,3779
@@ -3835,7 +3361,6 @@ Drone,MK5 Valkyrie,Motley Compound,916
 Drone,MK5 Valkyrie,Lucent Compound,1110
 Drone,MK5 Valkyrie,Dark Compound,1019
 Drone,MK5 Valkyrie,Noble Metals,1186
-Drone,MK7 Valkyrie,MK7 Valkyrie Blueprint,1
 Drone,MK7 Valkyrie,Tritanium,86900
 Drone,MK7 Valkyrie,Pyerite,23829
 Drone,MK7 Valkyrie,Mexallon,6120
@@ -3847,7 +3372,6 @@ Drone,MK7 Valkyrie,Motley Compound,1993
 Drone,MK7 Valkyrie,Lucent Compound,2457
 Drone,MK7 Valkyrie,Dark Compound,2212
 Drone,MK7 Valkyrie,Noble Metals,2376
-Drone,MK9 Valkyrie,MK9 Valkyrie Blueprint,1
 Drone,MK9 Valkyrie,Tritanium,150814
 Drone,MK9 Valkyrie,Pyerite,33985
 Drone,MK9 Valkyrie,Mexallon,9748
@@ -3860,7 +3384,6 @@ Drone,MK9 Valkyrie,Motley Compound,3812
 Drone,MK9 Valkyrie,Lucent Compound,3360
 Drone,MK9 Valkyrie,Dark Compound,3254
 Drone,MK9 Valkyrie,Noble Metals,3537
-Drone,MK7 Praetor,MK7 Praetor Blueprint,1
 Drone,MK7 Praetor,Tritanium,186279
 Drone,MK7 Praetor,Pyerite,53505
 Drone,MK7 Praetor,Mexallon,15693
@@ -3872,7 +3395,6 @@ Drone,MK7 Praetor,Condensed Alloy,4681
 Drone,MK7 Praetor,Opulent Compound,6128
 Drone,MK7 Praetor,Crystal Compound,5396
 Drone,MK7 Praetor,Reactive Metals,1468
-Drone,MK9 Praetor,MK9 Praetor Blueprint,1
 Drone,MK9 Praetor,Tritanium,314095
 Drone,MK9 Praetor,Pyerite,75374
 Drone,MK9 Praetor,Mexallon,26169
@@ -3885,7 +3407,6 @@ Drone,MK9 Praetor,Condensed Alloy,10097
 Drone,MK9 Praetor,Opulent Compound,7238
 Drone,MK9 Praetor,Crystal Compound,9084
 Drone,MK9 Praetor,Reactive Metals,1833
-Drone,MK7 Wasp,MK7 Wasp Blueprint,1
 Drone,MK7 Wasp,Tritanium,228799
 Drone,MK7 Wasp,Pyerite,41233
 Drone,MK7 Wasp,Mexallon,18295
@@ -3897,7 +3418,6 @@ Drone,MK7 Wasp,Lucent Compound,4664
 Drone,MK7 Wasp,Glossy Compound,4382
 Drone,MK7 Wasp,Dark Compound,6379
 Drone,MK7 Wasp,Toxic Metals,1365
-Drone,MK9 Wasp,MK9 Wasp Blueprint,1
 Drone,MK9 Wasp,Tritanium,363521
 Drone,MK9 Wasp,Pyerite,74601
 Drone,MK9 Wasp,Mexallon,24054
@@ -3910,7 +3430,6 @@ Drone,MK9 Wasp,Lucent Compound,7218
 Drone,MK9 Wasp,Glossy Compound,7768
 Drone,MK9 Wasp,Dark Compound,9329
 Drone,MK9 Wasp,Toxic Metals,2215
-Drone,MK7 Ogre,MK7 Ogre Blueprint,1
 Drone,MK7 Ogre,Tritanium,201465
 Drone,MK7 Ogre,Pyerite,52033
 Drone,MK7 Ogre,Mexallon,18715
@@ -3922,7 +3441,6 @@ Drone,MK7 Ogre,Motley Compound,4958
 Drone,MK7 Ogre,Crystal Compound,5636
 Drone,MK7 Ogre,Base Metals,1561
 Drone,MK7 Ogre,Reactive Metals,1326
-Drone,MK9 Ogre,MK9 Ogre Blueprint,1
 Drone,MK9 Ogre,Tritanium,286990
 Drone,MK9 Ogre,Pyerite,90062
 Drone,MK9 Ogre,Mexallon,22600
@@ -3935,7 +3453,6 @@ Drone,MK9 Ogre,Motley Compound,6940
 Drone,MK9 Ogre,Crystal Compound,7871
 Drone,MK9 Ogre,Base Metals,2893
 Drone,MK9 Ogre,Reactive Metals,2255
-Drone,MK7 Berserker,MK7 Berserker Blueprint,1
 Drone,MK7 Berserker,Tritanium,184255
 Drone,MK7 Berserker,Pyerite,48351
 Drone,MK7 Berserker,Mexallon,17540
@@ -3947,7 +3464,6 @@ Drone,MK7 Berserker,Fiber Composite,5192
 Drone,MK7 Berserker,Dark Compound,5388
 Drone,MK7 Berserker,Heavy Metals,6031
 Drone,MK7 Berserker,Toxic Metals,1399
-Drone,MK9 Berserker,MK9 Berserker Blueprint,1
 Drone,MK9 Berserker,Tritanium,309312
 Drone,MK9 Berserker,Pyerite,67643
 Drone,MK9 Berserker,Mexallon,29076
@@ -3960,7 +3476,6 @@ Drone,MK9 Berserker,Fiber Composite,9784
 Drone,MK9 Berserker,Dark Compound,7007
 Drone,MK9 Berserker,Heavy Metals,8358
 Drone,MK9 Berserker,Toxic Metals,1983
-Drone,MK7 Curator,MK7 Curator Blueprint,1
 Drone,MK7 Curator,Tritanium,237905
 Drone,MK7 Curator,Pyerite,71175
 Drone,MK7 Curator,Mexallon,23497
@@ -3972,7 +3487,6 @@ Drone,MK7 Curator,Gleaming Alloy,5978
 Drone,MK7 Curator,Lucent Compound,6600
 Drone,MK7 Curator,Crystal Compound,7210
 Drone,MK7 Curator,Noble Metals,5674
-Drone,MK9 Curator,MK9 Curator Blueprint,1
 Drone,MK9 Curator,Tritanium,434469
 Drone,MK9 Curator,Pyerite,107262
 Drone,MK9 Curator,Mexallon,28581
@@ -3985,7 +3499,6 @@ Drone,MK9 Curator,Gleaming Alloy,8872
 Drone,MK9 Curator,Lucent Compound,12083
 Drone,MK9 Curator,Crystal Compound,12821
 Drone,MK9 Curator,Noble Metals,9829
-Drone,MK7 Warden,MK7 Warden Blueprint,1
 Drone,MK7 Warden,Tritanium,269541
 Drone,MK7 Warden,Pyerite,57369
 Drone,MK7 Warden,Mexallon,18987
@@ -3997,7 +3510,6 @@ Drone,MK7 Warden,Opulent Compound,7446
 Drone,MK7 Warden,Dark Compound,7404
 Drone,MK7 Warden,Heavy Metals,6734
 Drone,MK7 Warden,Reactive Metals,1702
-Drone,MK9 Warden,MK9 Warden Blueprint,1
 Drone,MK9 Warden,Tritanium,368701
 Drone,MK9 Warden,Pyerite,92284
 Drone,MK9 Warden,Mexallon,33041
@@ -4010,7 +3522,6 @@ Drone,MK9 Warden,Opulent Compound,11671
 Drone,MK9 Warden,Dark Compound,10078
 Drone,MK9 Warden,Heavy Metals,11872
 Drone,MK9 Warden,Reactive Metals,2611
-Drone,MK7 Guard,MK7 Guard Blueprint,1
 Drone,MK7 Guard,Tritanium,278399
 Drone,MK7 Guard,Pyerite,65346
 Drone,MK7 Guard,Mexallon,20980
@@ -4022,7 +3533,6 @@ Drone,MK7 Guard,Precious Alloy,5585
 Drone,MK7 Guard,Glossy Compound,6854
 Drone,MK7 Guard,Crystal Compound,5150
 Drone,MK7 Guard,Toxic Metals,1924
-Drone,MK9 Guard,MK9 Guard Blueprint,1
 Drone,MK9 Guard,Tritanium,348771
 Drone,MK9 Guard,Pyerite,87936
 Drone,MK9 Guard,Mexallon,30398
@@ -4035,7 +3545,6 @@ Drone,MK9 Guard,Precious Alloy,6608
 Drone,MK9 Guard,Glossy Compound,10153
 Drone,MK9 Guard,Crystal Compound,10937
 Drone,MK9 Guard,Toxic Metals,2975
-Drone,MK7 Bouncer,MK7 Bouncer Blueprint,1
 Drone,MK7 Bouncer,Tritanium,258152
 Drone,MK7 Bouncer,Pyerite,60437
 Drone,MK7 Bouncer,Mexallon,21819
@@ -4047,7 +3556,6 @@ Drone,MK7 Bouncer,Motley Compound,6134
 Drone,MK7 Bouncer,Dark Compound,6868
 Drone,MK7 Bouncer,Base Metals,1661
 Drone,MK7 Bouncer,Noble Metals,7730
-Drone,MK9 Bouncer,MK9 Bouncer Blueprint,1
 Drone,MK9 Bouncer,Tritanium,406568
 Drone,MK9 Bouncer,Pyerite,84070
 Drone,MK9 Bouncer,Mexallon,30068
@@ -4060,8 +3568,6 @@ Drone,MK9 Bouncer,Motley Compound,10301
 Drone,MK9 Bouncer,Dark Compound,11028
 Drone,MK9 Bouncer,Base Metals,2925
 Drone,MK9 Bouncer,Noble Metals,9605
-Structure,Capsuleer Outpost,Capsuleer Outpost Blueprint,1
-Structure,Standard Standup Small Missile Launcher,Standard Standup Small Missile Launcher Blueprint,1
 Structure,Standard Standup Small Missile Launcher,Tritanium,1024541
 Structure,Standard Standup Small Missile Launcher,Pyerite,212201
 Structure,Standard Standup Small Missile Launcher,Mexallon,76200
@@ -4074,7 +3580,6 @@ Structure,Standard Standup Small Missile Launcher,Supertensile Plastics,31168
 Structure,Standard Standup Small Missile Launcher,Coolant,24713
 Structure,Standard Standup Small Missile Launcher,Silicate Glass,18751
 Structure,Standard Standup Small Missile Launcher,Smartfab Units,28203
-Structure,Standard Standup Medium Missile Launcher,Standard Standup Medium Missile Launcher Blueprint,1
 Structure,Standard Standup Medium Missile Launcher,Tritanium,906142
 Structure,Standard Standup Medium Missile Launcher,Pyerite,235369
 Structure,Standard Standup Medium Missile Launcher,Mexallon,73351
@@ -4087,7 +3592,6 @@ Structure,Standard Standup Medium Missile Launcher,Supertensile Plastics,29483
 Structure,Standard Standup Medium Missile Launcher,Coolant,24806
 Structure,Standard Standup Medium Missile Launcher,Silicate Glass,17248
 Structure,Standard Standup Medium Missile Launcher,Smartfab Units,39104
-Structure,Standard Standup Large Missile Launcher,Standard Standup Large Missile Launcher Blueprint,1
 Structure,Standard Standup Large Missile Launcher,Tritanium,822381
 Structure,Standard Standup Large Missile Launcher,Pyerite,205708
 Structure,Standard Standup Large Missile Launcher,Mexallon,78306
@@ -4100,7 +3604,6 @@ Structure,Standard Standup Large Missile Launcher,Supertensile Plastics,21009
 Structure,Standard Standup Large Missile Launcher,Coolant,31339
 Structure,Standard Standup Large Missile Launcher,Silicate Glass,18174
 Structure,Standard Standup Large Missile Launcher,Smartfab Units,30811
-Structure,Standard Standup Stasis Webifier,Standard Standup Stasis Webifier Blueprint,1
 Structure,Standard Standup Stasis Webifier,Tritanium,1330697
 Structure,Standard Standup Stasis Webifier,Pyerite,330588
 Structure,Standard Standup Stasis Webifier,Mexallon,114456
@@ -4113,7 +3616,6 @@ Structure,Standard Standup Stasis Webifier,Industrial Fibers,21849
 Structure,Standard Standup Stasis Webifier,Condensates,52003
 Structure,Standard Standup Stasis Webifier,Construction Blocks,51611
 Structure,Standard Standup Stasis Webifier,Nanites,17743
-Structure,Standard Standup Warp Disruptor,Standard Standup Warp Disruptor Blueprint,1
 Structure,Standard Standup Warp Disruptor,Tritanium,1457986
 Structure,Standard Standup Warp Disruptor,Pyerite,308901
 Structure,Standard Standup Warp Disruptor,Mexallon,93597
@@ -4126,7 +3628,6 @@ Structure,Standard Standup Warp Disruptor,Polyaramids,47473
 Structure,Standard Standup Warp Disruptor,Coolant,50056
 Structure,Standard Standup Warp Disruptor,Silicate Glass,34883
 Structure,Standard Standup Warp Disruptor,Smartfab Units,49448
-Structure,Standard Standup Energy Neutralizer,Standard Standup Energy Neutralizer Blueprint,1
 Structure,Standard Standup Energy Neutralizer,Tritanium,1285962
 Structure,Standard Standup Energy Neutralizer,Pyerite,349648
 Structure,Standard Standup Energy Neutralizer,Mexallon,132053
@@ -4139,7 +3640,6 @@ Structure,Standard Standup Energy Neutralizer,Supertensile Plastics,45651
 Structure,Standard Standup Energy Neutralizer,Condensates,43126
 Structure,Standard Standup Energy Neutralizer,Construction Blocks,46720
 Structure,Standard Standup Energy Neutralizer,Silicate Glass,37850
-Structure,Industry Service Center,Industry Service Center Blueprint,1
 Structure,Industry Service Center,Tritanium,4525089
 Structure,Industry Service Center,Pyerite,1130710
 Structure,Industry Service Center,Mexallon,367419
@@ -4152,7 +3652,6 @@ Structure,Industry Service Center,Supertensile Plastics,120551
 Structure,Industry Service Center,Condensates,136350
 Structure,Industry Service Center,Construction Blocks,228392
 Structure,Industry Service Center,Silicate Glass,84213
-Structure,Structure Construction Parts,Structure Construction Parts Blueprint,1
 Structure,Structure Construction Parts,Tritanium,3002023
 Structure,Structure Construction Parts,Pyerite,806108
 Structure,Structure Construction Parts,Mexallon,330463
@@ -4165,7 +3664,6 @@ Structure,Structure Construction Parts,Industrial Fibers,7494
 Structure,Structure Construction Parts,Coolant,14894
 Structure,Structure Construction Parts,Construction Blocks,19992
 Structure,Structure Construction Parts,Silicate Glass,10052
-Structure,Structure Hangar Array,Structure Hangar Array Blueprint,1
 Structure,Structure Hangar Array,Tritanium,3384698
 Structure,Structure Hangar Array,Pyerite,888057
 Structure,Structure Hangar Array,Mexallon,254448
@@ -4178,7 +3676,6 @@ Structure,Structure Hangar Array,Polyaramids,16787
 Structure,Structure Hangar Array,Coolant,15066
 Structure,Structure Hangar Array,Construction Blocks,17841
 Structure,Structure Hangar Array,Silicate Glass,11406
-Structure,Structure Storage Bay,Structure Storage Bay Blueprint,1
 Structure,Structure Storage Bay,Tritanium,3137279
 Structure,Structure Storage Bay,Pyerite,954954
 Structure,Structure Storage Bay,Mexallon,253578
@@ -4191,7 +3688,6 @@ Structure,Structure Storage Bay,Supertensile Plastics,15027
 Structure,Structure Storage Bay,Coolant,17212
 Structure,Structure Storage Bay,Nanites,6529
 Structure,Structure Storage Bay,Smartfab Units,14664
-Structure,Structure Laboratory,Structure Laboratory Blueprint,1
 Structure,Structure Laboratory,Tritanium,3813559
 Structure,Structure Laboratory,Pyerite,847083
 Structure,Structure Laboratory,Mexallon,310154
@@ -4204,7 +3700,6 @@ Structure,Structure Laboratory,Industrial Fibers,6677
 Structure,Structure Laboratory,Condensates,16095
 Structure,Structure Laboratory,Construction Blocks,17298
 Structure,Structure Laboratory,Silicate Glass,12939
-Structure,Structure Factory,Structure Factory Blueprint,1
 Structure,Structure Factory,Tritanium,3740982
 Structure,Structure Factory,Pyerite,808617
 Structure,Structure Factory,Mexallon,285783
@@ -4217,7 +3712,6 @@ Structure,Structure Factory,Industrial Fibers,6718
 Structure,Structure Factory,Coolant,16377
 Structure,Structure Factory,Construction Blocks,20185
 Structure,Structure Factory,Nanites,6110
-Structure,Structure Repair Facility,Structure Repair Facility Blueprint,1
 Structure,Structure Repair Facility,Tritanium,3371503
 Structure,Structure Repair Facility,Pyerite,888893
 Structure,Structure Repair Facility,Mexallon,277079
@@ -4230,7 +3724,6 @@ Structure,Structure Repair Facility,Supertensile Plastics,13935
 Structure,Structure Repair Facility,Condensates,12105
 Structure,Structure Repair Facility,Silicate Glass,10355
 Structure,Structure Repair Facility,Smartfab Units,19442
-Structure,Structure Reprocessing Plant,Structure Reprocessing Plant Blueprint,1
 Structure,Structure Reprocessing Plant,Tritanium,3572737
 Structure,Structure Reprocessing Plant,Pyerite,841229
 Structure,Structure Reprocessing Plant,Mexallon,293326
@@ -4243,7 +3736,6 @@ Structure,Structure Reprocessing Plant,Supertensile Plastics,11768
 Structure,Structure Reprocessing Plant,Condensates,14086
 Structure,Structure Reprocessing Plant,Nanites,6700
 Structure,Structure Reprocessing Plant,Smartfab Units,21596
-Structure,Structure Docking Bay,Structure Docking Bay Blueprint,1
 Structure,Structure Docking Bay,Tritanium,3434182
 Structure,Structure Docking Bay,Pyerite,906454
 Structure,Structure Docking Bay,Mexallon,316537
@@ -4256,7 +3748,6 @@ Structure,Structure Docking Bay,Industrial Fibers,6087
 Structure,Structure Docking Bay,Coolant,17566
 Structure,Structure Docking Bay,Construction Blocks,20100
 Structure,Structure Docking Bay,Nanites,5417
-Structure,Structure Market Network,Structure Market Network Blueprint,1
 Structure,Structure Market Network,Tritanium,2751305
 Structure,Structure Market Network,Pyerite,806108
 Structure,Structure Market Network,Mexallon,301740
@@ -4269,7 +3760,6 @@ Structure,Structure Market Network,Polyaramids,12739
 Structure,Structure Market Network,Condensates,14912
 Structure,Structure Market Network,Construction Blocks,23652
 Structure,Structure Market Network,Silicate Glass,9308
-Structure,Structure Medical Center,Structure Medical Center Blueprint,1
 Structure,Structure Medical Center,Tritanium,3394595
 Structure,Structure Medical Center,Pyerite,859626
 Structure,Structure Medical Center,Mexallon,278239
@@ -4282,7 +3772,6 @@ Structure,Structure Medical Center,Supertensile Plastics,12305
 Structure,Structure Medical Center,Condensates,14329
 Structure,Structure Medical Center,Construction Blocks,20514
 Structure,Structure Medical Center,Nanites,6784
-Structure,Structure Office Center,Structure Office Center Blueprint,1
 Structure,Structure Office Center,Tritanium,3503460
 Structure,Structure Office Center,Pyerite,720815
 Structure,Structure Office Center,Mexallon,288684
@@ -4295,7 +3784,6 @@ Structure,Structure Office Center,Industrial Fibers,4994
 Structure,Structure Office Center,Condensates,15760
 Structure,Structure Office Center,Nanites,6710
 Structure,Structure Office Center,Smartfab Units,17801
-Structure,Structure Mission Network,Structure Mission Network Blueprint,1
 Structure,Structure Mission Network,Tritanium,3252741
 Structure,Structure Mission Network,Pyerite,924850
 Structure,Structure Mission Network,Mexallon,256769
@@ -4308,7 +3796,6 @@ Structure,Structure Mission Network,Polyaramids,14191
 Structure,Structure Mission Network,Coolant,18426
 Structure,Structure Mission Network,Silicate Glass,10302
 Structure,Structure Mission Network,Smartfab Units,15798
-Structure,Structure Electromagnetic Sensor,Structure Electromagnetic Sensor Blueprint,1
 Structure,Structure Electromagnetic Sensor,Tritanium,3447378
 Structure,Structure Electromagnetic Sensor,Pyerite,769315
 Structure,Structure Electromagnetic Sensor,Mexallon,254448
@@ -4321,7 +3808,6 @@ Structure,Structure Electromagnetic Sensor,Polyaramids,18583
 Structure,Structure Electromagnetic Sensor,Condensates,15900
 Structure,Structure Electromagnetic Sensor,Silicate Glass,11733
 Structure,Structure Electromagnetic Sensor,Smartfab Units,16095
-Structure,Structure Acceleration Coils,Structure Acceleration Coils Blueprint,1
 Structure,Structure Acceleration Coils,Tritanium,2546771
 Structure,Structure Acceleration Coils,Pyerite,801091
 Structure,Structure Acceleration Coils,Mexallon,319148
@@ -4334,7 +3820,6 @@ Structure,Structure Acceleration Coils,Polyaramids,13589
 Structure,Structure Acceleration Coils,Condensates,18292
 Structure,Structure Acceleration Coils,Nanites,7060
 Structure,Structure Acceleration Coils,Smartfab Units,16084
-Structure,Structure Advertisement Nexus,Structure Advertisement Nexus Blueprint,1
 Structure,Structure Advertisement Nexus,Tritanium,3130681
 Structure,Structure Advertisement Nexus,Pyerite,719979
 Structure,Structure Advertisement Nexus,Mexallon,331624
